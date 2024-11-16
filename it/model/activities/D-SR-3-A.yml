@@ -1,0 +1,13 @@
+#The title of this activity
+title: Sviluppa un framework per i requisiti di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Gestione efficiente ed efficace dei requisiti di sicurezza nella tua organizzazione
+#A one sentence description of the activity
+shortDescription: Crea un framework dei requisiti da utilizzare per i team di prodotto.
+#A multi-paragraph description of the activity
+longDescription: |
+  Configura un framework per i requisiti di sicurezza che aiuti i team di prodotto a individuare un insieme appropriato e completo di requisiti specifici. Questo framework deve tenere conto delle diverse tipologie e fonti di requisiti. Dovrebbe essere adattato alle abitudini e alla cultura organizzativa, fornendo una metodologia efficace e linee guida per l'individuazione e la definizione dei requisiti.
+
+  Il framework aiuta i team di progetto ad aumentare l'efficienza e l'efficacia nell'ingegneria dei requisiti. Può offrire una categorizzazione dei requisiti comuni e un certo numero di requisiti riutilizzabili. È importante ricordare che, sebbene una copia superficiale dei requisiti sia inefficace, avere a disposizione requisiti potenzialmente rilevanti da valutare è spesso molto produttivo.
+
+  Il framework fornisce inoltre indicazioni chiare sulla qualità dei requisiti e formalizza il modo in cui descriverli. Ad esempio, per le user stories, può includere indicazioni concrete su cosa descrivere nella definizione di "done", nella definizione di "ready", nella descrizione della story e nei criteri di accettazione.
