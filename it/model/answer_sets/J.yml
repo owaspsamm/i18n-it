@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, per alcuni dei nostri dati
   - 
+    #third level
+    text: Sì, per almeno la metà dei nostri dati
   - 
+    #highest level
+    text: Sì, per la maggior parte o tutti i nostri dati
