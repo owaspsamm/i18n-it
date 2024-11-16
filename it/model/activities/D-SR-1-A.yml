@@ -1,0 +1,15 @@
+#The title of this activity
+title: Identificare i requisiti di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione dei principali requisiti di sicurezza durante lo sviluppo
+#A one sentence description of the activity
+shortDescription: Gli obiettivi di sicurezza di alto livello delle applicazioni sono mappati ai requisiti funzionali.
+#A multi-paragraph description of the activity
+longDescription: |
+  Esegui una revisione dei requisiti funzionali del progetto software. Identifica i requisiti di sicurezza pertinenti (cioè le aspettative) per questa funzionalità, ragionando sulla riservatezza, integrità o disponibilità desiderate del servizio o dei dati offerti dal progetto software. I requisiti devono indicare l'obiettivo (ad esempio, "i dati personali per il processo di registrazione devono essere trasferiti e archiviati in modo sicuro"), senza specificare la misura concreta per raggiungerlo (ad esempio, "utilizzare TLSv1.2 per il trasferimento sicuro").
+
+  Contemporaneamente, analizza la funzionalità dal punto di vista di un attaccante per comprendere come potrebbe essere sfruttata. In questo modo puoi identificare requisiti di sicurezza aggiuntivi per il progetto software.
+
+  Gli obiettivi di sicurezza possono riguardare funzionalità di sicurezza specifiche da aggiungere all'applicazione (ad esempio, "Identificare l'utente dell'applicazione in ogni momento") oppure la qualità e il comportamento complessivo dell'applicazione (ad esempio, "Garantire che i dati personali siano adeguatamente protetti durante il transito"), che non necessariamente richiedono nuove funzionalità. 
+
+  Segui le buone pratiche per la scrittura dei requisiti di sicurezza, rendendoli specifici, misurabili, azionabili, rilevanti e limitati nel tempo (SMART). Evita di aggiungere requisiti troppo generici o non direttamente collegati all'applicazione in questione (ad esempio, "L'applicazione deve proteggere contro l'OWASP Top 10"). Anche se possono essere validi, non aggiungono valore alla discussione.
