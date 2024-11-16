@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, alcuni contenuti
   - 
+    #third level
+    text: Sì, almeno la metà
   - 
+    #highest level
+    text: Sì, la maggior parte o tutte
