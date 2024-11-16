@@ -1,0 +1,4 @@
+#Official stream name
+name: Processo Di Build
+#Multi-paragraph explanation of the stream
+description: Un processo di build coerente garantisce che il software distribuito sia prevedibile e direttamente collegato al codice sorgente. Inoltre, è possibile sfruttare il processo di build del software per svolgere diverse attività di sicurezza.
