@@ -1,0 +1,4 @@
+#Official stream name
+name: Threat Modeling
+#Multi-paragraph explanation of the stream
+description: Il threat modeling ha l'obiettivo di aiutare i team di sviluppo software a comprendere quali rischi esistono in ciò che viene realizzato, cosa potrebbe andare storto e come i rischi possono essere mitigati o risolti.
