@@ -1,0 +1,7 @@
+#Official name of this practice
+name: Architettura Di Sicurezza
+#A one sentence description of the security practice
+shortDescription: La pratica dell'architettura della sicurezza si concentra sulla gestione dei rischi architetturali per la soluzione software.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica dell'Architettura della Sicurezza (SA) si concentra sulla sicurezza dei componenti e delle tecnologie utilizzate durante la progettazione architetturale del software. La progettazione di un'architettura sicura si occupa della selezione e della composizione dei componenti che costituiscono la base della soluzione, concentrandosi sulle loro proprietà di sicurezza. La gestione delle tecnologie analizza la sicurezza delle tecnologie di supporto utilizzate durante lo sviluppo, la distribuzione e le operazioni, come gli stack di sviluppo e gli strumenti, gli strumenti di distribuzione e i sistemi operativi con i relativi strumenti.
