@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Gestione Dei Difetti
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sulla gestione dei difetti di sicurezza nel software e le relative metriche.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica della Gestione dei Difetti (DM) si concentra sulla raccolta, registrazione e analisi dei difetti di sicurezza del software, arricchendoli con informazioni utili a guidare decisioni basate su metriche.
+
+  Il primo flusso della pratica riguarda il processo di gestione e trattamento dei difetti per garantire che il software rilasciato raggiunga un determinato livello di affidabilità. Il secondo flusso si concentra sull'arricchimento delle informazioni relative ai difetti e sull'elaborazione di metriche per guidare le decisioni sulla sicurezza dei singoli progetti e sull'intero programma di garanzia della sicurezza.
+
+  In una forma avanzata, la pratica richiede una gestione dei difetti formalizzata e indipendente, oltre a informazioni correlate in tempo reale per individuare tendenze e influenzare la strategia di sicurezza.
