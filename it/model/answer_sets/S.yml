@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, per alcune politiche e standard
   - 
+    #third level
+    text: Sì, per almeno la metà delle politiche e degli standard
   - 
+    #highest level
+    text: Sì, per la maggior parte o tutte le politiche e gli standard
