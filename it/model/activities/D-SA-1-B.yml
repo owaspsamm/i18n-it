@@ -1,0 +1,11 @@
+#The title of this activity
+title: Identificare strumenti e tecnologie
+#Describe the benefit that is achieved by implementing this activity
+benefit: Trasparenza delle tecnologie che comportano rischi per la sicurezza
+#A one sentence description of the activity
+shortDescription: Individuare tecnologie, framework e integrazioni all'interno della soluzione complessiva per identificare i rischi.
+#A multi-paragraph description of the activity
+longDescription: |
+  Le persone spesso scelgono la strada più semplice nello sviluppo, distribuzione o gestione di un software. Spesso vengono integrate nuove tecnologie quando possono facilitare o accelerare il lavoro o migliorare la scalabilità della soluzione. Tuttavia, queste nuove tecnologie potrebbero introdurre nuovi rischi da gestire per l'organizzazione.
+
+  Individua le tecnologie, i framework, gli strumenti e le integrazioni più importanti utilizzati per ciascuna applicazione. Utilizza le conoscenze dell'architetto per analizzare l'ambiente di sviluppo e di funzionamento, oltre agli artefatti. Successivamente, valuta questi elementi in base alla loro sicurezza e segnala i risultati più rilevanti per la loro gestione.
