@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, per parte della formazione
   - 
+    #third level
+    text: Sì, per almeno la metà della formazione
   - 
+    #highest level
+    text: Sì, per la maggior parte o per tutta la formazione
