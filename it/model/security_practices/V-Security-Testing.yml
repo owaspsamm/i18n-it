@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Test Di Sicurezza
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sul rilevamento e la risoluzione dei problemi di sicurezza di base attraverso l'automazione, consentendo test manuali per concentrarsi su vettori di attacco più complessi.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica di Security Testing (ST) sfrutta il fatto che, mentre i test di sicurezza automatizzati sono veloci e si scalano bene per numerose applicazioni, i test approfonditi basati su una buona conoscenza di un'applicazione e della sua logica aziendale sono spesso possibili solo tramite test di sicurezza manuali condotti da esperti. Ogni flusso quindi ha un approccio centrale.
+
+  Il primo flusso si concentra sull'istituzione di una baseline di sicurezza comune per rilevare automaticamente quelli che vengono definiti "low hanging fruit". I test automatizzati vengono progressivamente personalizzati per ciascuna applicazione e la loro frequenza di esecuzione aumenta per rilevare più bug e regressioni il prima possibile, quanto più vicino alla loro origine. Più bug i processi automatizzati riescono a rilevare, più tempo gli esperti hanno per utilizzare la loro conoscenza e creatività per concentrarsi su vettori di attacco più complessi e garantire un testing approfondito dell'applicazione nel secondo flusso. Poiché la revisione manuale è lenta e difficile da scalare, i revisori danno priorità ai test dei componenti in base al loro rischio, ai cambiamenti rilevanti recenti o ai grandi rilasci imminenti. Le organizzazioni possono anche accedere a competenze esterne, ad esempio partecipando a programmi di bug bounty.
+
+  A differenza della pratica di Testing basato sui requisiti, che si concentra sulla verifica dell'implementazione corretta dei requisiti da parte delle applicazioni, l'obiettivo di questa pratica è scoprire debolezze tecniche e nella logica aziendale dell'applicazione e renderle visibili alla direzione e agli stakeholder aziendali, indipendentemente dai requisiti.
