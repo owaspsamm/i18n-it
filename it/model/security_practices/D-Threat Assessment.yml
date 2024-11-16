@@ -1,0 +1,9 @@
+#Official name of this practice
+name: Valutazione Della Minaccia
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sull'individuazione di potenziali minacce nelle applicazioni.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica della Valutazione delle Minacce (TA) si concentra sull'identificazione e comprensione dei rischi a livello di progetto, basandosi sulla funzionalità del software in sviluppo e sulle caratteristiche dell'ambiente di runtime. Partendo dai dettagli sulle minacce e sugli attacchi probabili per ciascun progetto, l'organizzazione nel suo complesso opera in modo più efficace attraverso decisioni più informate sulla priorità delle iniziative di sicurezza. Inoltre, le decisioni sull'accettazione del rischio sono meglio informate e quindi più allineate agli obiettivi aziendali.
+
+  Iniziando con modelli di minacce semplici e costruendo profili di rischio per le applicazioni, un'organizzazione migliora progressivamente nel tempo. Alla fine, un'organizzazione sofisticata manterrebbe queste informazioni in un formato strettamente connesso ai fattori compensativi e ai rischi residui provenienti da entità esterne. Questo consente una comprensione più ampia degli impatti potenziali a valle derivanti da problemi di sicurezza, monitorando al contempo attentamente le prestazioni attuali dell'organizzazione rispetto alle minacce conosciute.
