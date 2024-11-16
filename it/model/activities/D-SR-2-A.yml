@@ -1,0 +1,13 @@
+#The title of this activity
+title: Standardizzare e integrare i requisiti di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Allineamento dei requisiti di sicurezza con altri tipi di requisiti
+#A one sentence description of the activity
+shortDescription: I requisiti di sicurezza strutturati sono disponibili e utilizzati dai team di sviluppo.
+#A multi-paragraph description of the activity
+longDescription: |
+  I requisiti di sicurezza possono derivare da altre fonti, come politiche e normative, problemi noti all'interno dell'applicazione e informazioni provenienti da metriche e feedback. A questo livello, è necessario ottenere una raccolta più sistematica dei requisiti di sicurezza analizzando diverse fonti di tali requisiti. Assicurati che vengano ricevuti input adeguati da queste fonti per supportare l'individuazione dei requisiti. Ad esempio, organizza interviste o sessioni di brainstorming (ad esempio, nel caso di politiche e normative), analizza log storici o sistemi di gestione delle vulnerabilità.
+
+  Utilizza una notazione strutturata dei requisiti di sicurezza applicabile a tutte le applicazioni e un formalismo appropriato che si integri bene con il modo in cui vengono specificati gli altri requisiti (funzionali) per il progetto. Questo potrebbe significare, ad esempio, estendere i documenti di analisi o scrivere user stories.
+
+  Una volta specificati i requisiti, è importante garantire che vengano presi in considerazione durante lo sviluppo del prodotto. Configura un meccanismo per stimolare o obbligare i team di progetto a soddisfare tali requisiti nel prodotto. Ad esempio, annota i requisiti con priorità o influenza la gestione dei requisiti per garantire un livello di sicurezza adeguato, bilanciandolo con altri requisiti non funzionali.
