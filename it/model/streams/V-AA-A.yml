@@ -1,0 +1,5 @@
+#Official stream name
+name: Validazione Architettura
+#Multi-paragraph explanation of the stream
+description: |
+  La validazione dell'architettura conferma la sicurezza del software e dell'architettura di supporto identificando i componenti architetturali dell'applicazione e dell'infrastruttura e verificando che soddisfino gli obiettivi e i requisiti di sicurezza.
