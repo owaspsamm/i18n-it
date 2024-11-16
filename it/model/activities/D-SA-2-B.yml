@@ -1,0 +1,13 @@
+#The title of this activity
+title: Promuovi strumenti e tecnologie preferiti.
+#Describe the benefit that is achieved by implementing this activity
+benefit: Tecnologie con un livello di sicurezza adeguato disponibili per i team di prodotto
+#A one sentence description of the activity
+shortDescription: Standardizza tecnologie e framework da utilizzare nelle diverse applicazioni.
+#A multi-paragraph description of the activity
+longDescription: |
+  Individua le tecnologie, i framework e gli strumenti comunemente utilizzati nei progetti software dell'organizzazione, concentrandoti sull'identificazione delle tecnologie di alto livello.
+
+  Crea un elenco e condividilo all'interno dell'organizzazione di sviluppo come tecnologie consigliate. Durante la selezione, considera la storia degli incidenti, la capacità di rispondere alle vulnerabilità, l'adeguatezza della funzionalità per l'organizzazione, la complessità eccessiva nell'uso del componente di terze parti e la presenza di conoscenze sufficienti all'interno dell'organizzazione.
+
+  Sviluppatori senior e architetti creano questo elenco, includendo input da parte di manager e revisori della sicurezza. Condividi questa lista di componenti consigliati con l'organizzazione di sviluppo. L'obiettivo finale è fornire impostazioni predefinite ben conosciute per i team di progetto. Esegui una revisione periodica di queste tecnologie per verificarne la sicurezza e l'adeguatezza.
