@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Testing guidato dai requisiti
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sull'utilizzo di test di sicurezza positivi (verifica del controllo) e negativi (test di uso improprio/abuso) basati su requisiti (user stories).
+#A multi-paragraph description of the security practice
+longDescription: |
+  L'obiettivo della pratica di Testing basato sui requisiti (Requirements-driven Testing, RT) è garantire che i controlli di sicurezza implementati funzionino come previsto e soddisfino i requisiti di sicurezza dichiarati del progetto. Lo fa costruendo progressivamente un set di casi di test di sicurezza e di regressione e eseguendoli regolarmente.
+
+  Un aspetto chiave di questa pratica è l'attenzione sia ai test positivi che negativi. I test positivi verificano che i controlli di sicurezza dell'applicazione soddisfino i requisiti di sicurezza dichiarati e ne convalidano il corretto funzionamento. Questi requisiti sono tipicamente di natura funzionale. I test negativi affrontano la qualità dell'implementazione dei controlli di sicurezza e mirano a rilevare difetti di progettazione inaspettati e bug di implementazione attraverso test di uso improprio e abuso. Nelle sue forme più avanzate, la pratica promuove il security stress testing, come gli attacchi denial of service, e si sforza di migliorare continuamente la sicurezza dell'applicazione automatizzando in modo costante i test unitari di sicurezza e creando test di regressione per tutte le vulnerabilità identificate e corrette.
+
+  Sebbene le pratiche di Testing basato sui requisiti e di Security Testing si occupino entrambe di testing della sicurezza, la prima si concentra sulla verifica dell'implementazione corretta dei requisiti di sicurezza, mentre la seconda ha l'obiettivo di scoprire debolezze tecniche nell'implementazione di un'applicazione, indipendentemente dai requisiti.
