@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Build Sicura
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sulla creazione di un processo di build coerente e ripetibile, tenendo conto della sicurezza delle dipendenze applicative.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica di Build Sicura (SB) sottolinea l'importanza di costruire il software in modo standardizzato e ripetibile, utilizzando componenti sicuri, comprese le dipendenze software di terze parti.
+
+  Il primo flusso si concentra sull'eliminazione di qualsiasi soggettività nel processo di build, puntando a una piena automazione. Una pipeline di build automatizzata può includere controlli di sicurezza automatizzati aggiuntivi, come SAST e DAST, per ottenere ulteriori garanzie e rilevare regressioni di sicurezza in anticipo, ad esempio, fallendo la build.
+
+  Il secondo flusso riconosce la diffusione delle dipendenze software nelle applicazioni moderne. Si propone di identificarle e monitorarne lo stato di sicurezza, al fine di contenere l'impatto della loro insicurezza su un'applicazione altrimenti sicura. In una forma avanzata, vengono applicati controlli di sicurezza alle dipendenze software simili a quella dell'applicazione stessa.
