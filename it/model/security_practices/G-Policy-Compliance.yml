@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Politiche E Conformità
+#A one sentence description of the security practice
+shortDescription: Questa pratica guida l'aderenza a norme e regolamenti interni ed esterni.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica di Politiche e Conformità (PC) si concentra sulla comprensione e il rispetto dei requisiti legali e normativi esterni, promuovendo al contempo standard di sicurezza interni per garantire la conformità in modo allineato agli obiettivi aziendali dell'organizzazione.
+
+  Un tema chiave per il miglioramento in questa pratica è la definizione degli standard dell'organizzazione e delle obbligazioni verso terze parti come requisiti applicativi, consentendo audit efficienti e automatizzati che possono essere integrati nel ciclo di vita dello sviluppo software (SDLC) e dimostrando continuamente che tutte le aspettative sono rispettate.
+
+  In una forma avanzata, l'implementazione di questa pratica comporta una comprensione a livello organizzativo sia degli standard interni che dei fattori di conformità esterni, mantenendo al contempo punti di controllo a bassa latenza con i team di progetto per garantire che nessun progetto operi al di fuori delle aspettative senza visibilità.
