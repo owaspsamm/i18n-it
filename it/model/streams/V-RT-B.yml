@@ -1,0 +1,5 @@
+#Official stream name
+name: Test Di Uso Improprio/Abuso
+#Multi-paragraph explanation of the stream
+description: |
+  Il test di uso improprio/abuso utilizza tecniche come il fuzzing, casi di uso improprio/abuso e l'identificazione di funzionalità o risorse nel software che possono essere sfruttate, al fine di individuare debolezze nelle funzionalità che potrebbero essere utilizzate per attaccare un'applicazione.
