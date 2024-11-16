@@ -1,0 +1,5 @@
+#Official stream name
+name: Verifica Dei Controlli
+#Multi-paragraph explanation of the stream
+description: |
+  La verifica dei controlli assicura che i controlli di sicurezza e i requisiti siano soddisfatti tramite test derivati dai requisiti e previene l'introduzione di bug nelle versioni successive attraverso il testing di regressione.
