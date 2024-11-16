@@ -1,0 +1,11 @@
+#The title of this activity
+title: Discutere le responsabilità di sicurezza con i fornitori
+#Describe the benefit that is achieved by implementing this activity
+benefit: Responsabilità di sicurezza chiaramente definite per i tuoi fornitori di software.
+#A one sentence description of the activity
+shortDescription: Integra la sicurezza negli accordi con i fornitori per garantire la conformità ai requisiti organizzativi.
+#A multi-paragraph description of the activity
+longDescription: |
+  Aumenta la fiducia nella capacità dei tuoi fornitori di garantire la sicurezza del software. Discuti responsabilità e aspettative concrete con i fornitori e con la tua organizzazione e stabilisci un contratto con il fornitore. Le responsabilità possono includere requisiti di qualità specifici o compiti particolari, e il livello minimo di servizio può essere dettagliato in un Service Level Agreement (SLA). Un esempio di requisito di qualità è che il fornitore consegni software protetto contro le vulnerabilità dell’OWASP Top 10 e che eventuali problemi rilevati vengano risolti. Un esempio di compito è l’obbligo di eseguire analisi statica continua del codice o un test di penetrazione indipendente prima di un rilascio importante. L’accordo dovrebbe stabilire le responsabilità e i limiti di indennizzo in caso di problemi significativi.
+
+  Dopo aver implementato questo processo per alcuni fornitori, lavora per creare un accordo standard per i fornitori che diventi la base per le negoziazioni. Potrai discostarti da questo accordo standard caso per caso, ma ti aiuterà a garantire che non vengano trascurati argomenti importanti.
