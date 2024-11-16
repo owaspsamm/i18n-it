@@ -1,0 +1,5 @@
+#Official stream name
+name: Configurazioni Robuste
+#Multi-paragraph explanation of the stream
+description: |
+  Le attività in questo flusso si concentrano sulla gestione, da parte dell'organizzazione, delle configurazioni legate alla sicurezza in tutti gli elementi dello stack tecnologico. L'attenzione è rivolta principalmente agli elementi (ad esempio, sistemi operativi, container, framework, servizi, dispositivi e librerie) forniti da terze parti, poiché la loro architettura e progettazione non sono sotto il controllo diretto dell'organizzazione.
