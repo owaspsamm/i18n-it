@@ -1,0 +1,13 @@
+#The title of this activity
+title: Esegui una valutazione dei fornitori.
+#Describe the benefit that is achieved by implementing this activity
+benefit: Trasparenza delle pratiche di sicurezza dei vostri fornitori di software
+#A one sentence description of the activity
+shortDescription: Valuta il fornitore in base ai requisiti di sicurezza organizzativi.
+#A multi-paragraph description of the activity
+longDescription: |
+  Le competenze e le abitudini di sicurezza dei fornitori esterni coinvolti nello sviluppo del tuo software possono avere un impatto significativo sulla postura di sicurezza del prodotto finale. Di conseguenza, è fondamentale conoscere e valutare i tuoi fornitori su questo fronte.
+
+  Effettua una valutazione dei fornitori per comprendere i loro punti di forza e debolezze. Usa una checklist di base o conduci interviste per esaminare le loro pratiche tipiche e le consegne. Questo ti offre un'idea di come si organizzano e degli elementi per valutare se è necessario adottare misure aggiuntive per mitigare potenziali rischi. Idealmente, parla con persone che ricoprono diversi ruoli nell'organizzazione o organizza una piccola valutazione del livello di maturità a tale scopo. I fornitori più competenti gestiscono un proprio programma di sicurezza del software e saranno in grado di rispondere alla maggior parte delle tue domande. Se i fornitori mostrano competenze deboli in materia di sicurezza software, discuti con loro su come e in che misura intendono migliorare e valuta se ciò è sufficiente per la tua organizzazione. Un fornitore di software potrebbe lavorare su un progetto a basso rischio, ma questa situazione potrebbe cambiare.
+
+  È importante che i tuoi fornitori comprendano e si allineino alla propensione al rischio della tua organizzazione e siano in grado di soddisfare i requisiti in quell'area. Fai esplicite le tue aspettative nei loro confronti e discuti chiaramente questi aspetti.
