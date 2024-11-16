@@ -1,0 +1,5 @@
+#Official stream name
+name: Comprensione Profonda
+#Multi-paragraph explanation of the stream
+description: |
+  La comprensione approfondita si concentra sull'esecuzione di test di sicurezza manuali sui componenti ad alto rischio, utilizzando vettori di attacco complessi, con l'obiettivo di rendere i test di sicurezza avanzati una parte integrante del processo di sviluppo. L'obiettivo di questo flusso è privilegiare la profondità dei test (rigore nei test) rispetto all'ampiezza dei test (il portafoglio di applicazioni).
