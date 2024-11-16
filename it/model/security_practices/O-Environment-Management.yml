@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Gestione Dell'Ambiente
+#A one sentence description of the security practice
+shortDescription: Questa pratica descrive le attività proattive svolte per migliorare e mantenere la sicurezza degli ambienti in cui operano le applicazioni dell'organizzazione.
+#A multi-paragraph description of the security practice
+longDescription: |
+  Il lavoro dell'organizzazione sulla sicurezza delle applicazioni non finisce una volta che l'applicazione diventa operativa. Nuove funzionalità di sicurezza e patch vengono rilasciate regolarmente per i vari elementi dello stack tecnologico in uso, fino a quando non diventano obsoleti o non sono più supportati.
+
+  La maggior parte delle tecnologie in qualsiasi stack applicativo non è sicura per impostazione predefinita. Questo è frequentemente intenzionale, per migliorare la compatibilità con versioni precedenti o semplificare la configurazione. Per questo motivo, garantire il funzionamento sicuro dello stack tecnologico dell'organizzazione richiede l'applicazione costante di configurazioni di base sicure a tutti i componenti. La pratica di Gestione dell'Ambiente (EM) si concentra sul mantenimento di un ambiente pulito e sicuro.
+
+  Le vulnerabilità vengono scoperte durante tutto il ciclo di vita delle tecnologie su cui l'organizzazione fa affidamento, e nuove versioni per affrontarle vengono rilasciate con cadenze diverse. Questo rende essenziale monitorare i rapporti sulle vulnerabilità e applicare in modo ordinato e tempestivo le patch su tutti i sistemi interessati.
