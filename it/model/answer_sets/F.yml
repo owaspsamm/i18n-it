@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, abbiamo iniziato ad attuarlo
   - 
+    #third level
+    text: Sì, per una parte dell'organizzazione
   - 
+    #highest level
+    text: Sì, per l'intera organizzazione
