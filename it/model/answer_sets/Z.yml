@@ -4,5 +4,9 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, ma lo miglioriamo ad hoc
   - 
   - 
+    #highest level
+    text: Sì, lo miglioriamo almeno annualmente
