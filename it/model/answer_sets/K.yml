@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, lo facciamo quando richiesto
   - 
+    #third level
+    text: Sì, lo facciamo ogni pochi anni
   - 
+    #highest level
+    text: Sì, lo facciamo almeno annualmente
