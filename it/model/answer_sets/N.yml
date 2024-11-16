@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, copre i rischi generali
   - 
+    #third level
+    text: Sì, copre i rischi specifici dell’organizzazione
   - 
+    #highest level
+    text: Sì, copre rischi e opportunità
