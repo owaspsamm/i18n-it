@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, per alcune attività richieste
   - 
+    #third level
+    text: Sì, per almeno la metà delle attività richieste
   - 
+    #highest level
+    text: Sì, per la maggior parte o tutte le attività richieste
