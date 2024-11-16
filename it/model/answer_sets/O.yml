@@ -4,5 +4,9 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, lo rivediamo annualmente
   - 
+    #third level
+    text: Sì, consultiamo il piano prima di prendere decisioni significative
   - 
