@@ -1,0 +1,9 @@
+#Official name of this practice
+name: Valutazione Dell'Architettura
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sulla validazione della sicurezza e della conformità dell'architettura del software e dell'infrastruttura di supporto.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica di Valutazione dell'Architettura (AA) garantisce che l'architettura dell'applicazione e dell'infrastruttura soddisfi adeguatamente tutti i requisiti di sicurezza e conformità rilevanti e mitighi sufficientemente le minacce di sicurezza identificate. Il primo flusso si concentra sulla verifica che i requisiti di sicurezza e conformità identificati nelle pratiche di Politiche e Conformità e Requisiti di Sicurezza siano soddisfatti, prima in modo ad hoc, poi in modo più sistematico per ogni interfaccia nel sistema. Il secondo flusso esamina l'architettura, prima per le mitigazioni contro le minacce tipiche, poi contro le minacce specifiche identificate nella pratica di Valutazione delle Minacce.
+
+  Nella sua forma più avanzata, la pratica formalizza il processo di revisione dell'architettura di sicurezza, valuta continuamente l'efficacia dei controlli di sicurezza dell'architettura, la loro scalabilità e allineamento strategico. Le debolezze identificate e i possibili miglioramenti vengono restituiti alla pratica dell'Architettura della Sicurezza per migliorare le architetture di riferimento.
