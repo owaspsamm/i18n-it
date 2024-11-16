@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, per alcuni team
   - 
+    #third level
+    text: Sì, per almeno la metà dei team
   - 
+    #highest level
+    text: Sì, per la maggior parte o tutti i team
