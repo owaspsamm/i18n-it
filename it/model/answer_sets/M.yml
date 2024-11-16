@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, per alcuni domini tecnologici
   - 
+    #third level
+    text: Sì, per almeno la metà dei domini tecnologici
   - 
+    #highest level
+    text: Sì, per la maggior parte o tutti i domini tecnologici
