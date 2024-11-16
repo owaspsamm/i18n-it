@@ -1,0 +1,4 @@
+#Official stream name
+name: Processo Di Distribuzione
+#Multi-paragraph explanation of the stream
+description: Un processo di deployment ripetibile e coerente garantisce che vengano distribuiti in produzione solo artefatti software corretti. Inoltre, facilita la creazione di ambienti di test rappresentativi prima della produzione.
