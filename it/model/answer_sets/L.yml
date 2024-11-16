@@ -4,5 +4,11 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sì, per alcuni degli asset
   - 
+    #third level
+    text: Sì, per almeno la metà degli asset
   - 
+    #highest level
+    text: Sì, per la maggior parte o tutti gli asset
