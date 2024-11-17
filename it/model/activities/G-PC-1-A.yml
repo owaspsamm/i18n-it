@@ -1,0 +1,13 @@
+#The title of this activity
+title: Definire politiche e standard
+#Describe the benefit that is achieved by implementing this activity
+benefit: Definizione chiara delle aspettative riguardo al livello minimo di sicurezza nell'organizzazione
+#A one sentence description of the activity
+shortDescription: Stabilisci una base di sicurezza che rappresenti le politiche e gli standard dell'organizzazione.
+#A multi-paragraph description of the activity
+longDescription: |
+  Sviluppa una libreria di politiche e standard per governare tutti gli aspetti dello sviluppo software nell'organizzazione. Le politiche e gli standard si basano su standard di settore esistenti e sono adattati al contesto specifico dell'industria dell'organizzazione. Data la varietà di limitazioni tecnologiche specifiche e migliori pratiche, rivedi gli standard proposti con i vari team di prodotto. Con l'obiettivo generale di aumentare la sicurezza delle applicazioni e dell'infrastruttura informatica, invita i team di prodotto a fornire feedback su eventuali aspetti degli standard che non sarebbero fattibili o convenienti da implementare, oltre che su opportunità per estendere gli standard con sforzi minimi da parte loro.
+
+  Per le politiche, enfatizza definizioni di alto livello e aspetti della sicurezza delle applicazioni che non dipendono da tecnologie o ambienti di hosting specifici. Concentrati sugli obiettivi più ampi dell'organizzazione per proteggere l'integrità del proprio ambiente informatico, la sicurezza e la privacy dei dati, e la maturità dei cicli di vita dello sviluppo software. Per le organizzazioni più grandi, le politiche possono includere requisiti specifici in base alla classificazione dei dati o alla funzionalità dell'applicazione, ma senza entrare in dettagli tali da offrire indicazioni tecnologiche specifiche.
+
+  Per gli standard, incorpora i requisiti stabiliti dalle politiche e concentrati su indicazioni di implementazione tecnologiche specifiche, volte a sfruttare le funzionalità di sicurezza offerte dai diversi linguaggi di programmazione e framework. Gli standard richiedono l'input di sviluppatori senior e architetti considerati esperti nelle varie tecnologie utilizzate dall'organizzazione. Redigili in un formato che consenta aggiornamenti periodici. Etichetta o assegna tag ai requisiti individuali con riferimento alla politica correlata o a un requisito di terze parti, per facilitare la manutenzione e rendere più efficienti le verifiche.
