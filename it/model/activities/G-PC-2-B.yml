@@ -1,0 +1,11 @@
+#The title of this activity
+title: Standardizza i requisiti di politica e conformità
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione comune tra i team di prodotto su come raggiungere la conformità con i driver di conformità esterni
+#A one sentence description of the activity
+shortDescription: Pubblica requisiti specifici per la conformità delle applicazioni e linee guida per i test.
+#A multi-paragraph description of the activity
+longDescription: |
+  Sviluppa una libreria di requisiti applicativi e script di test per stabilire e verificare la conformità normativa delle applicazioni. Alcuni di questi requisiti sono specifici per normative individuali, come PCI o GDPR, mentre altri sono di natura più generale e affrontano requisiti di conformità globali, come quelli dell’ISO. La libreria è resa disponibile a tutti i team di sviluppo applicativo e include linee guida per determinare tutti i requisiti applicabili, comprese le considerazioni per ridurre il carico e l'ambito di conformità. Implementa un processo per riesaminare periodicamente i requisiti di conformità di ciascuna applicazione. Questo riesame deve includere la revisione di tutte le funzionalità dell'applicazione e l'identificazione di opportunità per ridurre l'ambito, al fine di abbassare i costi complessivi di conformità.
+
+  I requisiti includono informazioni sufficienti per consentire agli sviluppatori di comprendere i requisiti funzionali e non funzionali legati ai diversi vincoli di conformità. Contengono riferimenti a politiche e standard e forniscono riferimenti espliciti alle normative. In caso di dubbi sull'implementazione di un requisito specifico, il testo originale della normativa può aiutare a interpretarne l'intento con maggiore precisione. Ogni requisito è accompagnato da un set di script di test per verificare la conformità. Oltre ad assistere il QA nella verifica della conformità, questi script possono chiarire i requisiti di conformità per gli sviluppatori e rendere il processo di conformità trasparente. I requisiti sono strutturati in un formato che consente di importarli nei singoli repository di requisiti, facilitando ulteriormente la comprensione per gli sviluppatori e garantendo che il processo di conformità sia completamente trasparente.
