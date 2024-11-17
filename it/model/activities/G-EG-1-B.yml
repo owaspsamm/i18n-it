@@ -1,0 +1,13 @@
+#The title of this activity
+title: Identificare i security champion
+#Describe the benefit that is achieved by implementing this activity
+benefit: Integrazione di base della sicurezza nell'organizzazione di sviluppo
+#A one sentence description of the activity
+shortDescription: Identificare un "Security Champion" all'interno di ogni team di sviluppo.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementare un programma in cui ogni team di sviluppo software abbia un membro designato come "Security Champion", che funge da collegamento tra il reparto di Sicurezza delle Informazioni e gli sviluppatori. A seconda delle dimensioni e della struttura del team, il "Security Champion" può essere uno sviluppatore software, un tester o un product manager. Il "Security Champion" dedica un numero prefissato di ore settimanali ad attività legate alla Sicurezza delle Informazioni. Partecipano a briefing periodici per aumentare la consapevolezza e l'expertise in diverse discipline di sicurezza. I "Security Champion" ricevono una formazione aggiuntiva per sviluppare il loro ruolo come esperti di sicurezza software. Potrebbe essere necessario personalizzare il modo in cui vengono creati e supportati i "Security Champion" per ragioni culturali.
+
+  Gli obiettivi di questa posizione sono aumentare l'efficacia e l'efficienza della sicurezza delle applicazioni e della conformità, oltre a rafforzare la relazione tra i diversi team e il reparto di Sicurezza delle Informazioni. Per raggiungere questi obiettivi, i "Security Champion" assistono nella ricerca, verifica e priorizzazione dei difetti software legati alla sicurezza e alla conformità. Partecipano a tutte le Valutazioni del Rischio, Analisi delle Minacce e Revisioni Architetturali per identificare opportunità di mitigazione dei difetti di sicurezza, rendendo l'architettura dell'applicazione più resiliente e riducendo la superficie di attacco.
+
+  Oltre a supportare il reparto di Sicurezza delle Informazioni, i "Security Champion" forniscono revisioni periodiche di tutte le problematiche legate alla sicurezza al team di progetto, in modo che tutti siano consapevoli dei problemi e degli sforzi di mitigazione attuali e futuri. Queste revisioni vengono utilizzate per facilitare il brainstorming di soluzioni a problemi più complessi, coinvolgendo l'intero team di sviluppo.
