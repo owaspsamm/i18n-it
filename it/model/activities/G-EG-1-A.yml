@@ -1,0 +1,21 @@
+#The title of this activity
+title: Formare tutti gli stakeholder per aumentare la consapevolezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Formazione per la sensibilizzazione di base alla sicurezza per tutti i dipendenti interessati
+#A one sentence description of the activity
+shortDescription: Fornire formazione per la sensibilizzazione alla sicurezza a tutto il personale coinvolto nello sviluppo software.
+#A multi-paragraph description of the activity
+longDescription: |
+  Condurre formazione per la sensibilizzazione alla sicurezza per tutti i ruoli attualmente coinvolti nella gestione, nello sviluppo, nei test o negli audit del software. L'obiettivo è aumentare la consapevolezza delle minacce e dei rischi legati alla sicurezza delle applicazioni, delle migliori pratiche di sicurezza e dei principi per la progettazione sicura dei software. Sviluppare la formazione internamente o acquisirla da fornitori esterni. Idealmente, erogare la formazione in presenza per favorire discussioni di gruppo, ma l'opzione di formazione computerizzata (CBT) è valida.
+
+  Il contenuto del corso dovrebbe includere un'ampia gamma di argomenti pertinenti alla sicurezza delle applicazioni e alla privacy, mantenendo un linguaggio accessibile anche per un pubblico non tecnico. I concetti adatti includono principi di progettazione sicura come Least Privilege, Defense-in-Depth, Fail Secure (Safe), Complete Mediation, Session Management, Open Design e Psychological Acceptability. Inoltre, la formazione dovrebbe fare riferimento agli standard, alle politiche e alle procedure definiti a livello organizzativo per migliorare la sicurezza delle applicazioni. Dovrebbero essere trattate a livello generale anche le vulnerabilità dell'OWASP Top 10.
+
+  La formazione è obbligatoria per tutti i dipendenti e i collaboratori coinvolti nello sviluppo software e include una registrazione verificabile per dimostrare la conformità. Considerare l'integrazione di metodi innovativi di erogazione (come la gamification) per massimizzarne l'efficacia e contrastare la desensibilizzazione.
+#Internal notes that might help the author
+notes: |
+  **Riferimenti**
+
+  - [NIST SP 800-50](https://csrc.nist.gov/publications/detail/sp/800-50/final)
+  - [OWASP Top 10 Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+  - [OWASP Training Resources](https://www.owasp.org/index.php/OWASP_Training)
+  - [OWASP Application Security Curriculum](https://www.owasp.org/index.php/OWASP_Application_Security_Curriculum)
