@@ -1,0 +1,28 @@
+#The title of this activity
+title: Personalizza la formazione sulla sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: I dipendenti vengono formati in base alle loro mansioni specifiche
+#A one sentence description of the activity
+shortDescription: Offri orientamenti specifici per tecnologia e ruolo, inclusi i dettagli di sicurezza di ogni linguaggio e piattaforma.
+#A multi-paragraph description of the activity
+longDescription: |
+  Conduci formazione sulla sicurezza guidata da istruttori o tramite CBT, specifica per i ruoli e le tecnologie dell'organizzazione, iniziando dal team di sviluppo principale. L'organizzazione personalizza la formazione per product manager, sviluppatori software, tester e auditor di sicurezza, basandosi sulle esigenze tecniche di ciascun gruppo. 
+
+  - I product manager vengono formati su argomenti relativi alle funzioni aziendali del SAMM e alle pratiche di sicurezza, con particolare enfasi sui requisiti di sicurezza, il threat modeling e il tracciamento dei difetti. 
+  - Gli sviluppatori ricevono formazione sugli standard di codifica e le migliori pratiche per le tecnologie utilizzate, garantendo che la formazione migliori direttamente la sicurezza delle applicazioni. Acquisiscono una solida conoscenza tecnica delle vulnerabilità OWASP Top 10 o di debolezze simili pertinenti alle tecnologie e ai framework utilizzati (es. mobile), oltre alle strategie di mitigazione più comuni per ciascun problema. 
+  - I tester vengono formati sull'uso di strumenti di test e sulle migliori pratiche per le tecnologie impiegate dall'organizzazione, nonché su strumenti per identificare difetti di sicurezza. 
+  - Gli auditor di sicurezza apprendono il ciclo di vita dello sviluppo software, i meccanismi di sicurezza delle applicazioni utilizzati nell'organizzazione e il processo per segnalare difetti di sicurezza per la loro risoluzione. 
+  - I Security Champions si formano su argomenti di sicurezza relativi alle varie fasi del SDLC. Ricevono la stessa formazione di sviluppatori e tester, ma comprendono anche il threat modeling e la progettazione sicura, oltre a strumenti e tecnologie di sicurezza integrabili nell'ambiente di build. 
+
+  Includi tutti i contenuti formativi delle attività del Livello 1 di Maturità in questo flusso e aggiungi contenuti specifici per ruolo e tecnologia, eliminando gli aspetti non necessari. 
+
+  Idealmente, identifica un esperto della materia per ciascuna tecnologia che possa assistere nell'acquisizione o nello sviluppo dei contenuti formativi e nel loro aggiornamento regolare. La formazione include dimostrazioni di sfruttamento delle vulnerabilità utilizzando applicazioni intenzionalmente vulnerabili, come WebGoat o Juice Shop. Includi i risultati dei precedenti test di penetrazione come esempi di vulnerabilità e delle strategie di mitigazione implementate. Coinvolgi un penetration tester per sviluppare esempi pratici di dimostrazioni di sfruttamento delle vulnerabilità.
+
+  La formazione è obbligatoria per tutti i dipendenti e i collaboratori coinvolti nello sviluppo software e prevede una firma verificabile per dimostrare la conformità. Quando possibile, la formazione dovrebbe includere anche un test per garantire la comprensione, non solo la conformità. Aggiorna d eroga corsi di formazione annualmente per includere i cambiamenti dell'organizzazione, delle tecnologie e delle tendenze. Sottoponi ai partecipanti dei sondaggi per valutare la qualità e la rilevanza della formazione, raccogliendo suggerimenti su altre informazioni utili per il loro lavoro o i loro ambienti.
+#Internal notes that might help the author
+notes: |
+  ** Riferimenti **
+  - [OWASP Top 10 Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+  - [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+  - [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+  - [OWASP Training Resources](https://www.asp.org/index.php/OWASP_Training)
