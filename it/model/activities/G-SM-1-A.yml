@@ -1,0 +1,14 @@
+#The title of this activity
+title: Identificare la propensione al rischio dell'organizzazione
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione comune della postura di sicurezza della tua organizzazione
+#A one sentence description of the activity
+shortDescription: Identificare i fattori trainanti dell'organizzazione in relazione alla sua tolleranza al rischio.
+#A multi-paragraph description of the activity
+longDescription: |
+  Comprendere quali minacce esistono o potrebbero emergere in base all'esposizione al rischio delle applicazioni, oltre al livello di tolleranza della leadership esecutiva verso tali rischi, è un aspetto fondamentale per definire le priorità della sicurezza del software.
+  Per identificare queste minacce, è importante intervistare i responsabili aziendali e gli stakeholder, documentando sia i fattori specifici delle industrie in cui l'organizzazione opera, sia quelli peculiari dell'organizzazione stessa. Le informazioni raccolte dovrebbero includere i peggiori scenari ipotizzabili che potrebbero avere un impatto sull'organizzazione, insieme a opportunità in cui un ciclo di sviluppo software ottimizzato e applicazioni più sicure potrebbero rappresentare un vantaggio competitivo o aprire nuove possibilità.
+
+  Questi dati costituiscono la base per sviluppare e promuovere il programma di sicurezza delle applicazioni dell’organizzazione. Gli elementi del programma vengono prioritizzati per affrontare le minacce e sfruttare le opportunità più rilevanti. La base di riferimento è suddivisa in diversi fattori di rischio e driver, collegati direttamente alle priorità dell’organizzazione, e viene utilizzata per costruire un profilo di rischio per ciascuna applicazione sviluppata su misura, documentando l’impatto potenziale di eventuali compromissioni.
+
+  Questa base e i fattori di rischio specifici dovrebbero essere resi disponibili ai team di sviluppo delle applicazioni, favorendo un processo trasparente nella creazione dei profili di rischio e nell’allineamento del programma alle priorità dell’organizzazione. Inoltre, tali obiettivi devono fornire una guida per assicurare che tutti i miglioramenti del programma di sicurezza delle applicazioni rispondano direttamente alle esigenze attuali e future dell’organizzazione.
