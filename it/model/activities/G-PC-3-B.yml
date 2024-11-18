@@ -1,0 +1,13 @@
+#The title of this activity
+title: Misurare la conformità ai requisiti esterni
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione della conformità della tua organizzazione rispetto ai fattori esterni di conformità
+#A one sentence description of the activity
+shortDescription: Misurare e riportare la conformità delle singole applicazioni ai requisiti di terze parti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Sviluppare un programma per misurare e riportare lo stato di conformità tra diverse applicazioni. I requisiti delle applicazioni e gli script di test aiutano a determinare lo stato di conformità. Sfruttare l'automazione dei test per rilevare tempestivamente regressioni di conformità nelle applicazioni aggiornate frequentemente e garantire che la conformità venga mantenuta attraverso le diverse versioni delle applicazioni. Quando i test completamente automatizzati non sono possibili, i team di QA, Audit Interno o Sicurezza delle Informazioni valutano periodicamente la conformità attraverso una combinazione di test manuali e interviste.
+
+  Sebbene la piena conformità sia sempre l'obiettivo finale, includere nel programma il monitoraggio delle azioni di rimedio e aggiornamenti periodici. Rivedere periodicamente le attività di rimedio per verificare che i team stiano facendo progressi appropriati e che le strategie di rimedio siano efficaci nel raggiungere la conformità. Per migliorare ulteriormente il processo, sviluppare una serie di report standard e schede di valutazione della conformità. Questi strumenti aiutano i singoli team a comprendere lo stato attuale della conformità e consentono all'organizzazione di gestire in modo più efficace il supporto per colmare i gap di conformità.
+
+  Rivedere i gap di conformità che richiedono spese significative o sviluppo con esperti del settore e confrontarli con il costo di ridurre le funzionalità dell'applicazione, minimizzarne l'ambito o eliminare il requisito di conformità. I gap di conformità a lungo termine richiedono l'approvazione della direzione e un'accettazione formale del rischio di conformità, in modo che ricevano l'attenzione e il controllo adeguati dalla leadership dell'organizzazione.
