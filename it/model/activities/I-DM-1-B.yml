@@ -1,0 +1,16 @@
+#The title of this activity
+title: Definisci metriche di sicurezza di base
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificazione di soluzioni rapide ("quick wins") derivanti dalle informazioni disponibili sui difetti.
+#A one sentence description of the activity
+shortDescription: Esaminare regolarmente i difetti di sicurezza precedentemente registrati e ricavare soluzioni rapide ("quick wins") basandosi su metriche di base.
+#A multi-paragraph description of the activity
+longDescription: |
+  Una volta per un periodo di tempo definito (tipicamente almeno una volta all'anno), rivedere i difetti di sicurezza registrati, sia risolti che ancora aperti, per ogni team ed estrarre metriche di base dai dati disponibili. Queste metriche potrebbero includere:
+
+  *Il numero totale di difetti rispetto al numero totale di attività di verifica. Questo potrebbe fornire un'idea se i difetti vengono cercati con in modo opportuno e ogni quanto.  
+  *Componenti software in cui risiedono i difetti. Questo è indicativo delle aree che richiedono maggiore attenzione e dove potrebbero manifestarsi nuovamente vulnerabilità in futuro.  
+  *Tipo o categoria del difetto, che suggerisce aree in cui il team di sviluppo necessita di ulteriore formazione.  
+  *Gravità del difetto, che aiuta il team a comprendere meglio l'esposizione al rischio del software.
+
+  Identificare ed eseguire attività rapide e sensate ("quick wins") basate sulle conoscenze acquisite. Queste attività potrebbero includere, ad esempio, una sessione di condivisione delle conoscenze su un particolare tipo di vulnerabilità o l'esecuzione/automazione di uno scan di sicurezza.
