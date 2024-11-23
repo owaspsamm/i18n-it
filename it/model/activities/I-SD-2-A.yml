@@ -1,0 +1,13 @@
+#The title of this activity
+title: Automatizzare il deployment e integrare i controlli di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Processo di deployment efficiente con strumenti di sicurezza integrati
+#A one sentence description of the activity
+shortDescription: Automatizzare il processo di deployment in tutte le fasi e introdurre test di verifica della sicurezza appropriati.
+#A multi-paragraph description of the activity
+longDescription: |
+  Automatizzare il processo di deployment per coprire tutte le fasi, in modo che non siano necessari passaggi di configurazione manuale e ridurre al minimo il rischio di errori umani isolati. Garantire e verificare che il deployment sia coerente in tutte le fasi.
+
+  Integrare controlli di sicurezza automatizzati nel processo di deployment, ad esempio utilizzando strumenti di Dynamic Application Security Testing (DAST) e di scansione delle vulnerabilità. Verificare anche l'integrità degli artefatti distribuiti, laddove opportuno. Registrare centralmente i risultati di questi test e intraprendere le azioni necessarie. Assicurarsi che, in caso di rilevamento di difetti, il personale pertinente venga notificato automaticamente. Se vengono identificati problemi che superano la criticità predefinita, fermare o annullare il deployment automaticamente, oppure introdurre un flusso di approvazione manuale separato, in modo che questa decisione venga registrata, contenendo una spiegazione per l'eccezione.
+
+  Monitorare e auditare tutti i deployment in ogni fase. Implementare un sistema per registrare ogni deployment, includendo dettagli su chi lo ha eseguito, la versione del software distribuita e altre variabili rilevanti specifiche del deployment.
