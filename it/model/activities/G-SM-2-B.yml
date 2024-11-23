@@ -1,0 +1,13 @@
+#The title of this activity
+title: Imposta KPI strategici
+#Describe the benefit that is achieved by implementing this activity
+benefit: Trasparenza sulle performance del vostro programma di AppSec
+#A one sentence description of the activity
+shortDescription: Imposta obiettivi e KPI per misurare l'efficacia del programma.
+#A multi-paragraph description of the activity
+longDescription: |
+  Una volta che l'organizzazione ha definito le metriche di sicurezza applicativa, è necessario raccogliere sufficienti informazioni per stabilire obiettivi realistici. Testare le metriche identificate per garantire che i dati possano essere raccolti in modo costante ed efficiente in un breve periodo. Dopo il periodo iniziale di test, l'organizzazione dovrebbe disporre di informazioni sufficienti per impegnarsi in obiettivi e traguardi espressi attraverso Key Performance Indicators (KPI).
+
+  Sebbene diverse misurazioni siano utili per monitorare il programma di sicurezza delle informazioni e la sua efficacia, i KPI devono essere costituiti dalle metriche più significative ed efficaci. L'obiettivo è ridurre la volatilità comune negli ambienti di sviluppo applicativo per evitare che risultati sfavorevoli derivino da misurazioni temporanee o fuorvianti. I KPI dovrebbero essere basati su metriche considerate preziose non solo per i professionisti della sicurezza delle informazioni, ma anche per i responsabili del successo complessivo dell'applicazione e per la leadership dell'organizzazione. I KPI devono essere visti come indicatori definitivi del successo dell'intero programma e devono essere considerati azionabili.
+
+  Documentare completamente i KPI e distribuirli ai team che contribuiscono al successo del programma, oltre che alla leadership dell'organizzazione. Idealmente, includere una breve spiegazione delle fonti delle informazioni per ciascun KPI e il significato di numeri alti o bassi. Inserire obiettivi a breve e lungo termine, insieme a intervalli per misurazioni inaccettabili che richiedono interventi immediati. Condividere piani d'azione con i team di sicurezza applicativa e di sviluppo applicativo per garantire piena trasparenza nella comprensione degli obiettivi e delle finalità dell'organizzazione.
