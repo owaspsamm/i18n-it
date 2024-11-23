@@ -1,0 +1,19 @@
+#The title of this activity
+title: Identificare le dipendenze dell'applicazione
+#Describe the benefit that is achieved by implementing this activity
+benefit: Informazioni disponibili su problemi di sicurezza noti nelle dipendenze
+#A one sentence description of the activity
+shortDescription: Creare registri con la Bill of Materials delle applicazioni ed analizzarli opportunamente.
+#A multi-paragraph description of the activity
+longDescription: |
+  Tenere traccia di tutte le dipendenze utilizzate nell'ambiente di produzione di destinazione, noto anche come Bill of Materials (BOM). Tenere presente che i diversi componenti dell'applicazione potrebbero utilizzare dipendenze completamente diverse. Ad esempio, se il pacchetto software è un'applicazione web, includere sia il codice applicativo lato server sia gli script lato client. Durante la creazione di questi registri, considerare i vari luoghi in cui potrebbero essere specificate le dipendenze, come file di configurazione, directory del progetto su disco, strumenti di gestione dei pacchetti o direttamente nel codice (ad esempio tramite un IDE che supporta l'elenco delle dipendenze).
+
+  Raccogliere le seguenti informazioni per ciascuna dipendenza:
+
+  * Dove viene utilizzata o referenziata
+  * Versione utilizzata
+  * Licenza
+  * Informazioni sulla fonte (link al repository, nome dell'autore, ecc.)
+  * Stato di supporto e manutenzione della dipendenza
+
+  Esaminare i registri per individuare eventuali dipendenze con vulnerabilità note e aggiornarle o sostituirle di conseguenza.
