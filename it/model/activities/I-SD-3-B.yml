@@ -1,0 +1,11 @@
+#The title of this activity
+title: Imporre la gestione del ciclo di vita dei segreti delle applicazioni
+#Describe the benefit that is achieved by implementing this activity
+benefit: Minimizzare la probabilità e garantire la rilevazione tempestiva di abusi dei segreti di produzione
+#A one sentence description of the activity
+shortDescription: Migliorare il ciclo di vita dei segreti applicativi generandoli regolarmente e garantendone un uso corretto.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementare la gestione del ciclo di vita dei segreti di produzione, garantendo la generazione di nuovi segreti per ogni singola istanza dell'applicazione, quando possibile. L'uso di segreti specifici per ogni istanza consente di tracciare e analizzare correttamente eventuali comportamenti imprevisti. Gli strumenti possono facilitare l'aggiornamento automatico dei segreti in tutti i punti rilevanti ogni volta che avviene un cambiamento.
+
+  Assicurarsi che ogni accesso ai segreti (sia in lettura che in scrittura) venga registrato in un'infrastruttura centralizzata. Controllare regolarmente questi log per identificare comportamenti anomali e analizzare le cause. Segnalare i problemi e le cause principali nel processo di gestione dei difetti, affinché l'organizzazione possa risolvere prontamente qualsiasi situazione inaccettabile.
