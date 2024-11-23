@@ -1,0 +1,13 @@
+#The title of this activity
+title: Verificare l'integrità degli artefatti di deployment
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garanzia dell'integrità degli artefatti distribuiti in produzione
+#A one sentence description of the activity
+shortDescription: Verifica automaticamente l'integrità di tutti i software distribuiti, indipendentemente dal fatto che siano sviluppati internamente o esternamente.
+#A multi-paragraph description of the activity
+longDescription: |
+  Sfruttare i binari firmati durante la fase di build e includere la verifica automatica dell'integrità del software in fase di deployment, controllando le firme contro certificati affidabili. Questo può includere binari sviluppati internamente, così come artefatti di terze parti. Non eseguire il deployment di artefatti se le loro firme non possono essere verificate, inclusi quelli con certificati non validi o scaduti.
+
+  Se la lista dei certificati affidabili include sviluppatori di terze parti, controllarli periodicamente e mantenerli allineati con la governance più ampia dell'organizzazione riguardo ai fornitori di terze parti affidabili.
+
+  Approvare manualmente il deployment almeno una volta durante il processo automatizzato. Quando un controllo umano risulta significativamente più preciso di uno automatizzato, preferire questa opzione.
