@@ -1,0 +1,13 @@
+#The title of this activity
+title: Includere i segreti dell'applicazione durante il processo di deployment
+#Describe the benefit that is achieved by implementing this activity
+benefit: Rilevamento di potenziali fughe di segreti di produzione
+#A one sentence description of the activity
+shortDescription: Iniettare i segreti dinamicamente durante il processo di deployment da archivi protetti e auditare ogni accesso umano a questi.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementare un processo automatizzato per aggiungere credenziali e segreti ai file di configurazione durante il processo di deployment nelle rispettive fasi. In questo modo, sviluppatori e responsabili del deployment non vedono né gestiscono questi valori sensibili.
+
+  Implementare controlli che rilevino la presenza di segreti nei repository di codice e nei file, eseguendoli periodicamente. Configurare gli strumenti per cercare stringhe conosciute e stringhe ad alta entropia sconosciute. In sistemi come i repository di codice, dove esiste una cronologia, includere le versioni nei controlli. Contrassegnare i potenziali segreti scoperti come valori sensibili e rimuoverli dove appropriato. Se non è possibile rimuoverli da un file storico in un repository di codice, ad esempio, potrebbe essere necessario aggiornare il valore nel sistema che consuma il segreto. In questo modo, se un attaccante dovesse scoprire il segreto, non sarà utile per loro.
+
+  Rendere il sistema utilizzato per archiviare e gestire i segreti e le credenziali robusto dal punto di vista della sicurezza. Crittografare tutti i segreti sia a riposo che in transito. Gli utenti che configurano questo sistema e i segreti in esso contenuti sono soggetti al principio del minimo privilegio. Ad esempio, un sviluppatore potrebbe dover gestire i segreti per un ambiente di sviluppo, ma non per un ambiente di test di accettazione o di produzione.
