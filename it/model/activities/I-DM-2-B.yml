@@ -1,0 +1,22 @@
+#The title of this activity
+title: Definisci metriche di sicurezza di base
+#Describe the benefit that is achieved by implementing this activity
+benefit: Miglioramento dell'apprendimento dai difetti di sicurezza nella vostra organizzazione
+#A one sentence description of the activity
+shortDescription: Raccogliere metriche standardizzate sulla gestione dei difetti e utilizzarle anche per la prioritizzazione delle iniziative gestite centralmente.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definire, raccogliere e calcolare metriche unificate in tutta l'organizzazione. Queste potrebbero includere: 
+
+  * Il numero totale di attività di verifica e difetti identificati.
+  * Le tipologie e gravità dei difetti identificati.
+  * Il tempo di rilevamento e tempo di risoluzione dei difetti.
+  * Le finestre di esposizione dei difetti presenti nei sistemi live.
+  * Il numero di regressioni o vulnerabilità riaperte
+  * La copertura delle attività di verifica per specifici componenti software
+  * La quantità di rischi accettati
+  * Il rapporto tra incidenti di sicurezza causati da difetti di sicurezza sconosciuti o non documentati. 
+
+  Generare un report regolare (ad esempio mensile) per un pubblico adatto, come manager, responsabili della sicurezza e ingegneri. Utilizzare le informazioni del report come input per la strategia di sicurezza, ad esempio per migliorare le attività di formazione o le verifiche di sicurezza. 
+
+  Condividere i dettagli tecnici più rilevanti o interessanti sui difetti di sicurezza, inclusa la strategia di correzione, con gli altri team dopo la loro risoluzione, ad esempio attraverso incontri regolari di condivisione delle conoscenze, per diffondere l'apprendimento all'interno dell'organizzazione e ridurre la probabilità che si ripetano in futuro.
