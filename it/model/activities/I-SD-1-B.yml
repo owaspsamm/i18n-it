@@ -1,0 +1,13 @@
+#The title of this activity
+title: Proteggere i segreti delle applicazioni nelle configurazioni e nel codice
+#Describe the benefit that is achieved by implementing this activity
+benefit: Accesso definito e limitato ai segreti di produzione
+#A one sentence description of the activity
+shortDescription: Introdurre misure di protezione di base per limitare l'accesso ai segreti di produzione.
+#A multi-paragraph description of the activity
+longDescription: |
+  Gli sviluppatori non dovrebbero avere accesso a segreti o credenziali per gli ambienti di produzione. Implementare un meccanismo per proteggere adeguatamente i segreti di produzione, ad esempio (i) assegnando a persone specifiche il compito di aggiungerli ai file di configurazione pertinenti durante il deployment (principio della separazione dei compiti) oppure (ii) crittografando preventivamente i segreti di produzione contenuti nei file di configurazione.
+
+  Non utilizzare i segreti di produzione nei file di configurazione per ambienti di sviluppo o test, poiché questi ultimi possono avere una postura di sicurezza significativamente inferiore. Analogamente, evitare di conservare segreti non protetti nei file di configurazione archiviati nei repository di codice.
+
+  Memorizzare sempre con crittografia a riposo le credenziali sensibili e isegreti per i sistemi di produzione. Considerare l'uso di uno strumento specifico per questo scopo. Gestire attentamente la gestione delle chiavi, garantendo che solo il personale responsabile dei deployment in produzione possa accedere a questi dati.
