@@ -1,0 +1,21 @@
+#The title of this activity
+title: Revisionare le dipendenze delle applicazioni per la sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Piena trasparenza sui problemi di sicurezza noti nelle dipendenze
+#A one sentence description of the activity
+shortDescription: Valutare le dipendenze utilizzate e garantire una reazione tempestiva a situazioni che rappresentano un rischio per le applicazioni.
+#A multi-paragraph description of the activity
+longDescription: |
+  Valutare le dipendenze utilizzate e stabilire un elenco di quelle accettabili, approvate per l'uso all'interno di un progetto, team o dell'intera organizzazione, in base a criteri definiti.
+
+  Introdurre un repository centralizzato di dipendenze da cui tutto il software può essere costruito.
+
+  Revisionare regolarmente le dipendenze utilizzate per garantire che:
+
+  * Rimangano correttamente licenziate
+  * Non presentino vulnerabilità note e significative che possano impattare le applicazioni
+  * Siano ancora attivamente supportate e mantenute
+  * Si utilizzi una versione aggiornata
+  * Esista una valida ragione per includere la dipendenza
+
+  Reagire in modo tempestivo e appropriato alle non conformità trattandole come difetti. Considerare l'uso di uno strumento automatizzato per scansionare le dipendenze vulnerabili e assegnare i problemi identificati ai rispettivi team di sviluppo.
