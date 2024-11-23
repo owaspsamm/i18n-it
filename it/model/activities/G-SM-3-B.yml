@@ -1,0 +1,16 @@
+#The title of this activity
+title: Guidare il programma di sicurezza attraverso metriche
+#Describe the benefit that is achieved by implementing this activity
+benefit: Miglioramento continuo del programma in base ai risultati
+#A one sentence description of the activity
+shortDescription: Influenza la strategia basandoti sulle metriche e sulle esigenze organizzative.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definire le linee guida per influenzare il programma di sicurezza delle applicazioni in base ai KPI e ad altre metriche di sicurezza delle applicazioni. Queste linee guida combinano la maturità del processo di sviluppo dell'applicazione e le procedure con diverse metriche per rendere il programma più efficiente. Gli esempi seguenti mostrano una relazione tra misurazioni e modi di evolvere e migliorare la sicurezza delle applicazioni
+
+  * Focus sulla maturità del ciclo di vita dello sviluppo riduce il costo relativo per difetto, migliorando così l'efficienza complessiva grazie all'applicazione della sicurezza in modo proattivo.
+  * Monitorare l'equilibrio tra sforzo, risultati e metriche ambiental ottimizza l'efficienza del programma e giustifica ulteriori automazioni o altre metodologie per migliorare le baseline di sicurezza applicativa.
+  * Le Pratiche di Sicurezza individuali possono fornire segnali utili per valutare l'efficacia di iniziative specifiche di sicurezza applicativa.
+  * Le metriche di sforzo aiutano a garantire che il lavoro sulla sicurezza applicativa sia orientato verso le tecnologie e le discipline più rilevanti e significative
+
+  Quando si definisce la strategia complessiva delle metriche, è fondamentale mantenere ben chiaro l'obiettivo finale. Stabilire il prima possibile quali decisioni possono essere prese in base ai cambiamenti nei KPI e nelle metriche aiuterà a guidare lo sviluppo di un sistema di misurazione efficace e orientato agli obiettivi.
