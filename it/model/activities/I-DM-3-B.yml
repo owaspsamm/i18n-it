@@ -1,0 +1,18 @@
+#The title of this activity
+title: Usa le metriche per migliorare la strategia di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Strategia di sicurezza ottimizzata basata sulle informazioni sui difetti
+#A one sentence description of the activity
+shortDescription: Migliorare continuamente le metriche di gestione dei difetti di sicurezza e correlarle con altre fonti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Rivedere regolarmente (almeno una volta all'anno) le metriche di gestione dei difetti raccolte e confrontare lo sforzo necessario per raccogliere e monitorare questi dati con i risultati attesi. Prendere decisioni consapevoli sull'eliminazione delle metriche che non forniscono il valore complessivo atteso. Ove possibile, includere e automatizzare le attività di verifica per la qualità dei dati raccolti e garantire un miglioramento sostenibile se vengono rilevate discrepanze.
+
+  Aggregare i dati con le metriche di intelligence sulle minacce e di gestione degli incidenti, utilizzando i risultati come input per altre iniziative a livello organizzativo, come:
+
+  * Pianificazione di corsi di formazione sulla sicurezza per vari membri del personale
+  * Miglioramento delle attività di verifica della sicurezza sia per il software sviluppato internamente che per quello esternamente raccolto
+  * Gestione della supply chain, ad esempio effettuando audit di sicurezza delle organizzazioni partner
+  * Monitoraggio degli attacchi contro l'infrastruttura e le applicazioni
+  * Investimenti nell'infrastruttura di sicurezza o in controlli compensativi
+  * Organizzazione del team di sicurezza e definizione del budget per la sicurezza
