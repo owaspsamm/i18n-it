@@ -1,0 +1,20 @@
+#The title of this activity
+title: Monitorare i difetti di sicurezza in un sistema centralizzato
+#Describe the benefit that is achieved by implementing this activity
+benefit: Trasparenza sui difetti di sicurezza noti che impattano applicazioni specifiche
+#A one sentence description of the activity
+shortDescription: Introdurre un tracciamento strutturato dei difetti di sicurezza e prendere decisioni informate sulla base di tali informazioni.
+#A multi-paragraph description of the activity
+longDescription: |
+  Introdurre una definizione comune e condivisa di "difetto di sicurezza" e definire i metodi più comuni per identificarli. Questi metodi includono, ma non si limitano a:
+
+  *Valutazioni delle minacce (Threat Assessments)  
+  *Test di penetrazione (Penetration Tests)  
+  *Risultati di strumenti di analisi statica e dinamica (Static and Dynamic Analysis Tools)  
+  *Processi di divulgazione responsabile o bug bounty 
+
+  Promuovere una cultura di trasparenza, evitando di attribuire colpe ai team per l'introduzione o l'identificazione di difetti di sicurezza. Registrare e monitorare tutti i difetti di sicurezza in una posizione definita. Sebbene questa posizione non debba necessariamente essere centralizzata per l’intera organizzazione, è fondamentale garantire la possibilità di ottenere una panoramica di tutti i difetti che influenzano una specifica applicazione in qualsiasi momento.
+
+  Definire e applicare regole di accesso per i difetti di sicurezza registrati, al fine di mitigare il rischio di fuga di informazioni e abuso dei dati.  
+
+  Introdurre almeno una classificazione qualitativa rudimentale dei difetti di sicurezza per consentire una priorizzazione efficace degli sforzi di risoluzione. Lavorare per limitare la duplicazione delle informazioni e la presenza di falsi positivi, aumentando così l’affidabilità e la credibilità del processo.
