@@ -1,0 +1,13 @@
+#The title of this activity
+title: Definire la strategia di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Roadmap disponibile e concordata del vostro programma di AppSec
+#A one sentence description of the activity
+shortDescription: Pubblica una strategia unificata per la sicurezza delle applicazioni.
+#A multi-paragraph description of the activity
+longDescription: |
+  In base all'entità degli asset, alle minacce e alla tolleranza al rischio, sviluppare un piano strategico di sicurezza e un budget per affrontare le priorità aziendali in ambito di sicurezza applicativa. Il piano, che copre un arco temporale da 1 a 3 anni, include traguardi coerenti con i driver aziendali e i rischi dell'organizzazione. Fornisce iniziative sia tattiche che strategiche, seguendo una roadmap che rende visibile l'allineamento con le priorità e le esigenze aziendali.
+
+  Nella roadmap, si raggiunge un equilibrio tra cambiamenti che richiedono spese finanziarie, modifiche ai processi e alle procedure, e trasformazioni che influenzano la cultura organizzativa. Questo equilibrio consente di raggiungere più traguardi contemporaneamente senza sovraccaricare o esaurire le risorse disponibili o i team di sviluppo. I traguardi sono sufficientemente frequenti per monitorare il successo del programma e consentire adeguamenti tempestivi della roadmap.
+
+  Per garantire il successo del programma, il team di sicurezza applicativa ottiene il consenso dei principali stakeholder dell'organizzazione e dei team di sviluppo applicativo. Un piano pubblicato è reso disponibile a tutte le persone che sono chiamate a supportare o partecipare alla sua implementazione.
