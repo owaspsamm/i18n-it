@@ -1,0 +1,11 @@
+#The title of this activity
+title: Organizza protezioni di base per i dati
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprendere la sensibilità dei dati trattati e implementare rapidamente misure pratiche per proteggerli
+#A one sentence description of the activity
+shortDescription: Implementa pratiche di base per la protezione dei dati.
+#A multi-paragraph description of the activity
+longDescription: |
+  Comprendi la tipologia e la sensibilità dei dati memorizzati e trattati dalle tue applicazioni e mantieni consapevolezza sul percorso dei dati elaborati (ad esempio, backup, condivisione con partner esterni). A questo livello di maturità, le informazioni raccolte possono essere registrate in modi e luoghi diversi; non si presume l’esistenza di un catalogo dati a livello organizzativo. Proteggi e gestisci tutti i dati associati a una determinata applicazione in base ai requisiti di protezione applicabili ai dati più sensibili memorizzati e trattati.
+
+  Implementa controlli essenziali per evitare che dati sensibili non sanitizzati vengano trasferiti dagli ambienti di produzione a quelli non di produzione. Assicurandoti che i dati di produzione non sanitizzati rimangano confinati nell'ambiente di produzione, puoi focalizzare le politiche e le attività di protezione dei dati esclusivamente su questo ambiente.
