@@ -1,0 +1,11 @@
+#The title of this activity
+title: Identifica le applicazioni inutilizzate
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificazione dei software o componenti non utilizzate
+#A one sentence description of the activity
+shortDescription: Dismetti le applicazioni e i servizi inutilizzati. Gestisci gli aggiornamenti o le migrazioni dei clienti caso per caso.
+#A multi-paragraph description of the activity
+longDescription: |
+  Individua le applicazioni inutilizzate in modo _ad hoc_, tramite osservazioni casuali o eseguendo revisioni occasionali. Quando identifichi applicazioni inutilizzate, valuta i risultati e avvia le azioni necessarie. Se hai già un processo formale per il decomissionamento di applicazioni inutilizzate, assicurati che i team lo conoscano e lo seguano.
+
+  Gestisci la migrazione dei clienti/utenti dalle versioni precedenti dei tuoi prodotti per ciascun prodotto e gruppo di clienti/utenti. Quando una versione di un prodotto non è più utilizzata da nessun cliente o gruppo di utenti, interrompi il supporto per quella versione. Tuttavia, a questo livello di maturità, potresti avere un numero elevato di versioni ancora in uso tra i clienti/utenti, il che può richiedere un notevole sforzo da parte degli sviluppatori per retroportare le correzioni.
