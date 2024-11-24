@@ -1,0 +1,15 @@
+#The title of this activity
+title: Costituisci un team dedicato alla gestione degli incidenti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Risposta efficace agli incidenti indipendentemente dal tempo, dal luogo o dal tipo di incidente
+#A one sentence description of the activity
+shortDescription: Impiegare un team dedicato e ben formato per la gestione degli incidenti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Costituisci un team dedicato alla gestione degli incidenti, sempre disponibile e responsabile del miglioramento continuo del processo grazie a regolari analisi delle cause principali (RCA). Per organizzazioni distribuite, definisci e documenta regole logistiche per tutte le sedi rilevanti, se appropriato.
+
+  Documenta procedure dettagliate per la gestione degli incidenti e mantienile aggiornate. Automatizza le procedure dove possibile. Mantieni pronte tutte le risorse necessarie per queste procedure (ad esempio, un'infrastruttura di comunicazione separata o una sede esterna affidabile). Rileva e correggi tempestivamente l'eventuale indisponibilità di queste risorse.
+
+  Organizza regolarmente esercitazioni per incidenti ed emergenze e utilizza i risultati per migliorare i processi.
+
+  Definisci, raccogli, valuta e agisci in base a metriche sul processo di gestione degli incidenti, includendo il suo miglioramento continuo.
