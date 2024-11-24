@@ -1,0 +1,17 @@
+#The title of this activity
+title: Esegui monitoraggio continuo della configurazione
+#Describe the benefit that is achieved by implementing this activity
+benefit: Chiara visione delle configurazioni dei componenti per evitare non conformità
+#A one sentence description of the activity
+shortDescription: Monitora attivamente le configurazioni per individuare eventuali non conformità rispetto alle baseline e gestisci le occorrenze rilevate come problemi di sicurezza.
+#A multi-paragraph description of the activity
+longDescription: |
+  Monitora attivamente le configurazioni di sicurezza degli stack tecnologici rilasciati, effettuando controlli regolari rispetto alle baseline stabilite. Assicurati che i risultati dei controlli siano facilmente accessibili, attraverso report pubblicati e dashboard.
+
+  Quando vengono rilevate configurazioni non conformi, considera ogni caso come un problema di sicurezza e gestisci le azioni correttive all'interno del tuo processo di gestione dei difetti.
+
+  Puoi migliorare ulteriormente il processo utilizzando misure automatizzate, come configurazioni "auto-riparanti" e avvisi tramite sistemi di gestione delle informazioni e degli eventi di sicurezza (SIEM).
+
+  Come parte del processo di aggiornamento dei componenti (ad esempio, nuove versioni o patch dei fornitori), rivedi le baseline e le guide di configurazione corrispondenti, aggiornandole se necessario per mantenerle pertinenti e accurate. Rivedi inoltre tutte le baseline e le guide di configurazione almeno una volta all'anno.
+
+  Rivedi periodicamente il tuo processo di gestione delle baseline, integrando feedback e lezioni apprese dai team che applicano e mantengono le baseline e le guide di configurazione.
