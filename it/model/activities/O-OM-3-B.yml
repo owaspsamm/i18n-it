@@ -1,0 +1,11 @@
+#The title of this activity
+title: Rivedere regolarmente lo stato del ciclo di vita delle applicazioni
+#Describe the benefit that is achieved by implementing this activity
+benefit: Piena visibilità nel ciclo di vita di tutte le risorse software
+#A one sentence description of the activity
+shortDescription: Gestisci in modo proattivo le roadmap di migrazione per dipendenze non supportate a fine ciclo di vita e versioni legacy del software fornito.
+#A multi-paragraph description of the activity
+longDescription: |
+  Valuta regolarmente lo stato del ciclo di vita e il livello di supporto di ogni asset software e componente dell'infrastruttura sottostante, stimandone la fine del ciclo di vita. Segui un processo ben definito per mitigare attivamente i rischi di sicurezza legati a asset o componenti che si avvicinano alla fine del loro ciclo di vita. Rivedi e aggiorna periodicamente il processo per incorporare le lezioni apprese.
+
+  Stabilisci un piano di supporto per i prodotti, fornendo tempistiche chiare per la fine del supporto delle versioni più vecchie. Limita il numero di versioni di prodotto in uso attivo a un numero ridotto (ad esempio, solo N.x.x e N-1.x.x). Definisci e comunica pubblicamente le tempistiche per la cessazione del supporto delle versioni precedenti e coinvolgi proattivamente clienti e gruppi di utenti per prevenire interruzioni nei servizi o nel supporto.
