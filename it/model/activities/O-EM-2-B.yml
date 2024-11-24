@@ -1,0 +1,13 @@
+#The title of this activity
+title: Formalizzare la gestione delle patch
+#Describe the benefit that is achieved by implementing this activity
+benefit: Patching coerente e proattivo dei componenti dello stack tecnologico
+#A one sentence description of the activity
+shortDescription: Eseguire regolarmente il patching dei componenti di sistema e delle applicazioni sull'intero stack. Garantire la tempestiva distribuzione delle patch ai clienti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Sviluppare e seguire un processo ben definito per la gestione delle patch dei componenti applicativi negli stack tecnologici utilizzati. Assicurarsi che il processo includa pianificazioni regolari per applicare gli aggiornamenti dei fornitori, in linea con i loro calendari (ad esempio, il Patch Tuesday di Microsoft). Per il software sviluppato internamente, rilasciare aggiornamenti ai clienti e alle soluzioni gestite dall’organizzazione con cadenza regolare (ad esempio, mensile), indipendentemente dall'inclusione di nuove funzionalità.
+
+  Creare linee guida per la prioritizzazione del patching dei componenti, tenendo conto della propria tolleranza al rischio e degli obiettivi di gestione. Valutare fattori operativi (ad esempio, criticità dell'applicazione, gravità delle vulnerabilità risolte) per stabilire le priorità nei test e nell’applicazione delle patch.
+
+  Nel caso in cui venga ricevuta una notifica relativa a una vulnerabilità critica in un componente, ma non sia ancora disponibile una patch, trattare la situazione come una questione di gestione del rischio. Adottare misure compensative, ottenere l'accettazione del rischio da parte del cliente o disabilitare le applicazioni o le funzionalità interessate.
