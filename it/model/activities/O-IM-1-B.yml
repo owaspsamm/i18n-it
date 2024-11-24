@@ -1,0 +1,13 @@
+#The title of this activity
+title: Crea un piano di risposta degli incidenti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacità di risolvere in modo efficiente i più comuni incidenti di sicurezza
+#A one sentence description of the activity
+shortDescription: Identificare i ruoli e le responsabilità per la risposta agli incidenti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Il primo passo è riconoscere la competenza nella gestione degli incidenti e definire un responsabile dedicato. Fornisci a questa persona il tempo e le risorse necessari per rimanere aggiornata sulle migliori pratiche di gestione degli incidenti e sugli strumenti di analisi forense.
+
+  A questo livello di maturità, potresti non avere ancora un team dedicato alla gestione degli incidenti, ma è importante aver definito i partecipanti al processo (di solito ruoli diversi). Assegna un unico punto di contatto per il processo, noto a tutti i soggetti coinvolti. Assicurati che il punto di contatto sappia come raggiungere ogni partecipante e definisci le responsabilità di reperibilità per chi le ha.
+
+  In caso di incidenti di sicurezza, documenta tutte le azioni intraprese e proteggi queste informazioni da accessi non autorizzati.
