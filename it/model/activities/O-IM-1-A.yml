@@ -1,0 +1,17 @@
+#The title of this activity
+title: Adottare un approccio al rilevamento degli incidenti al meglio delle proprie capacità
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacità di rilevare gli incidenti di sicurezza più evidenti
+#A one sentence description of the activity
+shortDescription: Utilizzare i dati disponibili nei log per effettuare il rilevamento dei possibili incidenti di sicurezza al meglio delle proprie capacità.
+#A multi-paragraph description of the activity
+longDescription: |
+  Analizza i dati di log disponibili (ad esempio, log di accesso, log delle applicazioni, log dell'infrastruttura) per individuare possibili incidenti di sicurezza, in conformità con i periodi di conservazione dei log definiti.
+
+  In configurazioni di piccole dimensioni, questo può essere fatto manualmente con strumenti comuni da riga di comando. Per volumi di log più ampi, utilizza tecniche di automazione. Anche un semplice job `cron` che esegue uno script per rilevare eventi sospetti rappresenta un miglioramento.
+
+  Se i log provenienti da diverse fonti vengono inviati a un sistema dedicato di aggregazione dei log, analizzali lì, applicando principi basilari di correlazione dei log.
+
+  Anche se non disponi di un processo di rilevamento degli incidenti attivo 24/7, assicurati che l'indisponibilità della persona responsabile (ad esempio, per ferie o malattia) non abbia un impatto significativo sulla velocità o sulla qualità del rilevamento.
+
+  Stabilisci e condividi i punti di contatto per la creazione formale di incidenti di sicurezza.
