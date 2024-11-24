@@ -1,0 +1,15 @@
+#The title of this activity
+title: Definire un processo di rilevamento degli incidenti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Rilevamento tempestivo e coerente degli incidenti di sicurezza previsti
+#A one sentence description of the activity
+shortDescription: Seguire un processo consolidato e ben documentato per il rilevamento degli incidenti, con particolare attenzione alla valutazione automatizzata dei log.
+#A multi-paragraph description of the activity
+longDescription: |
+  Nomina un responsabile dedicato per il processo di rilevamento degli incidenti, rendi la documentazione chiara e accessibile a tutti gli stakeholder del processo e assicurati che venga regolarmente rivista e aggiornata, se necessario. Garantisci che i dipendenti incaricati del rilevamento degli incidenti seguano questo processo, ad esempio attraverso attività di formazione.
+
+  Il processo dovrebbe fare affidamento su un alto grado di automazione, raccogliendo e correlando i dati di log provenienti da diverse fonti, inclusi i log delle applicazioni. Se opportuno, puoi aggregare i log in un sistema centrale. Verifica periodicamente l'integrità dei dati analizzati. Quando viene aggiunta una nuova applicazione, assicurati che il processo la includa entro un periodo di tempo ragionevole.
+
+  Rileva possibili incidenti di sicurezza utilizzando una checklist disponibile. La checklist dovrebbe coprire i vettori di attacco previsti e le kill chain note o attese. Valutala e aggiornala regolarmente.
+
+  Quando un evento viene identificato come incidente di sicurezza con un livello di confidenza sufficientemente alto, notifica immediatamente il personale responsabile, anche al di fuori dell’orario lavorativo. Procedi con ulteriori analisi, se necessario, e avvia il processo di escalation.
