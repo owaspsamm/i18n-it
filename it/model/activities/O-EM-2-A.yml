@@ -1,0 +1,13 @@
+#The title of this activity
+title: Stabilire baseline di hardening
+#Describe the benefit that is achieved by implementing this activity
+benefit: Hardening coerente dei componenti dello stack tecnologico nella tua organizzazione
+#A one sentence description of the activity
+shortDescription: Eseguire un hardening coerente delle configurazioni, seguendo le linee di base stabilite e le linee guida.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definire baseline di hardening per le configurazioni di tutti i componenti degli stack tecnologici utilizzati. Per garantire un’applicazione uniforme delle baseline, creare guide pratiche per configurare i componenti. Richiedere ai team di applicare queste baseline a tutti i nuovi sistemi e, quando possibile, anche a quelli esistenti.
+
+  Gestire le baseline di hardening e le guide di configurazione attraverso un processo di controllo delle modifiche, assegnando a ciascuna un responsabile. I responsabili devono assicurarsi che siano sempre aggiornate, seguendo le migliori pratiche più recenti o tenendo conto dei cambiamenti nei componenti, come aggiornamenti di versione o nuove funzionalità.
+
+  In ambienti più complessi, basare le configurazioni delle istanze su un master locale, applicando le baseline appropriate. Per semplificare e velocizzare l’hardening, utilizzare strumenti automatizzati per la configurazione.
