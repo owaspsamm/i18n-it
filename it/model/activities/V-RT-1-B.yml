@@ -1,0 +1,11 @@
+#The title of this activity
+title: Esegui fuzz testing
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione del comportamento delle applicazioni quando gestiscono input inattesi
+#A one sentence description of the activity
+shortDescription: Eseguire test di sicurezza tramite fuzzing.
+#A multi-paragraph description of the activity
+longDescription: |
+  Eseguire fuzz testing, inviando dati casuali o malformati al soggetto del test nel tentativo di provocare un crash. Il fuzz testing, o fuzzing, è una tecnica di test software di tipo Black Box che consiste nel trovare bug di implementazione utilizzando iniezioni automatizzate di dati malformati o semi-malformati. Garantire almeno un livello minimo di fuzzing per individuare vulnerabilità nei principali parametri di input dell'applicazione.
+
+  Il vantaggio del fuzz testing risiede nella semplicità della progettazione del test e nell'assenza di preconcetti sul comportamento del sistema. L'approccio stocastico consente di individuare bug che spesso sfuggono agli occhi umani o ai test strutturati. È anche uno dei pochi metodi per valutare la qualità di un sistema chiuso (ad esempio un telefono SIP). La semplicità nel condurre test di fuzzing è controbilanciata dalla difficoltà di rilevare e classificare accuratamente i crash. Preferire strumenti e framework di fuzzing esistenti per sfruttare i loro strumenti di supporto.
