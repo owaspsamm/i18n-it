@@ -1,0 +1,15 @@
+#The title of this activity
+title: Integra gli strumenti di test di sicurezza nella pipeline di distribuzione
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificazione delle vulnerabilità automaticamente rilevabili nelle prime fasi possibili
+#A one sentence description of the activity
+shortDescription: Integrare  test di sicurezza automatizzati nel processo di build e distribuzione.
+#A multi-paragraph description of the activity
+longDescription: |
+  I progetti all'interno dell'organizzazione eseguono regolarmente test di sicurezza automatizzati e analizzano i risultati durante lo sviluppo. Configura gli strumenti di test di sicurezza affinché vengano eseguiti automaticamente come parte del processo di build e deployment, rendendo il tutto scalabile con un basso impatto operativo. Esamina i risultati man mano che emergono.
+
+  Eseguire test di sicurezza già nelle fasi di requisiti o progettazione può essere vantaggioso. Sebbene tradizionalmente utilizzato per i test case funzionali, questo approccio di sviluppo guidato dai test prevede di identificare ed eseguire i casi di test di sicurezza rilevanti all'inizio del ciclo di sviluppo. Con l’esecuzione automatica dei test di sicurezza, i progetti entrano nella fase di implementazione con alcuni test falliti per funzionalità ancora non sviluppate. L'implementazione è completa quando tutti i test vengono superati. Questo approccio fornisce agli sviluppatori un obiettivo chiaro fin dall’inizio, riducendo il rischio di ritardi nel rilascio dovuti a problemi di sicurezza o all’accettazione forzata dei rischi per rispettare le scadenze del progetto.
+
+  Rendi visibili i risultati dei test di sicurezza automatici e manuali attraverso dashboard e presentali regolarmente a management e stakeholder aziendali (ad esempio, prima di ogni rilascio) per la revisione. Se ci sono risultati non risolti che vengono accettati come rischi per il rilascio, stakeholder e responsabili dello sviluppo lavorano insieme per stabilire un calendario concreto per affrontarli. Rivedi e migliora continuamente la qualità dei test di sicurezza.
+
+  Valuta e implementa strumenti di correlazione dei test di sicurezza per automatizzare l'associazione e l'unione dei risultati dei test provenienti da scanner dinamici, statici e interattivi in un'unica dashboard centrale, fornendo input diretti alla gestione dei difetti. Diffondi la conoscenza dei test di sicurezza creati e dei loro risultati all'interno del team di sviluppo per aumentare la consapevolezza e le competenze in materia di sicurezza nell’organizzazione.
