@@ -1,0 +1,13 @@
+#The title of this activity
+title: Verificare strutturalmente l'architettura per le minacce identificate
+#Describe the benefit that is achieved by implementing this activity
+benefit: Tutte le minacce identificate per l'applicazione sono gestite adeguatamente.
+#A one sentence description of the activity
+shortDescription: Analizzare l'architettura per le minacce conosciute.
+#A multi-paragraph description of the activity
+longDescription: |
+  Esaminare sistematicamente ciascuna minaccia identificata durante le attività di Valutazione delle Minacce e analizzare come l'architettura le mitiga. Utilizzare un processo standardizzato per analizzare le architetture di sistema e i flussi di dati al loro interno. Questo processo è tipicamente collegato al modello di minacce utilizzato (es. STRIDE) per identificare gli obiettivi di sicurezza pertinenti che affrontano ogni tipo di minaccia. Per ogni minaccia, identificare le caratteristiche di progettazione dell'architettura che la contrastano e valutarne l'efficacia.
+
+  Dove disponibile, esaminare i registri delle decisioni architetturali per comprendere i vincoli e i compromessi architetturali effettuati durante la progettazione. Considerarne l'impatto insieme a eventuali presupposti di sicurezza su cui si basa il funzionamento sicuro del sistema e rivalutarli.
+
+  Arricchire il modello di minacce precedentemente creato in modo che ogni minaccia e il suo impatto stimato siano collegati alla corrispondente contromisura. Produrre un documento di mappatura o una dashboard in uno strumento specializzato per rendere le informazioni accessibili e visibili ai soggetti interessati.
