@@ -1,0 +1,15 @@
+#The title of this activity
+title: Stabilisci un processo di penetration testing
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione della resilienza dell'applicazione da una prospettiva black-box
+#A one sentence description of the activity
+shortDescription: Effettuare penetration testing manuale.
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilizzando il set di test case di sicurezza identificati per ogni progetto, conduci penetration testing manuale per valutare le prestazioni del sistema rispetto a ciascun caso. Generalmente, questo avviene durante la fase di test prima del rilascio e include sia penetration testing manuale statico che dinamico. Nei casi in cui il software non possa essere testato realisticamente al di fuori dell'ambiente di produzione, tecniche come i deployment blue-green o l'A/B testing possono consentire test di sicurezza circoscritti direttamente in produzione.
+
+  I casi di penetration testing includono sia test specifici per l'applicazione, utili a verificare la correttezza della logica di business, sia test di vulnerabilità più generici per valutare design e implementazione. Una volta definiti, possono essere eseguiti da personale esperto in sicurezza, come specialisti della qualità o sviluppatori. Il gruppo centrale per la sicurezza del software supporta il team di progetto durante l’esecuzione iniziale dei test, offrendo assistenza e formazione ai responsabili della sicurezza del team.
+
+  Molte organizzazioni offrono programmi di "Bug Bounty" che invitano i ricercatori di sicurezza a trovare vulnerabilità nelle applicazioni e a segnalarle responsabilmente in cambio di ricompense. Questo approccio consente di accedere a un pool di talenti più ampio, particolarmente utile per organizzazioni che non dispongono di una capacità interna sufficiente o che necessitano di una garanzia aggiuntiva.
+
+  Prima del rilascio o della distribuzione su larga scala, gli stakeholder analizzano i risultati dei test di sicurezza e decidono se accettare i rischi legati ai test non superati. È importante definire una tempistica chiara per colmare progressivamente le lacune individuate. Condividere i risultati dei test di sicurezza manuali e diffondere la conoscenza all'interno del team di sviluppo aiuta a migliorare la consapevolezza e le competenze in ambito sicurezza nell'organizzazione.
