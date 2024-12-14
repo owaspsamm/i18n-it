@@ -1,0 +1,11 @@
+#The title of this activity
+title: Verificare l'efficacia dei componenti di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garanzia dell'efficacia dei controlli architetturali
+#A one sentence description of the activity
+shortDescription: Revisione dell'efficacia dei componenti dell'architettura.
+#A multi-paragraph description of the activity
+longDescription: |
+  Esaminare l'efficacia dei componenti dell'architettura e dei meccanismi di sicurezza forniti in termini di allineamento con la strategia complessiva dell'organizzazione, valutando il grado di disponibilità, scalabilità e preparazione a livello enterprise delle soluzioni di sicurezza scelte. Sebbene scelte tattiche per un'applicazione specifica possano avere senso in contesti particolari, è importante mantenere una visione d'insieme e garantire la preparazione futura della soluzione progettata.
+
+  Riportare eventuali risultati nel sistema di gestione dei difetti per avviare ulteriori miglioramenti all'architettura.
