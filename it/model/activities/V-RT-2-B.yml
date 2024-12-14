@@ -1,0 +1,11 @@
+#The title of this activity
+title: Definire ed eseguire scenari di abuso di sicurezza basati sui requisiti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Individuazione di difetti nella logica di business dell'applicazione
+#A one sentence description of the activity
+shortDescription: Creare ed eseguire test per casi di abuso e difetti nella logica di business.
+#A multi-paragraph description of the activity
+longDescription: |
+  I casi di uso improprio e abuso descrivono scenari di utilizzo non previsto o dannoso dell'applicazione, spiegando come un attaccante potrebbe sfruttarli. Creare casi di uso improprio e abuso per sfruttare o aggirare le debolezze dei controlli nelle funzionalità software al fine di attaccare un'applicazione. Utilizzare modelli di casi di abuso per identificare test di sicurezza concreti che sfruttino direttamente o indirettamente questi scenari.
+
+  L'abuso di funzionalità, talvolta definito "attacco alla logica di business", dipende dalla progettazione e implementazione delle funzioni e delle caratteristiche dell'applicazione. Un esempio è l'uso del flusso di reimpostazione password per enumerare account. Nell'ambito del test della logica di business, identificare le regole aziendali importanti per l'applicazione e trasformarle in esperimenti per verificare se l'applicazione le applica correttamente. Ad esempio, in un'applicazione di trading azionario, un attaccante può avviare una transazione all'inizio della giornata per bloccare un prezzo, mantenerla aperta fino alla fine della giornata e completare la vendita se il prezzo è salito o annullarla se è sceso?
