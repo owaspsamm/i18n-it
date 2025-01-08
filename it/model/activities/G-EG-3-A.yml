@@ -1,0 +1,15 @@
+#The title of this activity
+title: Standardizza le linee guida sulla sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantire una conoscenza adeguata della sicurezza a tutti i dipendenti prima che lavorino su compiti critici
+#A one sentence description of the activity
+shortDescription: Linee guida interne uniformate sugli standard di sviluppo software sicuro dell'organizzazione.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementa un programma di formazione formale che richieda a chiunque sia coinvolto nel ciclo di vita dello sviluppo software di completare una formazione specifica per ruolo e tecnologia come parte del processo di onboarding. In base alla criticità dell'applicazione e al ruolo dell'utente, valuta la possibilità di limitare l'accesso fino al completamento della formazione iniziale. Sebbene l'organizzazione possa acquisire alcuni moduli esternamente, il programma è gestito internamente e include contenuti specifici per l'organizzazione, andando oltre le comuni migliori pratiche di sicurezza. Il programma prevede un curriculum definito, verifica la partecipazione e testa la comprensione e la competenza. La formazione combina le migliori pratiche del settore con gli standard interni dell'organizzazione, inclusa una formazione sui sistemi specifici utilizzati internamente.
+
+  Oltre alle problematiche direttamente legate alla sicurezza, l'organizzazione integra nel programma altri standard, come la complessità del codice, la documentazione del codice, le convenzioni di denominazione e altre discipline legate ai processi. Questa formazione riduce i problemi derivanti dall'adozione di pratiche esterne all'organizzazione e garantisce continuità nello stile e nella qualità del codice.
+
+  Per facilitare il monitoraggio dei progressi e il completamento con successo di ogni modulo formativo, l'organizzazione utilizza una piattaforma di gestione dell'apprendimento o un portale centralizzato con funzionalità comparabili. I dipendenti possono monitorare i propri progressi e accedere a tutte le risorse formative anche dopo aver completato la formazione iniziale.
+
+  Rivedi almeno annualmente i problemi derivanti dal mancato rispetto da parte dei dipendenti degli standard, delle politiche, delle procedure o delle migliori pratiche di sicurezza per valutare l'efficacia della formazione e assicurarti che affronti tutte le problematiche rilevanti per l'organizzazione. Aggiorna periodicamente la formazione e istruisci i dipendenti su eventuali cambiamenti e sulle problematiche di sicurezza più comuni.

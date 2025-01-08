@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Sì, ma la segnalazione è ad hoc
+  - 
+    #third level
+    text: Sì, segnaliamo in orari regolari
+  - 
+    #highest level
+    text: Sì, segnaliamo almeno annualmente

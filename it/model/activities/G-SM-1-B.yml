@@ -1,0 +1,24 @@
+#The title of this activity
+title: Definisci metriche di sicurezza di base
+#Describe the benefit that is achieved by implementing this activity
+benefit: Concetti di base sull'efficacia e l'efficienza del tuo programma AppSec
+#A one sentence description of the activity
+shortDescription: Definire metriche che forniscano informazioni sull'efficacia e sull'efficienza del Programma di Sicurezza delle Applicazioni.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definire e documentare metriche per valutare l'efficacia e l'efficienza del programma di sicurezza delle applicazioni. In questo modo, i miglioramenti saranno misurabili e sarà possibile utilizzarli per garantire supporto e finanziamenti futuri per il programma. Considerando la natura dinamica della maggior parte degli ambienti di sviluppo, le metriche dovrebbero includere misurazioni nelle seguenti categorie:
+
+  * `Metriche di Sforzo`: misurano lo sforzo dedicato alla sicurezza. Ad esempio, ore di formazione, tempo impiegato per revisioni del codice e numero di applicazioni analizzate per individuare vulnerabilità.
+  * `Metriche di Risultato `: misurano i risultati degli sforzi di sicurezza. Esempi includono il numero di patch in sospeso con difetti di sicurezza e il numero di incidenti di sicurezza legati a vulnerabilità delle applicazioni.
+  * `Metriche di Ambiente `: misurano l'ambiente in cui vengono svolti gli sforzi di sicurezza. Esempi includono il numero di applicazioni o il numero di righe di codice come misura della difficoltà o complessità.
+
+  Ogni metrica, presa singolarmente, è utile per uno scopo specifico, ma la combinazione di due o tre metriche insieme aiuta a spiegare eventuali picchi nelle tendenze. Ad esempio, un aumento nel numero totale di vulnerabilità potrebbe essere causato dall'adozione di diverse nuove applicazioni da parte dell'organizzazione, applicazioni che non hanno meccanismi di sicurezza implementati. Al contrario, un aumento delle metriche relative all'ambiente senza un corrispondente aumento delle metriche di sforzo o di risultato potrebbe indicare un programma di sicurezza maturo ed efficiente.
+
+  Nel definire le metriche, è sempre consigliato attenersi a quelle che soddisfano diversi criteri:
+
+  * Misurabilità costante
+  * Economiche da raccogliere
+  * Espresse come un numero cardinale o una percentuale
+  * Espresse come un'unità di misura
+
+  Documentare le metriche includendo descrizioni dei metodi migliori ed efficienti per raccogliere i dati, oltre ai metodi consigliati per combinare misurazioni individuali in metriche significative. Ad esempio, il numero di applicazioni e il numero totale di difetti in tutte le applicazioni, considerati singolarmente, potrebbero non essere molto utili. Tuttavia, quando combinati in una metrica come il numero di difetti ad alta gravità ancora irrisolti per applicazione, offrono un'indicazione più significativa e attuabile.

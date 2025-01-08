@@ -1,0 +1,5 @@
+#Official stream name
+name: Patching e aggiornamento
+#Multi-paragraph explanation of the stream
+description: |
+  Le attività in questo flusso si concentrano sulla gestione, da parte dell'organizzazione, di patch e aggiornamenti per tutti gli elementi dello stack tecnologico. Per il software sviluppato internamente dall'organizzazione, queste attività riguardano la distribuzione di patch e aggiornamenti ai clienti, nonché l'applicazione agli ambienti gestiti dall'organizzazione (ad esempio, soluzioni software-as-a-service). Per gli elementi di terze parti, le attività si focalizzano sull'applicazione tempestiva degli aggiornamenti e delle patch ricevuti.

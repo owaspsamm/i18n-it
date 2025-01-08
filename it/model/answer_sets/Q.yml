@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Sì, per una categoria di metriche
+  - 
+    #third level
+    text: Sì, per due categorie di metriche
+  - 
+    #highest level
+    text: Sì, per tutte e tre le categorie di metriche

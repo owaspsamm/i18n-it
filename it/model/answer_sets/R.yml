@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Sì, sporadicamente
+  - 
+    #third level
+    text: Sì, in caso di modifica dell'applicazione
+  - 
+    #highest level
+    text: Sì, almeno annualmente

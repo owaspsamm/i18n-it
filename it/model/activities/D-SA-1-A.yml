@@ -1,0 +1,13 @@
+#The title of this activity
+title: Aderire ai principi fondamentali di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Insiemi di principi di sicurezza di base disponibili per i team di prodotto
+#A one sentence description of the activity
+shortDescription: I team vengono formati sull'utilizzo dei principi di sicurezza di base durante la fase di progettazione.
+#A multi-paragraph description of the activity
+longDescription: |
+  Durante la progettazione, il personale tecnico del team di prodotto utilizza una breve checklist dei principi di sicurezza. Tipicamente, i principi di sicurezza includono: difesa in profondità, protezione del weakest link, utilizzo di impostazioni predefinite sicure, semplicità nel design delle funzionalità di sicurezza, gestione sicura dei guasti, equilibrio tra sicurezza e usabilità, operare con il minimo privilegio, evitare la sicurezza basata sull’oscurità, ecc.
+
+  Per le interfacce perimetrali, il team considera ciascun principio nel contesto del sistema complessivo e identifica le funzionalità che possono essere aggiunte per rafforzare la sicurezza in ciascuna di queste interfacce. Limitare tali aggiunte a quelle che richiedono solo un piccolo sforzo extra rispetto al normale costo di implementazione dei requisiti funzionali. Annotare eventuali interventi più consistenti e pianificarli per rilasci futuri.
+
+  Formare ogni team di prodotto sui principi della sicurezza prima di questo processo, e integrare nel team personale con maggiore competenza in ambito sicurezza per supportare le decisioni di progettazione.

@@ -1,0 +1,15 @@
+#The title of this activity
+title: Adottare un approccio di patching al meglio delle proprie capacità
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mitigazione di problemi ben noti in componenti di terze parti
+#A one sentence description of the activity
+shortDescription: Eseguire il patching dei componenti di sistema e delle applicazioni al meglio delle proprie capacità.
+#A multi-paragraph description of the activity
+longDescription: |
+  Individuare applicazioni e componenti di terze parti che richiedono aggiornamenti o patch, inclusi sistemi operativi, server applicativi e librerie di codice esterne.
+
+  A questo livello di maturità, le attività di identificazione e patching vengono svolte con un approccio _ad hoc_, basato sul miglior sforzo possibile, senza un processo strutturato per monitorare le versioni dei componenti, gli aggiornamenti disponibili o lo stato delle patch. Tuttavia, potrebbero esserci requisiti generali, come testare le patch prima di implementarle in produzione, che i team cercano di rispettare al meglio delle loro capacità.
+
+  Ad eccezione degli aggiornamenti critici di sicurezza (ad esempio, una vulnerabilità nota e sfruttabile in un componente di terze parti), i team approfittano delle finestre di manutenzione già pianificate per applicare le patch ai componenti. Per quanto riguarda il software sviluppato internamente, le patch vengono rilasciate ai clienti e alle soluzioni gestite dall’organizzazione solo come parte degli aggiornamenti delle funzionalità.
+
+  I team condividono informazioni sugli aggiornamenti disponibili e le loro esperienze di patching in modo _ad hoc_. È fondamentale che i team siano in grado di identificare le versioni di tutti i componenti utilizzati, per valutare l’impatto di eventuali vulnerabilità di sicurezza segnalate. Tuttavia, creare e mantenere un elenco aggiornato dei componenti può richiedere un notevole impegno da parte degli analisti.

@@ -1,0 +1,5 @@
+#Official stream name
+name: Mitigazione Dell'Architettura
+#Multi-paragraph explanation of the stream
+description: |
+  La mitigazione dell'architettura mira a garantire che tutte le minacce individuate durante la valutazione della minaccia siano adeguatamente mitigate e che le architetture di riferimento esistenti siano aggiornate per affrontare eventuali minacce non gestite.

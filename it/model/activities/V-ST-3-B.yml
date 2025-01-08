@@ -1,0 +1,15 @@
+#The title of this activity
+title: Stabilisci una verifica continua e scalabile della sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificazione delle vulnerabilità automaticamente rilevabili nelle prime fasi possibili
+#A one sentence description of the activity
+shortDescription: Integrare i test di sicurezza nel processo di sviluppo.
+#A multi-paragraph description of the activity
+longDescription: |
+  Integra i test di sicurezza parallelamente a tutte le altre attività di sviluppo, incluse l'analisi dei requisiti, la progettazione e la costruzione del software.
+
+  Con l’uso di molteplici strumenti di sicurezza in ogni fase dello sviluppo, affrontare i problemi di sicurezza solo in una fase designata (come i test pre-rilascio) non è più adeguato né desiderabile. I problemi di sicurezza devono essere rapidamente valutati e risolti con un bilanciamento tra rischio e costo di intervento. Rilevare le problematiche il prima possibile nel ciclo di sviluppo, grazie a test automatizzati specifici e a basso impatto integrati nei tool di sviluppo e nei processi di build, riduce il costo di risoluzione e aumenta la probabilità che i problemi vengano rapidamente risolti.
+
+  Migliora proattivamente l’efficacia dei test di sicurezza integrati nel processo di sviluppo propagando adeguatamente i risultati di altre attività di test di sicurezza. Ad esempio, se un penetration test rileva problemi nella gestione delle sessioni, qualsiasi modifica alla gestione delle sessioni dovrebbe attivare test di sicurezza espliciti prima della distribuzione in produzione.
+
+  I security champion e il gruppo centrale di sicurezza del software esaminano continuamente i risultati dei test di sicurezza automatizzati e manuali durante lo sviluppo, includendo tali risultati nelle sessioni di formazione sulla sicurezza per i team di sviluppo. Le lezioni apprese devono essere integrate nei playbook organizzativi per migliorare i test di sicurezza come parte del processo di sviluppo aziendale. Se ci sono problemi irrisolti accettati come rischi per il rilascio, stakeholder e responsabili dello sviluppo devono collaborare per definire una tempistica concreta per affrontarli.

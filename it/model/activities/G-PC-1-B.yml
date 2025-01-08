@@ -1,0 +1,13 @@
+#The title of this activity
+title: Identificare i requisiti di conformità
+#Describe the benefit that is achieved by implementing this activity
+benefit: Politiche e standard di sicurezza allineati con i requisiti di conformità esterni
+#A one sentence description of the activity
+shortDescription: Identifica i requisiti e i driver di conformità di terze parti e mappali alle politiche e agli standard esistenti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Crea un elenco completo di tutti i requisiti di conformità, includendo eventuali fattori che possano aiutare a determinare quali applicazioni rientrano nell’ambito. I requisiti di conformità possono essere considerati applicabili in base a fattori come la posizione geografica, i tipi di dati o gli obblighi contrattuali con clienti o partner commerciali. Esamina ogni requisito di conformità identificato con gli esperti appropriati e il team legale per garantire che l'obbligo sia pienamente compreso. Poiché molti obblighi di conformità variano nella loro applicabilità in base al modo in cui i dati vengono elaborati, archiviati o trasmessi nell'ambiente informatico, i driver di conformità dovrebbero sempre evidenziare opportunità per ridurre il carico complessivo di conformità modificando il modo in cui i dati vengono gestiti.
+
+  Valuta la pubblicazione di una matrice di conformità per aiutare a identificare quali fattori potrebbero rendere un'applicazione soggetta a un determinato requisito normativo. La matrice dovrebbe indicare quali requisiti di conformità si applicano a livello organizzativo e non dipendono dalle singole applicazioni. Essa fornisce almeno una comprensione di base dei requisiti di conformità utili per esaminare gli obblighi relativi alle diverse applicazioni.
+
+  Poiché molti standard di conformità si concentrano sulle migliori pratiche di sicurezza, numerosi requisiti di conformità potrebbero già far parte della libreria di politiche e standard pubblicata dall'organizzazione. Pertanto, dopo aver esaminato i requisiti di conformità, mappali alle politiche e agli standard esistenti applicabili. In caso di discrepanze, aggiorna le politiche e gli standard per includere i requisiti di conformità applicabili a livello organizzativo. Successivamente, inizia a creare standard specifici per la conformità applicabili esclusivamente a determinati requisiti di conformità. L'obiettivo è disporre di una matrice di conformità che indichi quali politiche e standard contengono informazioni più dettagliate sui requisiti di conformità, garantendo al contempo che le singole politiche e standard facciano riferimento ai requisiti di conformità applicabili.

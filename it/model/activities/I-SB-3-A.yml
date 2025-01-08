@@ -1,0 +1,12 @@
+#The title of this activity
+title: Applicare una baseline di sicurezza durante il processo di build
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garanzia che il software venga costruito rispettando una baseline di sicurezza
+shortDescription: Definire controlli di sicurezza obbligatori nel processo di build e garantire che la creazione di artefatti non conformi venga bloccata.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definire i controlli di sicurezza appropriati da eseguire durante il processo di build, nonché i criteri minimi per il superamento del build, che possono variare in base ai profili di rischio delle diverse applicazioni. Includere questi controlli di sicurezza nel processo di build e imporre l'interruzione del build qualora i criteri predefiniti non vengano soddisfatti. Attivare avvisi per i problemi sotto la soglia stabilita e registrarli in un sistema centralizzato per monitorarli e intraprendere le azioni necessarie. Se appropriato, implementare un meccanismo di eccezione per bypassare tale comportamento qualora il rischio di una vulnerabilità specifica sia stato accettato o mitigato. Tuttavia, assicurarsi che questi casi siano approvati esplicitamente e registrarne l'occorrenza insieme alla motivazione.
+
+  Se limitazioni tecniche impediscono all'organizzazione di interrompere automaticamente il build, ottenere lo stesso risultato attraverso altre misure, come l'adozione di politiche chiare e audit regolari.
+
+  Gestire la firma del codice su un server centralizzato separato che non esponga il certificato al sistema che esegue il build. Laddove possibile, utilizzare un metodo deterministico che generi artefatti riproducibili byte-per-byte.

@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Strategia E Metriche
+#A one sentence description of the security practice
+shortDescription: Questa pratica costituisce la base delle tue attività di sicurezza del software attraverso la creazione di un piano complessivo.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La garanzia del software comprende molteplici attività e aspetti. Senza un piano complessivo, potresti investire molti sforzi per integrare la sicurezza, ma in realtà i tuoi interventi potrebbero risultare disallineati, sproporzionati o persino controproducenti. L'obiettivo della pratica di Strategia e Metriche (SM) è creare un piano efficiente ed efficace per raggiungere gli obiettivi di sicurezza del software all'interno della tua organizzazione.
+
+  Un programma di sicurezza del software, che seleziona e dà priorità alle attività del resto del modello, funge da base per i tuoi sforzi. La pratica si occupa di sviluppare il piano, mantenerlo e diffonderlo.
+
+  Allo stesso tempo, è importante monitorare la postura di sicurezza e i miglioramenti del programma. Un approccio basato su metriche è incluso per garantire una visione accurata delle attività. Misurare significa conoscere.

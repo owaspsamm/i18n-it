@@ -1,0 +1,17 @@
+#The title of this activity
+title: Fornire le soluzioni di sicurezza preferite
+#Describe the benefit that is achieved by implementing this activity
+benefit: Servizi di sicurezza riutilizzabili disponibili per i team di prodotto
+#A one sentence description of the activity
+shortDescription: Stabilisci modelli di progettazione e soluzioni di sicurezza comuni per favorirne l'adozione.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identificare infrastrutture o servizi condivisi con funzionalità di sicurezza. Questi includono tipicamente servizi di single sign-on, controllo degli accessi o servizi di gestione delle autorizzazioni, servizi di logging e monitoraggio, o firewall a livello applicativo. Raccogli e valuta i sistemi riutilizzabili per creare un elenco di tali risorse e categorizzarle in base al meccanismo di sicurezza che offrono. Valuta ogni risorsa considerando i motivi per cui un team di prodotto vorrebbe integrarla, ossia i benefici derivanti dall'uso della risorsa condivisa.
+
+  Se esistono più risorse in una stessa categoria, seleziona e standardizza uno o più servizi condivisi per categoria. Poiché lo sviluppo software futuro si baserà su questi servizi, esaminali attentamente per comprendere la loro postura di sicurezza di base. Per ogni servizio selezionato, crea linee guida di progettazione che i team di prodotto possano utilizzare per capire come integrarsi con il sistema. Rendi queste linee guida disponibili tramite formazione, mentorship, linee guida e standard.
+
+  Stabilisci un insieme di best practices che rappresentino metodi efficaci per implementare funzionalità di sicurezza. Puoi ricercarle o acquistarle, e spesso è più efficace personalizzarle per renderle più specifiche alla tua organizzazione. Esempi di modelli includono un sottosistema di single sign-on, un modello di delega cross-tier, un modello di autorizzazione con separazione dei compiti, un pattern di logging centralizzato, ecc.
+
+  Questi modelli possono derivare da progetti o applicazioni specifiche, ma assicurati di condividerli tra i diversi team dell’organizzazione per un’applicazione efficiente e coerente di soluzioni di sicurezza appropriate.
+
+  Per aumentare l'adozione di questi modelli, collegali ai servizi di sicurezza condivisi o implementali in componenti effettivi che possano essere facilmente integrati in un'applicazione durante lo sviluppo. Supporta le tecnologie chiave all'interno dell'organizzazione, ad esempio in caso di diversi stack di sviluppo. Tratta queste soluzioni come vere e proprie applicazioni, garantendo supporto adeguato in caso di domande o problemi.

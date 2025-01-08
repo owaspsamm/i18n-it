@@ -1,0 +1,4 @@
+#Official stream name
+name: Tracciamento Difetti
+#Multi-paragraph explanation of the stream
+description: Il tracciamento dei difetti gestisce la raccolta e il follow-up di tutti i potenziali problemi in un software, da difetti architetturali a problemi di codifica e vulnerabilità durante l'esecuzione.

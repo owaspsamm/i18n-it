@@ -1,0 +1,15 @@
+#The title of this activity
+title: Utilizzare un processo di deployment ripetibile
+#Describe the benefit that is achieved by implementing this activity
+benefit: Rischio limitato di errore umano durante il processo di deployment, riducendo al minimo i problemi di sicurezza
+#A one sentence description of the activity
+shortDescription: Formalizzare il processo di deployment e mettere in sicurezza gli strumenti e le procedure utilizzati.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definire il processo di deployment per tutte le fasi, suddividendolo in una serie di istruzioni chiare da seguire, sia manualmente da una persona sia tramite strumenti automatizzati. La definizione del processo di deployment dovrebbe descrivere l'intero flusso end-to-end, in modo che possa essere seguita in modo coerente ogni volta, garantendo sempre lo stesso risultato. La definizione deve essere archiviata in una posizione centralizzata e accessibile a tutto il personale pertinente. Evitare di archiviare o distribuire copie multiple, alcune delle quali potrebbero diventare obsolete.
+
+  Distribuire le applicazioni in produzione utilizzando un processo automatizzato o manuale eseguito da personale diverso dagli sviluppatori. Garantire che gli sviluppatori non abbiano bisogno di accesso diretto all'ambiente di produzione per il deployment delle applicazioni.
+
+  Revisionare gli strumenti di deployment per assicurarsi che siano attivamente mantenuti dai fornitori e aggiornati con le ultime patch di sicurezza. Rinforzare la configurazione di ciascuno strumento affinché sia allineata alle linee guida dei fornitori e alle migliori pratiche del settore. Poiché la maggior parte di questi strumenti richiede l'accesso all'ambiente di produzione, la loro sicurezza è estremamente critica. Garantire l'integrità degli strumenti stessi e dei flussi di lavoro che seguono, configurando le regole di accesso agli strumenti secondo il principio del minimo privilegio.
+
+  Garantire che il personale con accesso all'ambiente di produzione segua almeno un livello minimo di formazione o certificazione per dimostrare la propria competenza in questo ambito.

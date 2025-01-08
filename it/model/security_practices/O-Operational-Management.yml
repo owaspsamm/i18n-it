@@ -1,0 +1,9 @@
+#Official name of this practice
+name: Gestione Operativa
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sulle attività di supporto operativo necessarie per mantenere la sicurezza durante tutto il ciclo di vita del prodotto.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica di Gestione Operativa (OM) si concentra sulle attività per garantire che la sicurezza sia mantenuta durante tutte le funzioni di supporto operative. Sebbene queste funzioni non siano eseguite direttamente da un'applicazione, la sicurezza complessiva dell'applicazione e dei suoi dati dipende dal loro corretto funzionamento. Ad esempio, distribuire un'applicazione su un sistema operativo non supportato con vulnerabilità non corrette, o non conservare i supporti di backup in modo sicuro, può rendere irrilevanti le protezioni integrate nell'applicazione.
+
+  Le funzioni coperte da questa pratica includono, ma non si limitano a: provisioning dei sistemi, amministrazione e dismissione; provisioning e amministrazione dei database; e backup, ripristino e archiviazione dei dati.

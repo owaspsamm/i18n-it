@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Sì, parte del tempo
+  - 
+    #third level
+    text: Sì, almeno la metà del tempo
+  - 
+    #highest level
+    text: Sì, la maggior parte o tutto il tempo

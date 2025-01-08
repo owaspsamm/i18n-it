@@ -1,0 +1,12 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+  - 
+    #third level
+    text: Sì, lo rivediamo in orari regolari
+  - 
+    #highest level
+    text: Sì, lo rivediamo almeno annualmente

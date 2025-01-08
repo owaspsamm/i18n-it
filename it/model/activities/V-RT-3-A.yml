@@ -1,0 +1,13 @@
+#The title of this activity
+title: Automatizza il test dei requisiti di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Rilevamento tempestivo e affidabile delle violazioni dei requisiti di sicurezza
+#A one sentence description of the activity
+shortDescription: Eseguire test di regressione (con test di unità di sicurezza).
+#A multi-paragraph description of the activity
+longDescription: |
+  Scrivere e automatizzare test di regressione per tutti i bug identificati (e risolti) per garantire che diventino un meccanismo di test in grado di prevenire l'introduzione di problemi simili nelle versioni successive. I test unitari di sicurezza dovrebbero verificare dinamicamente (cioè, durante l'esecuzione) che i componenti funzionino come previsto e convalidare che le modifiche al codice siano implementate correttamente.
+
+  Una buona pratica per gli sviluppatori consiste nel costruire casi di test di sicurezza come parte di una suite di test di sicurezza generica integrata nel framework di test unitari esistente. Una suite di test di sicurezza generica potrebbe includere casi di test per convalidare sia i requisiti positivi che negativi dei controlli di sicurezza, come Identità, Autenticazione e Controllo degli Accessi, Validazione e Codifica degli Input, Gestione degli Utenti e delle Sessioni, Gestione degli Errori e delle Eccezioni, Crittografia, e Audit e Logging. Verificare l'esecuzione corretta dei test di sicurezza il prima possibile. Se fattibile, considerare ad esempio il superamento dei test di sicurezza come requisito per il merge prima di consentire l'inserimento di nuovo codice nella base di codice principale. In alternativa, considerare il superamento dei test come requisito per convalidare una build.
+
+  Per i test funzionali di sicurezza, utilizzare test a livello unitario per verificare il funzionamento dei controlli di sicurezza a livello di componenti software, come funzioni, metodi o classi. Ad esempio, un caso di test potrebbe controllare la validazione degli input e degli output (ad esempio, la sanitizzazione delle variabili) e i controlli sui vincoli delle variabili verificando la funzionalità attesa del componente.

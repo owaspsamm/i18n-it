@@ -1,0 +1,13 @@
+#The title of this activity
+title: Garantire una gestione tempestiva delle patch
+#Describe the benefit that is achieved by implementing this activity
+benefit: Avere una visione chiara dello stato delle patch dei componenti per prevenire non conformità
+#A one sentence description of the activity
+shortDescription: Monitora attivamente lo stato degli aggiornamenti e gestisci le patch mancanti come problemi di sicurezza. Ottieni in modo proattivo informazioni su vulnerabilità e aggiornamenti per i componenti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Sviluppa e utilizza dashboard e report di gestione per monitorare la conformità ai processi di patching e agli SLA su tutto il portafoglio. Assicurati che i processi di gestione delle dipendenze e di packaging delle applicazioni supportino l’applicazione di patch a livello di componente in qualsiasi momento, per rispettare gli SLA richiesti.
+
+  Tratta gli aggiornamenti mancati come difetti di sicurezza del prodotto e gestiscine la priorità e la correzione in base alla tua prassi consolidata di gestione dei difetti.
+
+  Non fare affidamento esclusivamente sulle notifiche di routine dei fornitori di componenti per scoprire vulnerabilità e patch associate. Monitora una varietà di fonti esterne di intelligence sulle minacce per essere informato sulle vulnerabilità zero-day e gestisci quelle che interessano le tue applicazioni come questioni di gestione del rischio.

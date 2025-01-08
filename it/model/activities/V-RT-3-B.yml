@@ -1,0 +1,11 @@
+#Describe the benefit that is achieved by implementing this activity
+benefit: Trasparenza della resilienza contro gli attacchi di tipo Denial of Service (DoS)
+#A one sentence description of the activity
+shortDescription: Denial of Service e test di stress sulla sicurezza.
+#A multi-paragraph description of the activity
+longDescription: |
+  Le applicazioni sono particolarmente vulnerabili agli attacchi di tipo Denial of Service. Effettua test di Denial of Service e di stress sulla sicurezza in condizioni controllate, preferibilmente negli ambienti di accettazione delle applicazioni.
+
+  Gli strumenti per i test di carico generano traffico sintetico, permettendo di testare le prestazioni dell'applicazione sotto carichi elevati. Uno dei test più importanti consiste nel determinare quanti richieste al secondo un'applicazione può gestire rimanendo entro i suoi requisiti di performance. Testare da un singolo indirizzo IP è comunque utile poiché fornisce un'indicazione del numero di richieste che un attaccante deve generare per influire sull'applicazione.
+
+  Gli attacchi di tipo Denial of Service solitamente portano a un esaurimento o a una privazione delle risorse dell'applicazione. Per determinare se qualche risorsa possa essere sfruttata per creare un Denial of Service, analizza ciascuna risorsa dell'applicazione per verificare come possa essere esaurita. Dai priorità alle azioni che un utente non autenticato può compiere. Completa i test generali di Denial of Service con test di stress sulla sicurezza, per eseguire azioni o creare condizioni che causino ritardi, interruzioni o malfunzionamenti dell'applicazione in esame.

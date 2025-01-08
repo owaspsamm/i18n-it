@@ -1,0 +1,11 @@
+#The title of this activity
+title: Verificare l'architettura dell'applicazione per la sicurezza in modo sistematico
+#Describe the benefit that is achieved by implementing this activity
+benefit: Processo coerente di revisione dell'architettura in tutta l'organizzazione
+#A one sentence description of the activity
+shortDescription: Convalidare i meccanismi di sicurezza dell'architettura.
+#A multi-paragraph description of the activity
+longDescription: |
+  Verificare che l'architettura della soluzione soddisfi tutti i requisiti di sicurezza e conformità identificati. Per ciascuna interfaccia nell'applicazione, esaminare l'elenco dei requisiti di sicurezza e conformità e analizzare l'architettura per verificarne l'implementazione. Inoltre, eseguire un'analisi delle interazioni o dei flussi di dati per garantire che i requisiti siano adeguatamente affrontati nei diversi componenti. Dettagliare l'analisi per evidenziare le caratteristiche a livello di design che soddisfano ciascun requisito.
+
+  Eseguire questo tipo di analisi sia sulle interfacce interne, ad esempio tra i livelli, sia su quelle esterne, come quelle che costituiscono la superficie di attacco. Identificare e convalidare anche le decisioni progettuali importanti prese come parte dell'architettura, in particolare quando si discostano dalle soluzioni di sicurezza condivise disponibili nell'organizzazione. Infine, aggiornare i risultati in base ai cambiamenti apportati durante il ciclo di sviluppo e annotare come risultati dell'analisi eventuali requisiti che non sono chiaramente soddisfatti a livello di progettazione.

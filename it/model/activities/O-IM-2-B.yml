@@ -1,0 +1,16 @@
+#The title of this activity
+title: Definire e il processo di risposta agli incidenti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprendere e gestire in modo efficiente la maggior parte degli incidenti di sicurezza
+#A one sentence description of the activity
+shortDescription: Stabilire un processo formale di risposta agli incidenti e garantire che il personale sia adeguatamente formato per svolgere i propri ruoli.
+#A multi-paragraph description of the activity
+longDescription: |
+  Stabilisci e documenta un processo formale per la gestione degli incidenti di sicurezza. La documentazione dovrebbe includere informazioni come:
+
+  * Scenari più probabili/comuni di incidenti di sicurezza e istruzioni generali per gestirli; per questi scenari, sfrutta anche conoscenze pubbliche relative a incidenti pertinenti di terze parti.
+  * Regole per la classificazione e priorizzazione (triage) di ciascun incidente.
+  * Linee guida per il coinvolgimento dei diversi stakeholder, inclusi il management senior, relazioni pubbliche, area legale, privacy, risorse umane, autorità esterne (come le forze dell'ordine) e clienti; specifica eventuali tempistiche obbligatorie per farlo.
+  * Processo per eseguire un'analisi delle cause principali (root cause analysis) e documentarne i risultati.
+
+  Assicurati che un team competente e adeguatamente formato per la gestione degli incidenti sia disponibile sia durante che fuori dall’orario lavorativo. Definisci tempistiche precise per le azioni da intraprendere e predisponi una “war room” per la gestione delle emergenze. Mantieni gli strumenti hardware e software aggiornati e pronti per l'uso in qualsiasi momento.

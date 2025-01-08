@@ -1,0 +1,15 @@
+#The title of this activity
+title: Standardizzare e scalare la modellazione delle minacce
+#Describe the benefit that is achieved by implementing this activity
+benefit: Chiari aspettative sulla qualità delle attività di modellazione delle minacce
+#A one sentence description of the activity
+shortDescription: Standardizzare la formazione, i processi e gli strumenti per la modellazione delle minacce al fine di scalarli in tutta l'organizzazione.
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilizza una metodologia standardizzata per la modellazione delle minacce nella tua organizzazione e allineala ai livelli di rischio delle applicazioni. Considera modi per supportare la scalabilità della modellazione delle minacce in tutta l'organizzazione. 
+
+  Forma architetti, security champion e altri stakeholder su come eseguire la modellazione delle minacce in modo pratico. La modellazione delle minacce richiede comprensione, linee guida chiare, modelli predefiniti, esempi specifici per l'organizzazione ed esperienza, elementi difficili da automatizzare. 
+
+  La metodologia per la modellazione delle minacce include almeno la creazione di diagrammi, l'identificazione delle minacce, la mitigazione dei difetti di progettazione e la validazione degli artefatti del modello di minaccia. Il diagramma del modello di minaccia permette una comprensione dettagliata dell'ambiente e delle dinamiche dell'applicazione. Le minacce vengono scoperte utilizzando checklist come STRIDE o minacce specifiche per l'organizzazione. Per i difetti di progettazione identificati e classificati in base al rischio per l'organizzazione, si aggiungono controlli di mitigazione per supportare gli stakeholder nella gestione delle minacce. Si definisce cosa innesca l'aggiornamento di un modello di minaccia, ad esempio un cambiamento tecnologico o il deployment di un'applicazione in un nuovo ambiente. 
+
+  I risultati della modellazione delle minacce vengono integrati nel processo di gestione dei difetti per garantire un adeguato follow-up. Gli artefatti della modellazione delle minacce vengono documentati con strumenti utilizzati dai team applicativi.

@@ -1,0 +1,13 @@
+#The title of this activity
+title: Sviluppa procedure di test
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione comune tra i team di prodotto su come raggiungere la conformità alle politiche di sicurezza.
+#A one sentence description of the activity
+shortDescription: Sviluppare requisiti di sicurezza applicabili a tutte le applicazioni.
+#A multi-paragraph description of the activity
+longDescription: |
+  Per supportare l'implementazione continua e la verifica della conformità con le politiche e gli standard, sviluppa requisiti di sicurezza per le applicazioni e script di test appropriati per ogni requisito applicabile. Organizza questi documenti in librerie e rendili disponibili a tutti i team di sviluppo in formati facilmente integrabili in ciascuna applicazione. Etichetta chiaramente i documenti e collega ciascuno alle politiche e agli standard che rappresentano, facilitando così aggiornamenti e manutenzione continui. Versiona le politiche e gli standard, includendo log delle modifiche dettagliati per ogni aggiornamento iterativo, rendendo più semplice l'integrazione nei cicli di vita dello sviluppo software (SDLC) dei diversi prodotti.
+
+  Scrivi i requisiti di sicurezza delle applicazioni in un formato coerente con i processi di gestione dei requisiti esistenti. Potrebbero essere necessarie più versioni per adattarsi a metodologie di sviluppo o tecnologie diverse. L'obiettivo è facilitare l'integrazione da parte dei vari team di prodotto delle politiche e degli standard nei loro cicli di sviluppo esistenti, minimizzando l'interpretazione necessaria dei requisiti.
+
+  Gli script di test rafforzano i requisiti di sicurezza delle applicazioni, fornendo aspettative chiare sulla funzionalità delle applicazioni e guidando gli sforzi di test, automatici o manuali, che possono già far parte del processo di sviluppo. Questi sforzi aiutano non solo ogni team a stabilire lo stato attuale di conformità alle politiche e agli standard esistenti, ma garantiscono anche la conformità man mano che le applicazioni evolvono.

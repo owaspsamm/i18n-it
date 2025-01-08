@@ -1,0 +1,13 @@
+#The title of this activity
+title: Revisione periodica dei profili di rischio
+#Describe the benefit that is achieved by implementing this activity
+benefit: Aggiornamento tempestivo della classificazione dell'applicazione in caso di modifiche
+#A one sentence description of the activity
+shortDescription: Rivedere periodicamente i profili di rischio delle applicazioni a intervalli regolari per garantire accuratezza e riflettere lo stato attuale.
+#A multi-paragraph description of the activity
+longDescription: |
+  Il portafoglio applicativo di un'organizzazione cambia, così come le condizioni e i vincoli in cui un'applicazione opera (ad esempio, influenzati dalla strategia aziendale). Rivedi periodicamente l'inventario dei rischi per garantire la correttezza delle valutazioni di rischio delle diverse applicazioni.
+
+  Effettua una revisione periodica a livello aziendale. Inoltre, man mano che l'azienda matura nella garanzia del software, incoraggia i team a interrogarsi continuamente su quali cambiamenti nelle condizioni potrebbero influenzare il profilo di rischio. Ad esempio, un'applicazione interna potrebbe essere esposta a Internet a seguito di una decisione aziendale. Questo dovrebbe spingere i team a ripetere la valutazione del rischio e aggiornare di conseguenza il profilo di rischio dell'applicazione.
+
+  In un'implementazione matura di questa pratica, forma i team e aggiornarli continuamente sulle lezioni apprese e sulle migliori pratiche derivanti da queste valutazioni di rischio. Questo porta a una migliore esecuzione e a una rappresentazione più accurata del profilo di rischio delle applicazioni.

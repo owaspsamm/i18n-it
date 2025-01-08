@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Gestione degli incidenti
+#A one sentence description of the security practice
+shortDescription: Questa pratica riguarda le attività svolte migliorano il rilevamento e la risposta dell'organizzazione agli incidenti di sicurezza.
+#A multi-paragraph description of the security practice
+longDescription: |
+  Una volta che la tua organizzazione ha applicazioni in funzione, è probabile che si verifichino incidenti di sicurezza. In questo modello, definiamo un incidente di sicurezza come una violazione, o la minaccia di una violazione imminente, di almeno uno degli obiettivi di sicurezza di un asset, sia a causa di comportamento maligno che negligente. Esempi di incidenti di sicurezza possono includere: un attacco DoS (Denial of Service) riuscito contro un'applicazione cloud, un utente dell'applicazione che accede ai dati privati di un altro abusando di una vulnerabilità di sicurezza, o un attaccante che modifica il codice sorgente dell'applicazione. La pratica di Gestione degli Incidenti (IM) si concentra sulla gestione di questi incidenti all'interno della tua organizzazione.
+
+  Storicamente, molti incidenti di sicurezza sono stati rilevati mesi, o addirittura anni, dopo la violazione iniziale. Durante il "dwell time" prima che un incidente venga rilevato, possono verificarsi danni significativi, aumentando la difficoltà di recupero. Il nostro primo flusso di attività, Rilevazione degli Incidenti, si concentra sulla riduzione di questo tempo di permanenza.
+
+  Una volta identificato che si sta affrontando un incidente di sicurezza, è essenziale rispondere in modo disciplinato e approfondito per limitare i danni e tornare alle operazioni normali nel modo più efficiente possibile. Questo è l'obiettivo del nostro secondo flusso.

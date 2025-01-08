@@ -1,0 +1,11 @@
+#The title of this activity
+title: Allinea la metodologia di sicurezza con i fornitori
+#Describe the benefit that is achieved by implementing this activity
+benefit: Allineamento delle pratiche di sviluppo del software con i fornitori per limitare i rischi di sicurezza
+#A one sentence description of the activity
+shortDescription: Garantire un'adeguata copertura di sicurezza per i fornitori esterni fornendo obiettivi chiari.
+#A multi-paragraph description of the activity
+longDescription: |
+  Il modo migliore per ridurre al minimo il rischio di problemi nel software è garantire un allineamento massimo e un'integrazione stretta tra le diverse parti coinvolte. Dal punto di vista dei processi, ciò significa utilizzare paradigmi di sviluppo simili e introdurre milestone regolari per assicurare un corretto allineamento e progressi qualitativi. Dal punto di vista degli strumenti, ciò potrebbe tradursi nell'utilizzo di ambienti di build, verifica e distribuzione simili, oltre alla condivisione di strumenti di supporto (ad esempio, strumenti per i requisiti, l'architettura o repository di codice).
+
+  Nel caso in cui i fornitori non riescano a soddisfare gli obiettivi prefissati, implementa controlli compensativi per raggiungere comunque i tuoi obiettivi. Esegui attività aggiuntive (ad esempio, il threat modelling prima di avviare il ciclo di implementazione effettivo) o integra strumenti supplementari (ad esempio, l'analisi di librerie di terze parti durante l'accettazione della soluzione). Più i fornitori si discostano dai tuoi requisiti, maggiore sarà il lavoro richiesto per compensare.

@@ -1,0 +1,13 @@
+#The title of this activity
+title: Testa manualmente i componenti ad alto rischio dell'applicazione 
+#Describe the benefit that is achieved by implementing this activity
+benefit: Rilevamento di vulnerabilità identificabili manualmente nei componenti critici
+#A one sentence description of the activity
+shortDescription: Eseguire test manuali di sicurezza di componenti ad alto rischio.
+#A multi-paragraph description of the activity
+longDescription: |
+  Esegui test di sicurezza manuali selettivi, possibilmente utilizzando una combinazione di strumenti di analisi statica e dinamica per guidare o focalizzare la revisione, al fine di analizzare più a fondo alcune parti dell'applicazione, come farebbe un attaccante. Gli strumenti automatizzati sono efficaci nell'individuare vari tipi di vulnerabilità, ma non possono mai sostituire la revisione manuale da parte di esperti.
+
+  Le vulnerabilità a livello di codice nei componenti critici per la sicurezza del software possono avere un impatto significativamente maggiore, pertanto i team di progetto dovrebbero esaminare i moduli ad alto rischio alla ricerca di vulnerabilità comuni. Esempi tipici di funzionalità ad alto rischio includono moduli di autenticazione, punti di applicazione del controllo degli accessi, schemi di gestione delle sessioni, interfacce esterne, validatori di input e parser di dati. I team possono combinare metriche a livello di codice e scansioni automatiche mirate per determinare dove concentrare al meglio i loro sforzi. In pratica, questa attività può assumere diverse forme, tra cui programmazione in coppia e revisione tra pari, "spinte" di sicurezza a tempo limitato che coinvolgono l'intero team di sviluppo o revisioni indipendenti spontanee da parte di membri di un gruppo specializzato in sicurezza.
+
+  Durante i cicli di sviluppo in cui il codice ad alto rischio viene modificato e rivisto, i responsabili dello sviluppo classificano i risultati e stabiliscono le priorità per la risoluzione, in base ai contributi degli altri stakeholder del progetto.

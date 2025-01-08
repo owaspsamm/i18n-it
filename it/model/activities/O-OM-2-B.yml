@@ -1,0 +1,13 @@
+#The title of this activity
+title: Formalizza il processo di dismissione
+#Describe the benefit that is achieved by implementing this activity
+benefit: Processo standardizzato di dismissione per ridurre il rischio di trascurare componenti
+#A one sentence description of the activity
+shortDescription: Sviluppa processi ripetibili per la dismissione di sistemi/servizi inutilizzati e per la migrazione da dipendenze legacy. Gestisci roadmap di migrazione legacy per i clienti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Durante la dismissione di un sistema, applicazione o servizio, segui un processo consolidato per rimuovere tutti gli account, le regole del firewall, i dati e altri elementi pertinenti dall’ambiente operativo. Eliminando questi elementi inutilizzati dai file di configurazione, migliorerai la manutenibilità delle risorse gestite come codice (Infrastructure as Code).
+
+  Adotta un processo coerente per la sostituzione o l’aggiornamento tempestivo di applicazioni di terze parti o dipendenze delle applicazioni (ad esempio, sistemi operativi, utility, librerie) che hanno raggiunto la fine del loro ciclo di vita.
+
+  Collabora con i clienti e i gruppi di utenti dei tuoi prodotti che sono arrivati o stanno per arrivare alla fine del ciclo di vita, per migrare tempestivamente a versioni supportate.

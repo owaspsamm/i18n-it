@@ -1,0 +1,9 @@
+#The title of this activity
+title: Riportare i risultati della revisione per migliorare le architetture di riferimento
+#Describe the benefit that is achieved by implementing this activity
+benefit: Miglioramento continuo dell'architettura aziendale sulla base di valutazioni dell'architettura
+#A one sentence description of the activity
+shortDescription: Incorporare i risultati della revisione dell'architettura nell'architettura aziendale, nei principi e schemi di progettazione organizzativa, nelle soluzioni di sicurezza e nelle architetture di riferimento.
+#A multi-paragraph description of the activity
+longDescription: |
+  Come organizzazione, è possibile migliorare ulteriormente la postura di sicurezza del software comprendendo quali minacce rimangono non affrontate nelle architetture software e adattando le tattiche per prevenirle. Formalizzare un processo per utilizzare i risultati ricorrenti delle revisioni architetturali come stimolo per identificare le cause delle lacune nella valutazione della sicurezza e affrontarle. Riportare i risultati nella fase di Progettazione creando o aggiornando le architetture di riferimento pertinenti, le soluzioni di sicurezza esistenti o i principi e schemi di progettazione organizzativa.

@@ -1,0 +1,15 @@
+#The title of this activity
+title: Esegui una modellazione delle minacce di base
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificazione dei difetti di progettazione architetturale nelle vostre applicazioni
+#A one sentence description of the activity
+shortDescription: Esegui una modellazione delle minacce basata sul rischioal meglio delle vostre possibilità, utilizzando brainstorming e diagrammi esistenti con semplici checklist delle minacce.
+#A multi-paragraph description of the activity
+longDescription: |
+  La modellazione delle minacce è un'attività strutturata per identificare, valutare e gestire le minacce al sistema, i difetti di progettazione architettonica e le mitigazioni di sicurezza raccomandate. Viene tipicamente eseguita durante la fase di progettazione o come parte di una valutazione della sicurezza.
+
+  La modellazione delle minacce è un esercizio di gruppo che coinvolge product owner, architetti, security champion e tester di sicurezza. A questo livello di maturità, è utile esporre team e stakeholder alla modellazione delle minacce per aumentare la consapevolezza della sicurezza e creare una visione condivisa della sicurezza del sistema.
+
+  Al livello di maturità 1, esegui la modellazione delle minacce in modo ad-hoc per applicazioni ad alto rischio utilizzando semplici checklist delle minacce, come STRIDE. Evita workshop lunghi e liste eccessivamente dettagliate di minacce poco rilevanti. Esegui la modellazione iterativamente per allinearti ai paradigmi di sviluppo più agili. Se aggiungi nuove funzionalità a un'applicazione esistente, concentrati solo sulle funzioni appena introdotte invece di coprire l'intero ambito. Un buon punto di partenza sono i diagrammi esistenti, che puoi annotare durante i workshop di discussione. Assicurati sempre di documentare i risultati delle discussioni sulla modellazione delle minacce per un utilizzo futuro.
+
+  Il tuo strumento più importante per iniziare la modellazione delle minacce è una lavagna, una smartboard o un foglio di carta. Punta a sensibilizzare il team sulla sicurezza, a un processo semplice e a risultati concreti e condivisi con il tuo gruppo.

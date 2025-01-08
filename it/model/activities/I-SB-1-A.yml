@@ -1,0 +1,17 @@
+#The title of this activity
+title: Definire un processo di build coerente
+#Describe the benefit that is achieved by implementing this activity
+benefit: Rischio limitato di errore umano durante il processo di build, riducendo al minimo i problemi di sicurezza.
+#A one sentence description of the activity
+shortDescription: Creare una definizione formale del processo di build in modo che diventi coerente e ripetibile.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definire il processo di build suddividendolo in una serie di istruzioni chiare, da seguire sia da una persona che da uno strumento automatizzato. La definizione del processo deve descrivere l'intero flusso end-to-end, consentendo a chiunque o a qualsiasi strumento di seguirlo in modo coerente ogni volta, producendo lo stesso risultato. La definizione deve essere archiviata in una posizione centralizzata, accessibile a strumenti o persone, evitando copie multiple che potrebbero diventare non allineate o obsolete.
+
+  La definizione del processo non deve includere alcun segreto, in particolare quelli necessari durante il processo di build.
+
+  Revisionare gli strumenti di build per garantire che siano attivamente mantenuti dai fornitori e aggiornati con le patch di sicurezza più recenti. Rinforzare la configurazione di ciascuno strumento affinché sia allineata alle linee guida del fornitore e alle migliori pratiche del settore.
+
+  Determinare un valore per ogni artefatto generato, come una firma o un hash, che possa essere successivamente utilizzato per verificarne l'integrità. Proteggere questo valore e, se l'artefatto è firmato, il certificato privato di firma.
+
+  Garantire che gli strumenti di build vengano regolarmente aggiornati con le patch e configurati in modo sicuro.

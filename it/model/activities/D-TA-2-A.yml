@@ -1,0 +1,15 @@
+#The title of this activity
+title: Inventariare i profili di rischio
+#Describe the benefit that is achieved by implementing this activity
+benefit: Solida comprensione del livello di rischio del tuo portafoglio applicativo
+#A one sentence description of the activity
+shortDescription: Comprendere il rischio di tutte le applicazioni dell'organizzazione centralizzando l'inventario dei profili di rischio per gli stakeholder.
+#A multi-paragraph description of the activity
+longDescription: |
+  L'obiettivo di questa attività è comprendere a fondo il livello di rischio di tutte le applicazioni all'interno dell'organizzazione, per concentrare gli sforzi delle attività di garanzia del software dove è realmente necessario.
+
+  Da una prospettiva di valutazione del rischio, un set base di domande non è sufficiente per valutare a fondo il rischio di tutte le applicazioni. È necessario creare un metodo esteso e standardizzato per valutare il rischio delle applicazioni, considerando tra l'altro il loro impatto sulla sicurezza delle informazioni (riservatezza, integrità e disponibilità dei dati). Oltre alla sicurezza, è importante valutare anche il rischio per la privacy dell'applicazione. Comprendere i dati che l'applicazione elabora e quali potenziali violazioni della privacy potrebbero essere rilevanti. Infine, studiare l'impatto che questa applicazione ha su altre applicazioni all'interno dell'organizzazione (ad esempio, l'applicazione potrebbe modificare dati che in un altro contesto erano considerati di sola lettura). Valutare tutte le applicazioni dell'organizzazione, incluse quelle esistenti e legacy.
+
+  Utilizza un'analisi dell'impatto aziendale (Business Impact Analysis) per quantificare e classificare il rischio applicativo. Uno schema qualitativo semplice (come alto/medio/basso) non è sufficiente per gestire e confrontare efficacemente le applicazioni a livello aziendale.
+
+  Sulla base di questi input, i Security Officer utilizzano la classificazione per definire il profilo di rischio e costruire un inventario centralizzato dei profili di rischio, gestendo le responsabilità. Questo inventario offre a Product Owner, Manager e altri stakeholder dell'organizzazione una visione allineata del livello di rischio di un'applicazione, consentendo di assegnare la giusta priorità alle attività legate alla sicurezza.

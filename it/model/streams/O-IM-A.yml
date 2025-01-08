@@ -1,0 +1,5 @@
+#Official stream name
+name: Rilevamento Degli Incidenti
+#Multi-paragraph explanation of the stream
+description: |
+  La **rilevazione degli incidenti** si riferisce al processo di determinare se un evento identificato come rilevante per la sicurezza sia effettivamente un incidente di sicurezza. Le attività in questo flusso si concentrano sulla capacità dell'organizzazione di individuare gli incidenti di sicurezza nel momento in cui si verificano e di avviare le opportune attività di risposta agli incidenti.

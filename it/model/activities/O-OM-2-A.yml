@@ -1,0 +1,13 @@
+#The title of this activity
+title: Crea un catalogo dei dati
+#Describe the benefit that is achieved by implementing this activity
+benefit: Trattamento standardizzato di diverse classi di dati sensibili
+#A one sentence description of the activity
+shortDescription: Sviluppare il catalogo dei dati e definire la politica di protezione dei dati.
+#A multi-paragraph description of the activity
+longDescription: |
+  A questo livello di maturità, le attività di protezione dei dati si concentrano sulla gestione attiva della responsabilità nella loro salvaguardia. Implementa controlli tecnici e amministrativi per proteggere la riservatezza dei dati sensibili, oltre all'integrità e alla disponibilità di tutti i dati sotto la tua responsabilità, dal momento della loro creazione o ricezione fino alla distruzione dei backup alla fine del loro periodo di conservazione.
+
+  Identifica i dati archiviati, elaborati e trasmessi dalle applicazioni e raccogli informazioni riguardanti il loro tipo, livello di sensibilità (classificazione) e posizione di archiviazione nel catalogo dei dati. Identifica chiaramente i record o gli elementi di dati soggetti a regolamentazioni specifiche. Stabilire una singola fonte di verità per i dati con cui lavori ti consente di selezionare controlli più precisi per la loro protezione. La raccolta di queste informazioni migliora l’accuratezza, la tempestività e l’efficienza delle risposte a richieste relative ai dati (ad esempio, da parte di auditor, team di risposta agli incidenti o clienti) e supporta attività di conformità e modellazione delle minacce.
+
+  In base alla tua Data Protection Policy, definisci processi e procedure per proteggere e conservare i dati lungo tutto il loro ciclo di vita, sia quando sono inattivi, in fase di elaborazione o in transito. Dedica particolare attenzione alla gestione e protezione dei dati sensibili al di fuori del sistema di elaborazione attiva, includendo (ma non limitandoti a): archiviazione, conservazione e distruzione dei backup; etichettatura, crittografia e protezione fisica dei supporti di archiviazione offline. I tuoi processi e procedure devono includere l’implementazione di tutti i controlli adottati per garantire la conformità a regolamenti, requisiti contrattuali o altre restrizioni relative alle posizioni di archiviazione, all'accesso del personale e ad altri fattori.

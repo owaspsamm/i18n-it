@@ -1,0 +1,11 @@
+#The title of this activity
+title: Misura la conformità alle politiche e agli standard
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione del livello di conformità della tua organizzazione alle politiche e agli standard
+#A one sentence description of the activity
+shortDescription: Misura e riferisci sullo stato di conformità delle singole applicazioni alle politiche e agli standard.
+#A multi-paragraph description of the activity
+longDescription: |
+  Sviluppa un programma per misurare la conformità di ciascuna applicazione alle politiche e agli standard esistenti. I requisiti obbligatori devono essere motivati e riportati in modo coerente tra tutti i team. Quando possibile, collega lo stato di conformità ai test automatizzati e genera report con ogni versione. I report sulla conformità devono includere la versione delle politiche e degli standard utilizzati e fattori appropriati di copertura del codice.
+
+  Incoraggia i team non conformi a rivedere le risorse disponibili, come requisiti di sicurezza e script di test, per garantire che la non conformità non sia dovuta a una guida inadeguata. Segnala i problemi derivanti da una guida insufficiente ai team responsabili della pubblicazione dei requisiti applicativi e degli script di test, in modo da includerli nelle versioni future. Segnala i problemi derivanti dall'incapacità di soddisfare le politiche e gli standard ai team che gestiscono i rischi per la sicurezza delle applicazioni.

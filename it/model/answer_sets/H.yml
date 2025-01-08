@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Sì, per alcuni incidenti
+  - 
+    #third level
+    text: Sì, per almeno la metà degli incidenti
+  - 
+    #highest level
+    text: Sì, per la maggior parte o tutti gli incidenti

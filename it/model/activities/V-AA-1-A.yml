@@ -1,0 +1,18 @@
+#The title of this activity
+title: Valutare l'architettura dell'applicazione
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensione dell'architettura ad alto livello e delle misure di sicurezza adeguate
+#A one sentence description of the activity
+shortDescription: Identificare i componenti dell'architettura dell'applicazione e dell'infrastruttura e verificarne la configurazione per una sicurezza di base.
+#A multi-paragraph description of the activity
+longDescription: |
+  Creare una visione dell'architettura complessiva ed esaminarla per la corretta implementazione di meccanismi generali di sicurezza come autenticazione, autorizzazione, gestione degli utenti e dei diritti, comunicazione sicura, protezione dei dati, gestione delle chiavi e gestione dei log. Considerare anche il supporto alla privacy. Farlo basandosi su artefatti di progetto, come documenti di architettura o di design, o interviste con i responsabili aziendali e il personale tecnico. 
+  Considerare anche i componenti dell'infrastruttura, ovvero tutti i sistemi, i componenti e le librerie (inclusi gli SDK) che non sono specifici per l'applicazione, ma forniscono supporto diretto per l'uso o la gestione delle applicazioni nell'organizzazione.
+
+  Annotare qualsiasi funzionalità legata alla sicurezza nell'architettura e verificarne la corretta implementazione. Farlo in modo ad hoc, dal punto di vista di utenti anonimi, utenti autorizzati e ruoli specifici dell'applicazione.
+#Internal notes that might help the author
+notes: |
+  Elementi richiesti per il rischio:  
+  - insieme di domande per la valutazione  
+  - livelli di rischio per rappresentare il rischio dell'applicazione  
+  - portafoglio dei rischi  

@@ -1,0 +1,11 @@
+#The title of this activity
+title: Verifica l'efficacia dei controlli di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Efficacia verificata dei controlli di sicurezza standard
+#A one sentence description of the activity
+shortDescription: Test per controlli di sicurezza software.
+#A multi-paragraph description of the activity
+longDescription: |
+  Condurre test di sicurezza per verificare che i controlli standard di sicurezza del software funzionino come previsto. Ad alto livello, ciò significa testare il corretto funzionamento dei controlli di riservatezza, integrità e disponibilità dei dati e del servizio. I test di sicurezza includono almeno la verifica di autenticazione, controllo degli accessi, validazione degli input, codifica, escape dei dati e controlli di crittografia. L'obiettivo del test è convalidare che i controlli di sicurezza siano implementati correttamente.
+
+  I test di sicurezza convalidano i controlli di sicurezza rilevanti per il software. Eseguire test di sicurezza per la verifica dei controlli manualmente o con strumenti ogni volta che l'applicazione modifica l'uso dei controlli. Tecniche come feature toggle e A/B testing possono essere utilizzate per esporre progressivamente le funzionalità a un pubblico più ampio man mano che vengono sufficientemente convalidate. La verifica dei controlli software è obbligatoria per tutti i software che fanno parte del programma SAMM.

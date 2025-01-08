@@ -1,0 +1,18 @@
+#The title of this activity
+title: Migliora il processo di rilevamento degli incidenti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacità di rilevare tempestivamente gli incidenti di sicurezza
+#A one sentence description of the activity
+shortDescription: Utilizza un processo gestito in modo proattivo per il rilevamento degli incidenti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Assicurati che la documentazione del processo includa misure per il miglioramento continuo. Verifica la continuità del miglioramento (ad esempio, tramite il monitoraggio delle modifiche apportate).
+
+  Garantisci che la checklist per il rilevamento di eventi sospetti sia correlata almeno a:  
+  1. Fonti e knowledge base esterne all'azienda (ad esempio, annunci di nuove vulnerabilità che riguardano le tecnologie utilizzate),  
+  2. Incidenti di sicurezza passati,  
+  3. Risultati derivanti dal modello di minacce.
+
+  Utilizza la correlazione dei log per il rilevamento degli incidenti in tutti gli scenari di incidente ragionevolmente prevedibili. Se i dati di log necessari per il rilevamento degli incidenti non sono disponibili, documenta questa mancanza come un difetto, classificalo e gestiscilo secondo il tuo processo consolidato di gestione dei difetti.
+
+  La qualità del rilevamento degli incidenti non deve dipendere dal momento in cui si verifica l'evento. Se gli eventi di sicurezza non vengono riconosciuti e gestiti entro un tempo specificato (ad esempio, 20 minuti), assicurati che vengano generate ulteriori notifiche secondo un percorso di escalation definito.

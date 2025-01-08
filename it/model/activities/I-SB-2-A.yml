@@ -1,0 +1,15 @@
+#The title of this activity
+title: Automatizza il processo di build
+#Describe the benefit that is achieved by implementing this activity
+benefit: Processo di build efficiente con strumenti di sicurezza integrati
+#A one sentence description of the activity
+shortDescription: Automatizza la tua pipeline di build e proteggi gli strumenti usati. Aggiungi controlli di sicurezza nella pipeline di build.
+#A multi-paragraph description of the activity
+longDescription: |
+  Automatizzare il processo di build per garantire che possa essere eseguito in modo coerente in qualsiasi momento. Il processo di build non dovrebbe richiedere interventi manuali, riducendo ulteriormente la probabilità di errori umani.
+
+  L'uso di un sistema automatizzato aumenta l'importanza della sicurezza degli strumenti di build, rendendo essenziale il loro rafforzamento e mantenimento. Prestare particolare attenzione alle interfacce di questi strumenti, come i portali web, e adottare misure per limitarne l'accesso. L'esposizione di uno strumento di build alla rete potrebbe consentire a un attore malevolo di compromettere l'integrità del processo, ad esempio introducendo codice dannoso nel software.
+
+  Il processo automatizzato potrebbe richiedere l'accesso a credenziali e segreti necessari per il build del software, come certificati per la firma del codice o accessi ai repository. Gestire questi elementi con cura. Firmare gli artefatti generati utilizzando un certificato che identifichi l'organizzazione o l'unità aziendale che li ha creati, così da poterne verificare l'integrità.
+
+  Infine, integrare controlli di sicurezza automatizzati appropriati, come strumenti SAST, nella pipeline per sfruttare l'automazione a beneficio della sicurezza.

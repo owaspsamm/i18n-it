@@ -1,0 +1,17 @@
+#The title of this activity
+title: Esegui test di sicurezza automatizzati
+#Describe the benefit that is achieved by implementing this activity
+benefit: Rilevamento delle vulnerabilità comuni facili da individuare
+#A one sentence description of the activity
+shortDescription: Utilizzare strumenti di test di sicurezza automatizzati.
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilizza strumenti automatici di test di sicurezza statici e dinamici per il software, in modo da ottenere test di sicurezza più efficienti e risultati di qualità superiore. Aumenta progressivamente la frequenza dei test di sicurezza ed estendi la copertura del codice.
+
+  I test di sicurezza delle applicazioni possono essere eseguiti staticamente, ispezionando il codice sorgente dell'applicazione senza eseguirlo, o dinamicamente, osservando il comportamento dell'applicazione in risposta a diverse condizioni di input. Il primo approccio è noto come Static Application Security Testing (SAST), mentre il secondo come Dynamic Application Security Testing (DAST). Un approccio ibrido, noto come Interactive Application Security Testing (IAST), combina i punti di forza di entrambi (a costo di un sovraccarico aggiuntivo) testando dinamicamente applicazioni strumentate automaticamente, consentendo un monitoraggio accurato dello stato interno dell'applicazione in risposta agli input esterni.
+
+  Molte vulnerabilità di sicurezza sono difficili da rilevare senza un'ispezione attenta del codice sorgente. Sebbene questa attività sia idealmente svolta da esperti o tramite revisione tra pari, è un compito lento e costoso. Sebbene siano "più rumorosi" e spesso meno accurati delle revisioni condotte da esperti, gli strumenti SAST automatici sono più economici, molto più rapidi e più coerenti rispetto agli esseri umani. Numerosi strumenti, sia commerciali che gratuiti, sono in grado di rilevare in modo efficiente bug e vulnerabilità significative in grandi basi di codice.
+
+  I test dinamici non richiedono il codice sorgente dell'applicazione, rendendoli ideali nei casi in cui questo non è disponibile. Identificano inoltre istanze concrete di vulnerabilità. A causa del loro approccio "black-box", senza strumentazione, sono più inclini a rilevare bug superficiali. Gli strumenti di test dinamico richiedono una grande quantità di dati di test, la cui generazione manuale è proibitiva. Esistono molti strumenti che generano automaticamente dati di test adeguati, portando a test di sicurezza più efficienti e risultati di qualità superiore.
+
+  Seleziona gli strumenti appropriati in base a diversi fattori, tra cui profondità e accuratezza dell'ispezione, robustezza e precisione dei casi di test di sicurezza, integrazioni disponibili con altri strumenti, modello di utilizzo e costi, ecc. Quando selezioni gli strumenti, utilizza il contributo di personale tecnico esperto in sicurezza, sviluppatori e responsabili dello sviluppo e revisiona i risultati con le parti interessate.

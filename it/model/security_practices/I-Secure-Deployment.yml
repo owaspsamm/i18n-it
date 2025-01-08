@@ -1,0 +1,9 @@
+#Official name of this practice
+name: Distribuzione Sicura
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sull'aumento della sicurezza delle distribuzioni di software nell'ambiente di produzione e dei segreti necessari.
+#A multi-paragraph description of the security practice
+longDescription: |
+  Una delle fasi finali nella consegna di software sicuro è garantire che la sicurezza e l'integrità delle applicazioni sviluppate non vengano compromesse durante il deployment. La pratica del Secure Deployment (SD) si concentra su questo aspetto. A tal fine, il primo flusso della pratica si concentra sull'eliminazione degli errori manuali, automatizzando il più possibile il processo di deployment e rendendo il suo successo dipendente dai risultati dei controlli di verifica della sicurezza integrati. Inoltre, promuove la Separazione dei Compiti, rendendo i non sviluppatori adeguatamente formati responsabili del deployment.
+
+  Il secondo flusso va oltre la meccanica del deployment e si concentra sulla protezione della privacy e dell'integrità dei dati sensibili, come password, token e altri segreti, necessari per il funzionamento delle applicazioni negli ambienti di produzione. Nella sua forma più semplice, i segreti di produzione vengono spostati dai repository e dai file di configurazione in caveau digitali adeguatamente gestiti. In forme più avanzate, i segreti vengono generati dinamicamente al momento del deployment e i processi di routine rilevano e mitigano la presenza di segreti non protetti nell'ambiente.

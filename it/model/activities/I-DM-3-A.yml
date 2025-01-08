@@ -1,0 +1,14 @@
+#The title of this activity
+title: Applicare un SLA per la gestione dei difetti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garanzia che i difetti di sicurezza siano gestiti entro i tempi definiti dagli SLA
+#A one sentence description of the activity
+shortDescription: Applicare gli SLA predefiniti e integrare il sistema di gestione dei difetti con altri strumenti pertinenti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementare un sistema di allerta automatizzato per i difetti di sicurezza nel caso in cui i tempi di risoluzione superino gli SLA definiti. Assicurarsi che tali difetti vengano automaticamente trasferiti nel processo di gestione dei rischi e valutati mediante una metodologia quantitativa coerente. Analizzare come i singoli difetti influenzino o amplifichino reciprocamente non solo a livello di team separati, ma anche a livello organizzativo. Utilizzare la conoscenza dell'intera kill chain per prioritizzare, introdurre e monitorare controlli compensativi volti a mitigare i rischi aziendali associati. 
+
+  Integrare il sistema di gestione dei difetti con strumenti automatizzati introdotti da altre pratiche come:
+
+  * Build e deployment: bloccare il processo se difetti di sicurezza sopra una certa gravità influenzano l'artefatto finale, a meno che qualcuno non approvi esplicitamente l'eccezione,
+  * Monitoraggio: assicurandosi, ove possibile, che l'abuso di un difetto di sicurezza in un ambiente di produzione venga identificato e segnalato con un'allerta.

@@ -1,0 +1,11 @@
+#The title of this activity
+title: Valutare l'architettura per le minacce tipiche
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garantire che l'architettura protegga dalle minacce di sicurezza tipiche.
+#A one sentence description of the activity
+shortDescription: Revisione ad hoc dell'architettura per individuare minacce alla sicurezza non mitigate.
+#A multi-paragraph description of the activity
+longDescription: |
+  Revisione dell'architettura per le minacce di sicurezza tipiche. Personale tecnico con competenze di sicurezza conduce questa analisi con il contributo di architetti, sviluppatori, manager e responsabili aziendali, se necessario, per garantire che l'architettura affronti tutte le minacce comuni che i team di sviluppo privi di competenze specialistiche in sicurezza potrebbero aver trascurato.
+
+  Le minacce tipiche in un'architettura possono riguardare presupposti errati o un'eccessiva dipendenza dall'implementazione di meccanismi di sicurezza come autenticazione, autorizzazione, gestione di utenti e diritti, comunicazione sicura, protezione dei dati, gestione delle chiavi e gestione dei log. Le minacce, d'altra parte, possono anche essere legate a limitazioni conosciute o problematiche nei componenti tecnologici o nei framework che fanno parte della soluzione e per i quali non sono state adottate adeguate misure di mitigazione.

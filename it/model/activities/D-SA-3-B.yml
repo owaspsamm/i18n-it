@@ -1,0 +1,11 @@
+#The title of this activity
+title: Applicare l'uso delle tecnologie raccomandate
+#Describe the benefit that is achieved by implementing this activity
+benefit: Superficie d'attacco limitata a grazie all'uso di tecnologie controllate
+#A one sentence description of the activity
+shortDescription: Imporre l'uso di tecnologie standard su tutti gli sviluppi software.
+#A multi-paragraph description of the activity
+longDescription: |
+  Per tutto lo sviluppo proprietario (interno o acquisito), imponi e monitora l'utilizzo di tecnologie standardizzate. A seconda della tua organizzazione, implementa queste restrizioni negli strumenti di build o deployment, tramite analisi automatizzate post-produzione degli artefatti applicativi (ad esempio, codice sorgente, file di configurazione o artefatti di distribuzione), oppure esegui revisioni periodiche concentrandoti sull'uso corretto di questi framework.
+
+  Verifica diversi fattori con i team di progetto. Identifica l'uso di tecnologie non consigliate per determinare se ci sono lacune tra le raccomandazioni e le necessità dell'organizzazione. Analizza i pattern di design inutilizzati o utilizzati in modo errato e i moduli delle piattaforme di riferimento per determinare se sono necessari aggiornamenti. Inoltre, implementa funzionalità nelle piattaforme di riferimento man mano che l'organizzazione evolve e i team di progetto ne fanno richiesta.

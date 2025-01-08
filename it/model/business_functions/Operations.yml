@@ -1,0 +1,5 @@
+#Official name of the Business Function
+name: Operations
+#A multi-paragraph description of the Business Function
+description: |
+  La funzione aziendale Operations comprende le attività necessarie per garantire la riservatezza, l'integrità e la disponibilità durante l'intero ciclo di vita operativo di un'applicazione e dei dati associati. Un livello di maturità più elevato in questa funzione aziendale offre una maggiore garanzia che l'organizzazione sia resiliente di fronte a interruzioni operative e reattiva ai cambiamenti nel contesto operativo.

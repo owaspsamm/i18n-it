@@ -1,0 +1,13 @@
+#The title of this activity
+title: Svolgere l'hardening al meglio delle proprie capacità
+#Describe the benefit that is achieved by implementing this activity
+benefit: Configurazioni di base sicure per i tuoi componenti
+#A one sentence description of the activity
+shortDescription: Esegui l'hardening delle configurazioni al meglio delle tue capacità,, basandoti sulle informazioni facilmente disponibili.
+#A multi-paragraph description of the activity
+longDescription: |
+  Comprendere l'importanza di mettere in sicurezza gli stack tecnologici utilizzati e applicare configurazioni sicure agli elementi dello stack, seguendo le indicazioni disponibili (ad esempio, progetti open source, documentazione dei fornitori, articoli di blog). Quando i team sviluppano linee guida per la configurazione delle proprie applicazioni, basandosi su tentativi, errori e informazioni raccolte dai membri del team, incoraggiali a condividere le conoscenze acquisite all'interno dell'organizzazione.
+
+  Identifica gli elementi chiave degli stack tecnologici comuni e stabilisci standard di configurazione per questi, basandoti sull'esperienza dei team rispetto a ciò che funziona.
+
+  A questo livello di maturità, non esiste ancora un processo formale per la gestione delle configurazioni di base. Le configurazioni potrebbero non essere applicate in modo coerente tra applicazioni e implementazioni, e il monitoraggio della conformità è probabilmente assente.

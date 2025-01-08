@@ -1,0 +1,13 @@
+#The title of this activity
+title: Ottimizza la modellazione delle minacce
+#Describe the benefit that is achieved by implementing this activity
+benefit: Garanzia di miglioramento continuo delle attività di modellazione delle minacce
+#A one sentence description of the activity
+shortDescription: Ottimizzazione e automazione continue della metodologia di modellazione delle minacce.
+#A multi-paragraph description of the activity
+longDescription: |
+  La modellazione delle minacce è integrata nel ciclo di vita dello sviluppo software (SDLC) ed è diventata parte della cultura della sicurezza dei developer. Modelli di rischio riutilizzabili, composti da librerie di minacce correlate, difetti di progettazione e mitigazioni di sicurezza, vengono creati e migliorati basandosi sui modelli di minaccia dell'organizzazione. I modelli di minaccia esistenti vengono regolarmente (ad esempio, annualmente) rivisti per verificare che non siano emerse nuove minacce rilevanti per le applicazioni.
+
+  Ottimizza la metodologia di modellazione delle minacce catturando le lezioni apprese dai modelli precedenti e utilizzandole per migliorarla. Le categorie di minacce rilevanti per l'organizzazione vengono riesaminate e la metodologia viene aggiornata di conseguenza. Periodicamente, valuta in modo indipendente la qualità dei tuoi modelli di minaccia.
+
+  Automatizza parti del processo di modellazione delle minacce utilizzando strumenti specifici, integrandoli con altri strumenti di sicurezza, come quelli per la verifica della sicurezza e il tracciamento del rischio. Considera l'adozione di pratiche di "threat modeling as code" per integrare gli artefatti della modellazione delle minacce con il codice applicativo.

@@ -1,0 +1,7 @@
+#Official name of this practice
+name: Requisiti Di Sicurezza
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sulla definizione di requisiti di sicurezza adeguati per il vostro software e i vostri fornitori di software.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica dei Requisiti di Sicurezza (SR) si concentra sui requisiti di sicurezza rilevanti nel contesto del software sicuro. Un primo tipo riguarda i requisiti tipici legati al software, volti a specificare obiettivi ed aspettative per proteggere il servizio e i dati al centro dell'applicazione. Un secondo tipo riguarda i requisiti relativi alle organizzazioni fornitrici che fanno parte del contesto di sviluppo dell'applicazione, in particolare per lo sviluppo in outsourcing. È importante armonizzare le aspettative in termini di sviluppo sicuro, poiché lo sviluppo in outsourcing può avere un impatto significativo sulla sicurezza dell'applicazione. La sicurezza delle librerie tecniche di terze parti rientra nel flusso della catena di fornitura del software (vedi Secure Build) e non è inclusa in questa pratica.

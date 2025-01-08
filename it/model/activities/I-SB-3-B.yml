@@ -1,0 +1,13 @@
+#The title of this activity
+title: Testare le dipendenze delle applicazioni
+#Describe the benefit that is achieved by implementing this activity
+benefit: Gestione dei problemi di sicurezza nelle dipendenze equiparabile a quella per il proprio codice.
+#A one sentence description of the activity
+shortDescription: Analizzare le dipendenze utilizzate per problemi di sicurezza in modo analogo a quanto fatto per il proprio codice.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mantenere una whitelist delle dipendenze e versioni approvate, assicurandosi che il processo di build fallisca in caso di presenza di una dipendenza non inclusa nella lista. Includere un processo di approvazione per gestire eccezioni a questa regola, se opportuno.
+
+  Eseguire attività di verifica della sicurezza sulle dipendenze presenti nella whitelist in modo analogo alle applicazioni target (ad esempio, utilizzando SAST e analizzando le dipendenze transitive). Assicurarsi che tali verifiche includano l'identificazione di possibili backdoor o easter egg nelle dipendenze. Stabilire processi di divulgazione delle vulnerabilità con gli autori delle dipendenze, includendo SLA per la risoluzione dei problemi. Qualora l'applicazione di SLA non sia realistica (ad esempio con vulnerabilità open source), prevedere i casi più probabili ed essere in grado di implementare misure compensative in tempi rapidi. Implementare test di regressione per verificare le correzioni dei problemi identificati.
+
+  Monitorare tutti i problemi identificati e il loro stato utilizzando il sistema di tracciamento dei difetti. Integrare la pipeline di build con questo sistema per consentire l'interruzione del processo di build ogni volta che le dipendenze incluse contengono problemi al di sopra di un livello di criticità definito.

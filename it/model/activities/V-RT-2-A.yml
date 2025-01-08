@@ -1,0 +1,13 @@
+#The title of this activity
+title: Definire ed eseguire i test case di sicurezza dai requisiti
+#Describe the benefit that is achieved by implementing this activity
+benefit: Integrazione dei requisiti di sicurezza negli scenari di test
+#A one sentence description of the activity
+shortDescription: Deriva i casi di test dai requisiti di sicurezza noti.
+#A multi-paragraph description of the activity
+longDescription: |
+  Dai requisiti di sicurezza, identificare e implementare un set di casi di test di sicurezza per verificare la corretta funzionalità del software. Per avere un programma di test efficace, è necessario conoscere gli obiettivi del test, specificati dai requisiti di sicurezza.
+
+  Derivare i casi di test di sicurezza per le applicazioni in esame dai requisiti di sicurezza definiti come parte della pratica di sicurezza "Requisiti di Sicurezza" del programma SAMM. Per validare i requisiti di sicurezza attraverso test di sicurezza, i requisiti devono essere orientati alle funzionalità, evidenziando l'attesa funzionalità (il cosa) e, implicitamente, l'implementazione (il come). Questi requisiti sono spesso indicati come "requisiti positivi", poiché dichiarano la funzionalità prevista, che può essere validata attraverso test di sicurezza. Esempi di requisiti positivi includono: "l'applicazione bloccherà l'utente dopo sei tentativi di accesso non riusciti" o "le password devono avere un minimo di sei caratteri alfanumerici". La validazione dei requisiti positivi consiste nell'affermare la funzionalità prevista. Ciò può essere fatto ricreando le condizioni di test e eseguendo il test in base a input predefiniti, con i risultati presentati come condizioni di successo o fallimento.
+
+  Spesso, è più efficace utilizzare il tempo del team di progetto per costruire casi di test specifici per l'applicazione e utilizzare risorse pubblicamente disponibili o basi di conoscenza acquistate per selezionare casi di test generali applicabili alla sicurezza. Il personale rilevante di sviluppo, sicurezza e garanzia della qualità deve rivedere i casi di test candidati per verificarne l'applicabilità, l'efficacia e la fattibilità. Derivare i casi di test durante la fase dei requisiti e/o di progettazione della funzionalità. Il test dei requisiti di sicurezza è parte integrante dei test funzionali del software.

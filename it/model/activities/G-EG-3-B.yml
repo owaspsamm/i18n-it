@@ -1,0 +1,13 @@
+#The title of this activity
+title: Crea una comunità dedicata alla sicurezza.
+#Describe the benefit that is achieved by implementing this activity
+benefit: Sviluppo collettivo delle competenze in materia di sicurezza tra tutti i team di prodotto.
+#A one sentence description of the activity
+shortDescription: Crea una comunità per il software sicuro che coinvolga tutte le persone dell'organizzazione impegnate nella sicurezza del software.
+#A multi-paragraph description of the activity
+longDescription: |
+  La sicurezza è una responsabilità di tutti i dipendenti, non solo del team di Sicurezza delle Informazioni. Implementa piattaforme di comunicazione e condivisione della conoscenza per aiutare gli sviluppatori a costruire comunità attorno a diverse tecnologie, strumenti e linguaggi di programmazione. In queste comunità, i dipendenti condividono informazioni, discutono sfide con altri sviluppatori e cercano nella base di conoscenza risposte a problemi precedentemente affrontati.
+
+  Forma comunità basate su ruoli e responsabilità, consentendo a sviluppatori e ingegneri di diversi team e unità aziendali di comunicare liberamente e beneficiare delle reciproche competenze. Incoraggia la partecipazione, istituisci un programma per promuovere come leader di pensiero coloro che aiutano maggiormente gli altri e fai in modo che la dirigenza li riconosca. Oltre a migliorare la sicurezza delle applicazioni, questa piattaforma può aiutare a identificare futuri membri del Secure Software Center of Excellence o "Security Champions" in base alla loro esperienza e disponibilità ad aiutare gli altri.
+
+  Il Secure Software Center of Excellence e i team di Application Security esaminano regolarmente il portale informativo per ottenere informazioni sulle nuove tecnologie emergenti e per identificare opportunità di supportare la comunità di sviluppo con nuove iniziative, strumenti, programmi e risorse formative. Usa il portale per diffondere informazioni su nuovi standard, strumenti e risorse a tutti gli sviluppatori, promuovendo un miglioramento continuo della maturità dello SDLC e della sicurezza delle applicazioni.

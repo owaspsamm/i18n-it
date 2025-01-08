@@ -1,0 +1,13 @@
+#The title of this activity
+title: Costruisci architetture di riferimento
+#Describe the benefit that is achieved by implementing this activity
+benefit: Piena trasparenza della qualità e usabilità delle soluzioni di sicurezza fornite a livello centrale
+#A one sentence description of the activity
+shortDescription: Le architetture di riferimento sono utilizzate e valutate costantemente per l'adozione e l'adeguatezza.
+#A multi-paragraph description of the activity
+longDescription: |
+  Crea un insieme di architetture di riferimento che selezionino e combinino un set verificato di componenti di sicurezza per garantire un design corretto della sicurezza. Le piattaforme di riferimento offrono vantaggi in termini di riduzione dei tempi di audit e delle revisioni relative alla sicurezza, un aumento dell'efficienza nello sviluppo e una manutenzione più semplice. Mantieni e migliora continuamente le architetture di riferimento basandoti su nuove intuizioni provenienti dall'organizzazione e dalla comunità. Coinvolgi architetti, sviluppatori senior e altri stakeholder tecnici nella progettazione e creazione delle piattaforme di riferimento. Dopo la creazione, i team devono fornire supporto e aggiornamenti continui.
+
+  Le architetture di riferimento possono concretizzarsi in un insieme di librerie software e strumenti su cui i team di progetto costruiscono il loro software. Servono come punto di partenza per standardizzare un approccio alla sicurezza basato sulla configurazione e sulla sicurezza di default. Puoi avviare il framework selezionando un progetto specifico nelle fasi iniziali del ciclo di vita e lavorando con personale esperto in sicurezza per costruire la funzionalità di sicurezza in modo generico, in modo che possa essere estratta dal progetto e riutilizzata altrove nell'organizzazione.
+
+  Monitora costantemente le debolezze o le lacune nel set di soluzioni di sicurezza disponibili nella tua organizzazione nel contesto delle discussioni su architettura, sviluppo o operations. Questo fornisce input per migliorare l'adeguatezza e l'efficacia delle architetture di riferimento già in uso.

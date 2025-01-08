@@ -1,0 +1,11 @@
+#The title of this activity
+title: Eseguire le valutazioni del rischio dell'applicazione
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacità di classificare le applicazioni in base al rischio
+#A one sentence description of the activity
+shortDescription: Viene eseguita una valutazione di base del rischio applicativo per comprendere la probabilità e l'impatto di un attacco.
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilizza un metodo semplice per valutare il rischio applicativo per ogni applicazione, stimando il potenziale impatto aziendale che potrebbe verificarsi in caso di un attacco. Per farlo, valuta l'impatto di una violazione della riservatezza, integrità e disponibilità dei dati o dei servizi. Considera l'uso di un insieme di 5-10 domande per analizzare le caratteristiche principali dell'applicazione, come ad esempio se l'applicazione elabora dati finanziari, se è accessibile da internet o se gestisce dati relativi alla privacy. Il profilo di rischio applicativo consente di determinare se questi fattori sono rilevanti e se potrebbero avere un impatto significativo sull'organizzazione.
+
+  Successivamente, utilizza uno schema per classificare le applicazioni in base a questo rischio. Uno schema qualitativo semplice (ad esempio alto/medio/basso) che traduce queste caratteristiche in un valore è spesso efficace. È importante usare questi valori per rappresentare e confrontare il rischio delle diverse applicazioni tra loro. Le organizzazioni mature, fortemente orientate al rischio, potrebbero adottare schemi di rischio quantitativi. Non creare un nuovo schema di rischio se la tua organizzazione ne ha già uno che funziona bene.

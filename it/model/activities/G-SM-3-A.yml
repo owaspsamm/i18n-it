@@ -1,0 +1,13 @@
+#The title of this activity
+title: Allineare le strategie di sicurezza con quelle aziendali.
+#Describe the benefit that is achieved by implementing this activity
+benefit: Allineamento continuo del programma AppSec con gli obiettivi aziendali dell'organizzazione
+#A one sentence description of the activity
+shortDescription: Allineare il programma di sicurezza applicativa per supportare la crescita dell'organizzazione.
+#A multi-paragraph description of the activity
+longDescription: |
+  Rivedere periodicamente il piano di sicurezza applicativa per garantirne l’applicabilità continua e il supporto alle esigenze in evoluzione e alla crescita futura dell’organizzazione. A tal fine, è necessario ripetere i passaggi dei primi due livelli di maturità di questa Pratica di Sicurezza almeno una volta all’anno. L’obiettivo è che il piano supporti sempre le esigenze attuali e future dell’organizzazione, assicurando così che il programma rimanga allineato con gli obiettivi aziendali.
+
+  Oltre a rivedere i driver aziendali, l’organizzazione monitora attentamente il successo nell’implementazione di ciascuna delle tappe chiave della roadmap. Il successo delle tappe viene valutato sulla base di una vasta gamma di criteri, tra cui la completezza ed efficienza dell’implementazione, il rispetto del budget e gli impatti o i cambiamenti culturali derivanti dall’iniziativa. Le tappe mancate o non soddisfacenti vengono analizzate per valutare possibili modifiche al programma generale.
+
+  L’organizzazione sviluppa dashboard e strumenti di misurazione per il management e per i team responsabili dello sviluppo software, con l’obiettivo di monitorare l’implementazione della roadmap. Questi dashboard sono sufficientemente dettagliati da identificare singoli progetti e iniziative e da fornire una comprensione chiara sul successo del programma e sul suo allineamento con le esigenze dell’organizzazione.

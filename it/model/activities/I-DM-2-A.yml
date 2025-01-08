@@ -1,0 +1,13 @@
+#The title of this activity
+title: Valutare e monitorare i difetti di sicurezza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Classificazione coerente dei difetti di sicurezza con aspettative chiare sulla loro gestione
+#A one sentence description of the activity
+shortDescription: Valutare tutti i difetti di sicurezza in modo coerente in tutta l'organizzazione e definire SLA (Service Level Agreements) per le diverse classi di gravità.
+#A multi-paragraph description of the activity
+longDescription: |
+  Introdurre e applicare una metodologia ben definita per la valutazione dei difetti di sicurezza, in modo coerente in tutta l'organizzazione, basata sulla probabilità e sull'impatto previsto dell'eventuale sfruttamento del difetto. Questo permetterà di identificare le applicazioni che richiedono maggiore attenzione e investimenti. Nel caso in cui le informazioni sui difetti di sicurezza non siano archiviate in un sistema centralizzato, garantire comunque la possibilità di recuperare facilmente le informazioni da tutte le fonti per avere una visione complessiva delle "zone critiche" che necessitano di attenzione.
+
+  Introdurre SLA (Service Level Agreements) per la risoluzione tempestiva dei difetti di sicurezza in base alla loro classificazione di criticità, monitorando centralmente e segnalando regolarmente eventuali violazioni degli SLA. Definire un processo per i casi in cui non sia fattibile o conveniente correggere un difetto entro i tempi stabiliti dagli SLA. Questo processo deve garantire, almeno, che tutti gli stakeholder rilevanti abbiano una chiara comprensione del rischio associato. Quando appropriato, implementare controlli compensativi per mitigare tali rischi.
+
+  Anche in assenza di SLA formali per la correzione di difetti a bassa gravità, assicurarsi che i team responsabili ricevano regolarmente una panoramica dei problemi che influenzano le loro applicazioni, comprendendo come particolari problemi possano interagire o amplificarsi tra loro.

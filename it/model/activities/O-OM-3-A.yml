@@ -1,0 +1,15 @@
+#The title of this activity
+title: Rispondi alle violazioni dei dati
+#Describe the benefit that is achieved by implementing this activity
+benefit: Conformità alla tua politica di protezione dei dati garantita tecnicamente
+#A one sentence description of the activity
+shortDescription: Automatizzare il rilevamento della non conformità delle politiche e verificare la conformità periodicamente. Riesaminare e aggiornare regolarmente il catalogo dei dati e la politica di protezione dei dati.
+#A multi-paragraph description of the activity
+longDescription: |
+  A questo livello di maturità, le attività si concentrano sull’automazione della protezione dei dati, riducendo la dipendenza dall’intervento umano per valutare e gestire la conformità alle politiche. L'attenzione è rivolta a meccanismi di feedback e revisioni proattive per individuare e sfruttare opportunità di miglioramento dei processi.
+
+  Implementa controlli tecnici per garantire la conformità alla tua politica di protezione dei dati e attiva un monitoraggio per rilevare tentativi o violazioni effettive. Utilizza strumenti disponibili per prevenzione della perdita di dati, controllo degli accessi e tracciamento, o per il rilevamento di comportamenti anomali.
+
+  Verifica regolarmente la conformità ai controlli amministrativi stabiliti e monitora da vicino le prestazioni e il funzionamento dei meccanismi automatizzati, inclusi backup e cancellazioni dei record. Gli strumenti di monitoraggio devono essere in grado di rilevare e segnalare rapidamente eventuali guasti nell’automazione, consentendoti di adottare tempestivamente azioni correttive.
+
+  Rivedi e aggiorna regolarmente il catalogo dei dati per garantire che rifletta accuratamente la tua struttura dei dati. Revisioni e aggiornamenti periodici di processi e procedure assicurano che restino allineati alle tue politiche e priorità.

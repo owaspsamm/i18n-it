@@ -1,0 +1,5 @@
+#Official stream name
+name: Decomissione dei Sistemi / Gestione Legacy
+#Multi-paragraph explanation of the stream
+description: |
+  Dal punto di vista dell'organizzazione come consumatore di risorse, le attività in questo flusso si concentrano sull'identificazione, gestione e tracciamento di sistemi, applicazioni, dipendenze applicative e servizi che non sono più utilizzati, hanno raggiunto la fine del loro ciclo di vita o non sono più attivamente sviluppati o supportati. La rimozione di sistemi e servizi inutilizzati migliora la gestibilità dell'ambiente e riduce la superficie di attacco dell'organizzazione, offrendo al contempo risparmi diretti e indiretti (ad esempio, riduzione del numero di licenze, del volume dei log o dello sforzo degli analisti).

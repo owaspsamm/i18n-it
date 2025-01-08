@@ -1,0 +1,11 @@
+#Official name of this practice
+name: Istruzione E Orientamento
+#A one sentence description of the security practice
+shortDescription: Questa pratica si concentra sull'aumento delle conoscenze nell'organizzazione per quanto riguarda il software sicuro.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La pratica di Educazione e Orientamento (EG) si concentra sull'equipaggiare il personale coinvolto nel ciclo di vita del software con conoscenze e risorse per progettare, sviluppare e distribuire software sicuro. Con un accesso migliorato alle informazioni, i team di progetto possono identificare e mitigare proattivamente i rischi specifici per la sicurezza che riguardano la loro organizzazione.
+
+  Un tema principale per il miglioramento degli obiettivi è fornire formazione ai dipendenti e aumentare la loro consapevolezza sulla sicurezza, attraverso sessioni condotte da istruttori o moduli basati su computer. Con il progresso dell'organizzazione, si costruisce una base ampia di formazione che parte dagli sviluppatori per estendersi ad altri ruoli, culminando con l'aggiunta di formazione basata sui ruoli per garantirne l'applicabilità e l'efficacia.
+
+  Oltre alla formazione, questa pratica richiede che l'organizzazione investa significativamente nel miglioramento della cultura organizzativa, promuovendo la sicurezza delle applicazioni attraverso la collaborazione tra i team. Strumenti di collaborazione e una maggiore trasparenza tra tecnologie e strumenti supportano questo approccio per migliorare la sicurezza delle applicazioni.

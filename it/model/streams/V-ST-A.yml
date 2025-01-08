@@ -1,0 +1,5 @@
+#Official stream name
+name: Baseline scalabile
+#Multi-paragraph explanation of the stream
+description: |
+  La baseline scalabile si concentra sull'utilizzo di strumenti di test automatizzati specifici per l'applicazione, che integrano la validazione della sicurezza nel processo di build e deploy. L'obiettivo di questo flusso è privilegiare l'ampiezza (un ampio spettro di applicazioni) rispetto alla profondità dei test.

@@ -1,0 +1,13 @@
+#The title of this activity
+title: Attuare centri di eccellenza
+#Describe the benefit that is achieved by implementing this activity
+benefit: Pratiche di sicurezza specifiche adattate alle esigenze dell'organizzazione
+#A one sentence description of the activity
+shortDescription: Sviluppa un centro di eccellenza per il software sicuro, promuovendo la leadership di pensiero tra sviluppatori e architetti.
+#A multi-paragraph description of the activity
+longDescription: |
+  L'organizzazione implementa un centro di eccellenza per la codifica sicura, composto da architetti e sviluppatori senior che rappresentano le diverse unità aziendali e i vari stack tecnologici. Il team opera con un mandato ufficiale, definendo standard e migliori pratiche per migliorare i processi di sviluppo software. L'obiettivo è mitigare l'impatto della rapida evoluzione di tecnologie, linguaggi di programmazione, framework di sviluppo e librerie, che rende difficile per i professionisti della sicurezza delle informazioni restare aggiornati su tutte le sfumature tecniche che influiscono sulla sicurezza. Anche gli sviluppatori spesso faticano a tenere il passo con i cambiamenti e i nuovi strumenti progettati per rendere lo sviluppo software più veloce, migliore e sicuro.
+
+  Questo approccio garantisce che tutti gli sforzi di programmazione attuali seguano le migliori pratiche del settore e che gli standard di sviluppo e implementazione dell'organizzazione includano tutte le configurazioni critiche necessarie. Inoltre, aiuta a identificare, formare e supportare i "Product Champions", responsabili dell'assistenza ai diversi team nell'implementazione di strumenti che automatizzano, semplificano o migliorano vari aspetti del ciclo di vita dello sviluppo software (SDLC). Il gruppo identifica i team di sviluppo con livelli di maturità più elevati nel loro SDLC, insieme alle pratiche e agli strumenti che consentono tali risultati, con l'obiettivo di replicarli presso altri team.
+
+  Il gruppo fornisce competenze specialistiche, supportando i team di sicurezza delle informazioni nella valutazione di strumenti e soluzioni per migliorare la sicurezza delle applicazioni, garantendo che questi strumenti siano non solo utili ma anche compatibili con il modo in cui i diversi team sviluppano le applicazioni. I team che pianificano cambiamenti significativi nell'architettura del proprio software consultano questo gruppo per evitare impatti negativi sul ciclo di vita dello sviluppo o sui controlli di sicurezza stabiliti.
