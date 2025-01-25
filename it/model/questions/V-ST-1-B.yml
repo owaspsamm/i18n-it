@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Revisionate manualmente la qualità della sicurezza dei componenti ad alto rischio?
+#Qualifying Criterion
+quality:
+  - Esistono criteri per aiutare il revisore a concentrarsi sulle componenti ad alto rischio
+  - Personale qualificato svolge le revisioni in base a linee guida ben documentate
+  - Affrontate i risultati in conformità con la politica di gestione dei difetti dell'organizzazione
