@@ -1,0 +1,7 @@
+#Text of the question presented to the user
+text: Proteggete e gestite le informazioni in conformità ai requisiti di protezione per i dati archiviati e trattati su ogni applicazione?
+#Qualifying Criteria
+quality:
+  - Conoscete i dati elaborati e memorizzati da ogni applicazione
+  - Conoscete il tipo e il livello di sensibilità di ogni dato identificato
+  - 
