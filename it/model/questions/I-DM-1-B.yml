@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Utilizzate metriche di base sui difetti di sicurezza registrati per svolgere attività di miglioramento rapide?
+#Qualifying Criterion
+quality:
+  - Avete analizzato le metriche registrate almeno una volta nell'ultimo anno
+  - Almeno le informazioni di base su questa iniziativa sono registrate e disponibili
+  - Hai identificato e realizzato almeno un'attività di miglioramento rapido basata sui dati
