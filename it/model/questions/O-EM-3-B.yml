@@ -1,0 +1,7 @@
+#Text of the question presented to the user
+text: Valuti regolarmente i componenti e rivedi lo stato dei livelli di patch?
+#Qualifying Criteria
+quality:
+  - Aggiornate l'elenco con componenti e relative versioni
+  - Identificate e aggiornate gli aggiornamenti mancanti in base al SLA esistente
+  - 
