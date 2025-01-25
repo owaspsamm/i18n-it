@@ -1,0 +1,6 @@
+#One-sentence description of the criterion
+text: Integrate i test di sicurezza automatizzati nel processo di build e deployment?
+#Qualifying Criterion
+quality:
+  - 
+  - Accorpate i risultati dei test in una dashboard centrale e li integrate nella gestione dei difetti
