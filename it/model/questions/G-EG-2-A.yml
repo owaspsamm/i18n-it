@@ -1,0 +1,9 @@
+#One-sentence description of the criterium
+text: La formazione è personalizzata per ruoli individuali come sviluppatori, tester o security champion?
+#Qualifying Criterion
+quality:
+  - 
+  - La formazione è obbligatoria per tutti i dipendenti e gli appaltatori
+  - La formazione include il contributo degli esperti interni (SME) e dei partecipanti alla formazione
+  - La formazione include dimostrazioni di strumenti e tecniche sviluppati internamente
+  - Utilizzate i feedback per migliorare e rendere la formazione futura più pertinente
