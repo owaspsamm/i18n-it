@@ -1,0 +1,6 @@
+#One-sentence description of the criterium
+text: Verificate le applicazioni per il corretto funzionamento dei controlli di sicurezza standard?
+#Qualifying Criterion
+quality:
+  - 
+  - I test di sicurezza vengono eseguiti ogni volta che l'applicazione modifica l'uso dei controlli
