@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Avete una solida conoscenza delle dipendenze su cui fate affidamento?
+#Qualifying Criterion
+quality:
+  - Hai un elenco aggiornato dei materiali (BOM) per ogni applicazione
+  - È possibile scoprire rapidamente quali applicazioni sono interessate da un particolare CVE
+  - Hai analizzato, affrontato e documentato le vulnerabilità delle dipendenze almeno una volta negli ultimi tre mesi
