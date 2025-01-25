@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Definisci, strutturi e includi la prioritizzazione negli artefatti del processo di raccolta dei requisiti di sicurezza?
+#Qualifying Criterion
+quality:
+  - I requisiti di sicurezza tengono conto delle conoscenze specifiche del dominio quando si applicano politiche e linee guida allo sviluppo dei prodotti
+  - Gli esperti del dominio sono coinvolti nel processo di definizione dei requisiti
+  - Hai una notazione strutturata concordata per i requisiti di sicurezza
+  - I team di sviluppo dispongono di un security champion dedicato alla revisione dei requisiti e dei risultati relativi alla sicurezza
