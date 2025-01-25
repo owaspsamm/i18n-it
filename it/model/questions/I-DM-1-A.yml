@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Tracciate tutti i difetti di sicurezza noti in posizioni accessibili?
+#Qualifying Criterion
+quality:
+  - È possibile ottenere facilmente una panoramica di tutti i difetti di sicurezza che influenzano un'applicazione
+  - Avete almeno uno schema di classificazione rudimentale in atto
+  - Il processo include una strategia per la gestione di falsi positivi e voci duplicate
+  - Il sistema di gestione dei difetti comprende difetti provenienti da varie fonti e attività
