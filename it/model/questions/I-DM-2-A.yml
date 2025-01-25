@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Tenete una panoramica dello stato dei difetti di sicurezza in tutta l'organizzazione?
+#Qualifying Criterion
+quality:
+  - Un unico schema di severità viene applicato a tutti i difetti in tutta l'organizzazione
+  - Il regime comprende gli SLA per la correzione di particolari classi di gravità
+  - Segnalate regolarmente la conformità agli SLA
