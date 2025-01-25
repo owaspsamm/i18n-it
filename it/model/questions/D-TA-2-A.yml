@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Utilizzi profili di rischio applicativo centralizzati e quantificati per valutare il rischio aziendale?
+#Qualifying Criterion
+quality:
+  - Il profilo di rischio dell'applicazione è in linea con lo standard di rischio dell'organizzazione
+  - Il profilo di rischio dell'applicazione copre l'impatto sulla sicurezza e sulla privacy
+  - Verifichi la qualità del profilo di rischio manualmente e/o automaticamente
+  - I profili di rischio delle applicazioni sono archiviati in un inventario centrale
