@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Valutate la qualità della sicurezza delle tecnologie importanti utilizzate per lo sviluppo?
+#Qualifying Criterion
+quality:
+  - 
+  - Indetifichi e monitori i rischi tecnologici
+  - Ti assicuri che i rischi per queste tecnologie siano in linea con la baseline organizzativa
