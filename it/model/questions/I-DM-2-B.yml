@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Migliorate il vostro programma di sicurezza utilizzando metriche standardizzate?
+#Qualifying Criterion
+quality:
+  - Documentate le metriche per la classificazione e la categorizzazione dei difetti e li mantenete aggiornati
+  - La direzione esecutiva riceve regolarmente informazioni sui difetti e ha agito su di esse nell'ultimo anno
+  - Condividere regolarmente i dettagli tecnici sui difetti di sicurezza tra i team
