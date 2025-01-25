@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Limitate l'accesso ai segreti dell'applicazione in base al principio del privilegio minimo?
+#Qualifying Criterion
+quality:
+  - Conservate segreti di produzione in un luogo protetto
+  - Gli sviluppatori non hanno accesso ai segreti di produzione
+  - I segreti di produzione non sono disponibili in ambienti non di produzione
