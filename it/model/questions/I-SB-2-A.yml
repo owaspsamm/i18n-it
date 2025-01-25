@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Il processo di build è completamente automatizzato?
+#Qualifying Criterion
+quality:
+  - Il processo di costruzione stesso non richiede alcuna interazione umana
+  - I tuoi strumenti di costruzione sono configurati in modo sicuro secondo le migliori pratiche e guide del fornitore
+  - 
