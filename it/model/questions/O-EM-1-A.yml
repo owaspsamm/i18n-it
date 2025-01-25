@@ -1,0 +1,6 @@
+#Text of the question presented to the user
+text: Configurate in modo sicuro le configurazioni per i componenti chiave dei vostri stack tecnologici?
+#Qualifying Criteria
+quality:
+  - Avete identificato i componenti chiave in ogni stack tecnologico utilizzato
+  - Avete definito uno standard di configurazione per ogni componente chiave
