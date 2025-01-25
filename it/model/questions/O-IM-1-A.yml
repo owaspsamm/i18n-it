@@ -1,0 +1,7 @@
+#Text of the question presented to the user
+text: Analizzate periodicamente i log per identificare incidenti di sicurezza?
+#Qualifying Criteria
+quality:
+  - Hai un punto di contatto per la gestione degli incidenti di sicurezza
+  - Analizzi i dati in conformità con i periodi di conservazione dei log
+  - La frequenza di queste analisi è in linea con la criticità delle vostre applicazioni
