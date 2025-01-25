@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Effettuare controlli di sicurezza automatizzati nei processi di build?
+#Qualifying Criterion
+quality:
+  - Le build falliscono se l'applicazione non soddisfa una baseline di sicurezza predefinita.
+  - Avete una soglia di gravità massima accettata per le vulnerabilità
+  - Registrate avvisi e le problematiche in un sistema centralizzato
+  - Selezionate e configurate gli strumenti per valutare ogni applicazione in base ai propri requisiti di sicurezza almeno una volta all'anno
