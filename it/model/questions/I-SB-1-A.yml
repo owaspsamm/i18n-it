@@ -1,0 +1,9 @@
+#One-sentence description of the criterium
+text: Il vostro intero processo di build è descritto formalmente?
+#Qualifying Criterion
+quality:
+  - Hai abbastanza informazioni per ricreare i processi di build
+  - La documentazione di build è aggiornata
+  - La documentazione di build è memorizzata in una posizione accessibile
+  - I checksum degli artefatti prodotti vengono creati durante la build per supportarne la verifica successiva
+  - Configurate in modo sicuro gli strumenti utilizzati nel processo di build
