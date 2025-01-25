@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Identificate e gestite i difetti di progettazione architetturale attraverso il threat modeling?
+#Qualifying Criterion
+quality:
+  - Esegui il threat modeling per le applicazioni ad alto rischio
+  - Utilizzi checklist di minacce semplici, come STRIDE
+  - Conservi i risultati del threat model per un utilizzo futuro
