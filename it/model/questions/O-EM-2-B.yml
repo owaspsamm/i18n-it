@@ -1,0 +1,8 @@
+#Text of the question presented to the user
+text: Seguite un processo consolidato per l'aggiornamento dei componenti dei vostri stack tecnologici?
+#Qualifying Criteria
+quality:
+  - Il processo include informazioni sul fornitore per patch di terze parti
+  - 
+    - e comprende adeguate misure di mitigazione dei rischi
+  - Il processo include indicazioni per la prioritizzazione degli aggiornamenti dei componenti
