@@ -1,0 +1,6 @@
+#Text of the question presented to the user
+text: Revisionate e aggiornate regolarmente il processo di rilevamento degli incidenti?
+#Qualifying Criteria
+quality:
+  - Effettuate revisioni almeno annualmente
+  - Aggiornate la lista di controllo dei potenziali attacchi con dati esterni e interni
