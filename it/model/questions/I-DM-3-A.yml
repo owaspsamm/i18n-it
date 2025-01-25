@@ -1,0 +1,6 @@
+#One-sentence description of the criterium
+text: Applicate gli SLA per correggere i difetti di sicurezza?
+#Qualifying Criterion
+quality:
+  - Avvisate automaticamente in caso di violazioni SLA e trasferite i rispettivi difetti al processo di gestione del rischio
+  - Integrate strumenti adeguati (ad esempio monitoraggio, build, deployment) con il sistema di gestione dei difetti
