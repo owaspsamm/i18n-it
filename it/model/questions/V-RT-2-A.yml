@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Scrivete ed eseguite costantemente script di test per verificare la corretta implementazione dei requisiti di sicurezza?
+#Qualifying Criterion
+quality:
+  - Eseguite test per ogni applicazione e verificate che la funzionalità di sicurezza sia quella attesa
+  - Registrate i risultati dei test come una condizione di successo o fallimento
+  - I test utilizzano un framework standardizzato o un DSL (Domain Specific Language)
