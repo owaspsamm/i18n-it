@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: I team di progetto specificano i requisiti di sicurezza durante lo sviluppo?
+#Qualifying Criterion
+quality:
+  - I team derivano i requisiti di sicurezza dai requisiti funzionali e dalle esigenze dei clienti o dell'organizzazione.
+  - I requisiti di sicurezza sono specifici, misurabili e ragionevoli
+  - I requisiti di sicurezza sono in linea con la base organizzativa
