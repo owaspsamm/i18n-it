@@ -1,0 +1,9 @@
+#One-sentence description of the criterium
+text: Gestite i rischi derivanti da dipendenze di terze parti mediante un processo formale?
+#Qualifying Criterion
+quality:
+  - Mantenete un elenco di dipendenze approvate che soddisfano i criteri predefiniti
+  - Valutate automaticamente le dipendenze per i nuove CVE e avvisate il personale responsabile
+  - Rilevate automaticamente e avvisate sui cambiamenti di licenza con possibile impatto sull'uso legale dell'applicazione
+  - Tracciare e avvisare l'uso di dipendenze non mantenute
+  - Rilevate e rimuovete in modo affidabile le dipendenze inutili dal software
