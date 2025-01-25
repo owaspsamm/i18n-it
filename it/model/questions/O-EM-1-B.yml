@@ -1,0 +1,6 @@
+#Text of the question presented to the user
+text: Identificate e patchate i componenti vulnerabili?
+#Qualifying Criteria
+quality:
+  - Avete un elenco aggiornato di componenti, comprese le informazioni sulla versione
+  - Controllate regolarmente le fonti pubbliche per le vulnerabilità relative ai vostri componenti
