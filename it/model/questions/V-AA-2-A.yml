@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Revisionate regolarmente i meccanismi di sicurezza della vostra architettura?
+#Qualifying Criterion
+quality:
+  - Verificate la conformità ai requisiti interni ed esterni
+  - Esaminate sistematicamente ogni interfaccia del sistema
+  - Utilizzate un metodo di revisione formale e una convalida strutturata
+  - Registrate i meccanismi di sicurezza mancanti come difetti
