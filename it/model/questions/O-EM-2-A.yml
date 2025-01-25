@@ -1,0 +1,8 @@
+#Text of the question presented to the user
+text: Avete delle baseline di configurazione sicura per i vostri componenti?
+#Qualifying Criteria
+quality:
+  - Avete assegnato un proprietario per ogni baseline
+  - Il proprietario tiene aggiornate le baseline ad esso assegnate
+  - Conservi le baseline in una posizione accessibile
+  - Formate i dipendenti responsabili delle configurazioni su queste baseline
