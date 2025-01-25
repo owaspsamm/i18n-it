@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Svolgete test di penetrazione per le vostre applicazioni a intervalli regolari?
+#Qualifying Criterion
+quality:
+  - Il penetration testing utilizza casi di test di sicurezza specifici per l'applicazione per valutare la sicurezza
+  - Il test di penetrazione identifica problemi applicativi sia tecnici che logici
+  - 
+  - Il test di penetrazione viene svolto da personale qualificato
