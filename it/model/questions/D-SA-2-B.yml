@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Hai un elenco di tecnologie consigliate per l'organizzazione?
+#Qualifying Criterion
+quality:
+  - L'elenco si basa sulle tecnologie utilizzate nel portafoglio software
+  - Gli architetti leader e gli sviluppatori esaminano e approvano l'elenco
+  - La lista viene condivisa con tutta l'organizzazione
+  - L'elenco viene revisionato e aggiornato almeno annualmente
