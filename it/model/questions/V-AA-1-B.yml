@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Revisionate l'architettura dell'applicazione per mitigare le minacce più comune in modo ad hoc?
+#Qualifying Criterion
+quality:
+  - Avete concordato un modello generale dell'architettura software
+  - La revisione viene svolta da personale esperto in sicurezza
+  - Prendete in considerazione diversi tipi di minacce, incluse quelle interne e legate ai dati.
