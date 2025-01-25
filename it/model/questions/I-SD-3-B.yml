@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Praticate una corretta gestione del ciclo di vita per i segreti dell'applicazione?
+#Qualifying Criterion
+quality:
+  - Generate e sincronizzate i segreti utilizzando una soluzione approvate
+  - I segreti sono diversi tra le diverse istanze dell'applicazione
+  - I segreti vengono aggiornati regolarmente
