@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Interrompete la build del software se sono presenti vulnerabilità nelle dipendenze?
+#Qualifying Criterion
+quality:
+  - Il vostro sistema di build è connesso a un sistema per monitorare il rischio di dipendenza di terze parti, causando il fallimento della build, a meno che la vulnerabilità sia valutata come un falso positivo o il rischio venga esplicitamente accettato
+  - Scansionate le dipendenze utilizzando uno strumento di analisi statica
+  - Segnalate i risultati agli autori delle dipendenze utilizzando un processo ben stabilito di divulgazione responsabile
+  - L'utilizzo di una nuova dipendenza non valutata per i rischi di sicurezza provoca il fallimento della build
