@@ -1,0 +1,9 @@
+#Text of the question presented to the user
+text: Seguite un processo documentato per il rilevamento degli incidenti?
+#Qualifying Criteria
+quality:
+  - Il processo ha un responsabile dedicato
+  - Conservate la documentazione del processo in una posizione accessibile
+  - Il processo considera un percorso di escalation per ulteriori analisi
+  - Formate i dipendenti responsabili del rilevamento degli incidenti su questo processo
+  - Avete una lista di controllo dei potenziali attacchi per semplificare il rilevamento di incidenti
