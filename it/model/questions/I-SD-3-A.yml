@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Convalidate costantemente l'integrità degli artefatti distribuiti?
+#Qualifying Criterion
+quality:
+  - È possibile prevenire o svolgere un rollback se si rileva una violazione di integrità
+  - La verifica viene eseguita contro le firme create durante la build
+  - 
