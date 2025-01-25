@@ -1,0 +1,6 @@
+#Text of the question presented to the user
+text: Identificate e rimuovete sistemi, applicazioni, dipendenze delle applicazioni o servizi che non sono più utilizzati, hanno raggiunto l'end of life o non sono più attivamente sviluppati o supportati?
+#Qualifying Criteria
+quality:
+  - Non si utilizzano applicazioni o dipendenze non supportate
+  - 
