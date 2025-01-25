@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Valutate regolarmente l'efficacia delle metriche di sicurezza in modo che il loro input contribuisca a guidare la vostra strategia di sicurezza?
+#Qualifying Criterion
+quality:
+  - Avete analizzato l'efficacia delle metriche di sicurezza almeno una volta nell'ultimo anno
+  - Dove possibile, verificate automaticamente la correttezza dei dati
+  - Le metriche sono aggregate con altre fonti come l'intelligence sulle minacce o la gestione degli incidenti.
+  - Hai derivato almeno un'attività strategica dalle metriche nell'ultimo anno
