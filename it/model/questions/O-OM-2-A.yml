@@ -1,0 +1,8 @@
+#Text of the question presented to the user
+text: Mantenete un catalogo dei dati, inclusi tipi, livelli di sensibilità, e luoghi di elaborazione e archiviazione?
+#Qualifying Criteria
+quality:
+  - Il catalogo dei dati è memorizzato in una posizione accessibile
+  - Sapete quali elementi di dati sono soggetti a regolamentazioni specifiche
+  - Avete dei controlli per la protezione e la conservazione dei dati per tutta la sua durata
+  - 
