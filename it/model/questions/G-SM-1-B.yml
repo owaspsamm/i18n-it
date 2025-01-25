@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Utilizzate metriche per misurare l'efficacia e l'efficienza del programma di sicurezza in tutte le applicazioni?
+#Qualifying Criterion
+quality:
+  - 
+  - Le metriche includono misure degli sforzi, dei risultati e delle categorie di misurazione dell'ambiente
+  - 
+  - I team di sicurezza e sviluppo delle applicazioni pubblicano metriche
