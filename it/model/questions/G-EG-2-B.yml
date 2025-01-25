@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: L'organizzazione ha un Secure Software Center of Excellence (SSCE)?
+#Qualifying Criterion
+quality:
+  - 
+  - L'SSCE (Security Software Competence Center) ha una missione che definisce il suo ruolo all'interno dell'organizzazione.
+  - La SSCE pubblica gli standard SDLC e le linee guida relative alla sicurezza delle applicazioni
+  - I product champion sono responsabili della promozione dell'uso di specifici strumenti di sicurezza
