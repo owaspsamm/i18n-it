@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Iniettate i segreti di produzione nei file di configurazione durante il deployment?
+#Qualifying Criterion
+quality:
+  - I file del codice sorgente non contengono più segreti attivi dell'applicazione
+  - In circostanze normali, nessun essere umano accede ai segreti durante le procedure di deployment
+  - Si registra e si avvisa quando viene tentato un accesso anomalo ai segreti
