@@ -1,0 +1,8 @@
+#Text of the question presented to the user
+text: Utilizzate un processo ripetibile per la gestione degli incidenti?
+#Qualifying Criteria
+quality:
+  - Hai una classificazione degli incidenti concordata
+  - Il processo prevede un'analisi delle cause principali (Root Cause Analysis) per gli incidenti di alta gravità
+  - I dipendenti responsabili della risposta agli incidenti sono formati su questo processo
+  - Sono disponibili strumenti di analisi forense
