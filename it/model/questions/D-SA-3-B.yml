@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Rendi obbligatorio l'uso delle tecnologie raccomandate all'interno dell'organizzazione?
+#Qualifying Criterion
+quality:
+  - Monitori regolarmente le applicazioni per il corretto utilizzo delle tecnologie consigliate
+  - Risolvi le violazioni dell'elenco in conformità alle politiche organizzative.
+  - Si interviene se il numero di violazioni non rientra negli obiettivi annuali
