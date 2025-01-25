@@ -1,0 +1,9 @@
+#One-sentence description of the criterium
+text: I fornitori sono allineati con i controlli di sicurezza standard e con gli strumenti e i processi di sviluppo software utilizzati dall'organizzazione?
+#Qualifying Criterion
+quality:
+  - 
+    - "Gestione e gestione degli incidenti che si allineano a quelle utilizzate nella tua organizzazione\n"
+  - 
+  - 
+    - come l'analisi della composizione del software e i test di penetrazione indipendenti
