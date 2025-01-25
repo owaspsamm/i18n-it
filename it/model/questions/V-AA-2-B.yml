@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Valutate regolarmente le minacce alla vostra architettura?
+#Qualifying Criterion
+quality:
+  - Esaminate sistematicamente ogni minaccia identificata nel Threat Assessment
+  - L'esercizio di revisione viene condotto da personale esperto
+  - Identificate caratteristiche di mitigazione a livello di progettazione per ogni minaccia individuata
+  - Registrate minacce non gestite come difetti
