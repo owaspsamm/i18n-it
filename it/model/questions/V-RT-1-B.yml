@@ -1,0 +1,6 @@
+#One-sentence description of the criterium
+text: Si testano le applicazioni utilizzando tecniche di randomizzazione o fuzzing?
+#Qualifying Criterion
+quality:
+  - I test coprono la maggior parte o tutti i principali parametri di input dell'applicazione
+  - 
