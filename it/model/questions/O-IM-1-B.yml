@@ -1,0 +1,6 @@
+#Text of the question presented to the user
+text: Rispondete agli incidenti rilevati?
+#Qualifying Criteria
+quality:
+  - Avete una persona o un ruolo definito per la gestione degli incidenti
+  - Documentate gli incidenti di sicurezza
