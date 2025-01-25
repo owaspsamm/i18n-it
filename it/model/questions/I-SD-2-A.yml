@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: I processi di deployment sono automatizzati e utilizzano controlli di sicurezza?
+#Qualifying Criterion
+quality:
+  - I processi di deployment sono automatizzati in tutte le fasi
+  - Il deployment comprende procedure automatizzate di test di sicurezza
+  - Avvisate il personale responsabile delle vulnerabilità identificate
+  - Conservate e rendete disponibili i log relativi ai precedenti deploy per un periodo di tempo definito
