@@ -1,0 +1,7 @@
+#Text of the question presented to the user
+text: Valutate regolarmente lo stato del ciclo di vita e lo stato di supporto di ogni risorsa software e componente infrastrutturale sottostante e stimate il loro end of life?
+#Qualifying Criteria
+quality:
+  - Il processo di gestione di end of life è concordato
+  - 
+  - Si revisiona il processo almeno annualmente
