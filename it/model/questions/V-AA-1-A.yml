@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Revisionate l'architettura dell'applicazione in base agli obiettivi di sicurezza principali in modo ad hoc?
+#Qualifying Criterion
+quality:
+  - Avete concordato un modello generale dell'architettura software
+  - Nel modello architetturale si includono componenti, interfacce e integrazioni 
+  - Verificate la corretta implementazione dei meccanismi di sicurezza generali
+  - Registrate i controlli di sicurezza mancanti come difetti
