@@ -1,0 +1,9 @@
+#One-sentence description of the criterium
+text: Utilizzare un processo di deployment ripetibile?
+#Qualifying Criterion
+quality:
+  - Hai abbastanza informazioni per ricreare i processi di build
+  - La documentazione di build è aggiornata
+  - La documentazione del deployment è accessibile agli stakeholder interessati
+  - Vi assicurate che solo un ben preciso personale qualificato possa attivare una distribuzione
+  - Configurate in modo sicuro gli strumenti utilizzati nel processo di build
