@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Create casi di abuso dai requisiti funzionali e li usate per guidare i test di sicurezza?
+#Qualifying Criterion
+quality:
+  - Le funzionalità di business più importanti hanno corrispondenti casi di abuso
+  - 
+  - Registrate le debolezze identificate come requisiti di sicurezza
