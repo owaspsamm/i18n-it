@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Aggiornate regolarmente le vostre architetture di riferimento sulla base dei risultati della valutazione dell'architettura?
+#Qualifying Criterion
+quality:
+  - Valutate le vostre architetture in modo standardizzato e documentato
+  - Utilizzate le problematiche più frequenti per avviare una revisione delle architetture di riferimento
+  - Revisionate indipendentemente la qualità delle valutazioni dell'architettura in modo ad hoc.
+  - Utilizzate gli aggiornamenti delle architetture di riferimento per avviare revisioni delle soluzioni condivise, in base al rischio.
