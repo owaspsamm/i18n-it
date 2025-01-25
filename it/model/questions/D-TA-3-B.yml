@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Rivedi e aggiorni regolarmente i profili di rischio delle tue applicazioni?
+#Qualifying Criterion
+quality:
+  - La metodologia del modello di minaccia prende in considerazione il feedback storico per il miglioramento
+  - Rivedete regolarmente (ad esempio, ogni anno) i modelli di minaccia esistenti per verificare che non siano emerse nuove minacce rilevanti per le vostre applicazioni
+  - Automatizzate parti del processo di modellazione delle minacce con strumenti di modellazione delle minacce
