@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Utilizzi un framework standard di requisiti per semplificare la raccolta dei requisiti di sicurezza?
+#Qualifying Criterion
+quality:
+  - Un framework per i requisiti di sicurezza è disponibile per i team di progetto
+  - Il framework è categorizzato in requisiti comuni e requisiti basati su standard
+  - 
+  - Il framework è adattabile a requisiti specifici del business
