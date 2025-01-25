@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Classifichi le applicazioni in base al rischio aziendale utilizzando un insieme semplice e predefinito di domande
+#Qualifying Criterion
+quality:
+  - Esiste una classificazione del rischio concordata
+  - Il team dell'applicazione comprende la classificazione del rischio
+  - 
+  - L'organizzazione dispone di un inventario delle applicazioni incluse nell'ambito
