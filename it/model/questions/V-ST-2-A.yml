@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: Personalizzate gli strumenti di sicurezza automatizzati per le vostre applicazioni e stack tecnologici?
+#Qualifying Criterion
+quality:
+  - Calibrate e selezionate le caratteristiche degli strumenti che si adattano alla vostra applicazione o stack tecnologico
+  - Minimizzate i falsi positivi silenziando o filtrando automaticamente avvisi irrilevanti o problematiche a bassa probabilità di accadimento
+  - Minimizzate i falsi negativi sfruttando estensioni degli strumenti o linguaggi specifici (DSL) per personalizzare gli strumenti in base agli standard della vostra applicazione o organizzazione
