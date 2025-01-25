@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: I fornitori soddisfano le responsabilità di sicurezza e le misure di qualità degli accordi sui livelli di servizio definiti dall'organizzazione?
+#Qualifying Criterion
+quality:
+  - Discuti i requisiti di sicurezza con il fornitore durante la creazione degli accordi con i fornitori
+  - Gli accordi con i fornitori forniscono linee guida specifiche sulla risoluzione dei difetti di sicurezza entro un periodo di tempo concordato
+  - L'organizzazione dispone di un modello di accordo che definisce responsabilità e livelli di servizio per i principali processi di sicurezza dei fornitori
+  - Misuri gli indicatori chiave di performance (KPI)
