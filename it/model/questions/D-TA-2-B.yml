@@ -1,0 +1,8 @@
+#One-sentence description of the criterium
+text: Utilizzate una metodologia standard allineata ai livelli di rischio delle applicazioni?
+#Qualifying Criterion
+quality:
+  - Formi i tuoi architetti, security champion e altri stakeholder su come effettuare il threat modeling
+  - La tua metodologia di threat modeling include almeno la creazione di diagrammi, l'identificazione delle minacce, le mitigazioni dei difetti di progettazione e come validare gli artefatti del threat model
+  - I cambiamenti nell'applicazione o nel contesto aziendale innescano una revisione dei modelli di minaccia pertinenti
+  - Raccogli gli artefatti del threat modeling con strumenti utilizzati dai tuoi team applicativi
