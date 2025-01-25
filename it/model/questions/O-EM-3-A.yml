@@ -1,0 +1,8 @@
+#Text of the question presented to the user
+text: Monitorate e applicate la conformità alle baseline di configurazione sicura?
+#Qualifying Criteria
+quality:
+  - Effettuate controlli di conformità regolarmente, preferibilmente utilizzando l'automazione
+  - I risultati dei controlli di conformità vengono memorizzati in un luogo accessibile
+  - Seguite un processo consolidato per affrontare le non conformità segnalate
+  - Revisionate ogni baseline almeno annualmente, e le aggiornate quando necessario
