@@ -1,0 +1,9 @@
+#One-sentence description of the criterium
+text: Avete un piano strategico per la sicurezza delle applicazioni e lo utilizzate per prendere decisioni?
+#Qualifying Criterion
+quality:
+  - Il piano riflette le priorità aziendali dell'organizzazione e la propensione al rischio
+  - Il piano include traguardi misurabili e un budget
+  - Il piano è coerente con i driver aziendali e i rischi dell'organizzazione
+  - Il piano definisce una roadmap per iniziative strategiche e tattiche
+  - Avete il supporto degli stakeholder, inclusi i team di sviluppo
