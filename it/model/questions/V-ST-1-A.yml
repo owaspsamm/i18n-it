@@ -1,0 +1,6 @@
+#One-sentence description of the criterium
+text: Scansionate le applicazioni con strumenti di test di sicurezza automatizzati?
+#Qualifying Criterion
+quality:
+  - Generate dinamicamente input per test di sicurezza utilizzando strumenti automatizzati
+  - 
